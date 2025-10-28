@@ -1,866 +1,643 @@
 [
   {
-    "id": "nicomachean_ethics",
-    "title": "Nicomachean Ethics",
-    "year": "-340",
-    "publication": "Nicomachean Ethics",
-    "icon": "🏛️",
-    "summary": "Aristotle's foundational work on ethics, exploring the nature of the good life, virtue, and human flourishing.",
-    "openingQuote": "Every art and every inquiry, and similarly every action and pursuit, is thought to aim at some good.",
-    "mainThemes": [
-      "Virtue Ethics",
-      "Eudaimonia",
-      "The Golden Mean",
-      "Practical Wisdom"
-    ],
-    "keyPoints": [
-      {
-        "title": "The Highest Good: Eudaimonia",
-        "content": "Aristotle argues that the ultimate human good is eudaimonia, often translated as 'happiness' or 'flourishing.' This is not mere pleasure but an active life lived in accordance with virtue and reason."
-      },
-      {
-        "title": "The Doctrine of the Mean",
-        "content": "Moral virtue is a mean state between two vices, one of excess and one of deficiency. Courage, for example, is the mean between cowardice and rashness."
-      },
-      {
-        "title": "Virtue as Habit",
-        "content": "We become just by performing just acts, brave by performing brave acts. Virtue is a settled disposition of the soul, acquired through practice and habit, not just theoretical knowledge."
-      },
-      {
-        "title": "Friendship and the Good Life",
-        "content": "Without friends, no one would choose to live. Aristotle analyzes three types of friendship: based on utility, pleasure, and the highest form, based on mutual recognition of virtue."
-      }
-    ],
-    "controversialAspects": [
-      "His defense of slavery as 'natural' is a major ethical flaw",
-      "The concept of the 'great-souled man' can be seen as elitist",
-      "The focus on male citizens excludes women and non-citizens from the ideal of flourishing"
-    ],
-    "relevanceToday": [
-      "Modern virtue ethics in philosophy",
-      "The psychology of habit formation",
-      "Discussions on happiness and well-being (Positive Psychology)"
-    ],
-    "closingThought": "\"The good for man is an activity of the soul in accordance with virtue, and if there are multiple virtues, in accordance with the best and most complete.\""
-  },
-  {
-    "id": "politics",
-    "title": "Politics",
-    "year": "-350",
-    "publication": "Politics",
-    "icon": "🤝",
-    "summary": "Aristotle's analysis of the polis (city-state), its constitution, citizenship, and the ideal form of government.",
-    "openingQuote": "Man is by nature a political animal.",
-    "mainThemes": [
-      "Political Community",
-      "Citizenship",
-      "Constitutions",
-      "The Common Good"
-    ],
-    "keyPoints": [
-      {
-        "title": "The Political Nature of Man",
-        "content": "Humans cannot achieve their full potential outside of the polis. The state is a natural institution that exists for the sake of the good life, not mere survival."
-      },
-      {
-        "title": "Classification of Governments",
-        "content": "He classifies constitutions based on who rules (one, few, many) and whether they rule for the common good. The good forms are monarchy, aristocracy, and polity; the corrupt are tyranny, oligarchy, and democracy."
-      },
-      {
-        "title": "The Ideal State and the Middle Class",
-        "content": "The most stable state is one with a strong, prosperous middle class, which avoids the extremes of wealth and poverty that lead to factional conflict."
-      },
-      {
-        "title": "The Role of Education",
-        "content": "Education must be a public concern, designed to cultivate the character of citizens to suit the constitution of their state."
-      }
-    ],
-    "controversialAspects": [
-      "His justification of slavery and the subordination of women is deeply problematic",
-      "His ideal state is exclusionary, based on a small citizen body",
-      "He was skeptical of democracy, which he saw as mob rule"
-    ],
-    "relevanceToday": [
-      "Debates on communitarianism vs. individualism",
-      "Discussions on civic education and citizenship",
-      "Analysis of political stability and the middle class"
-    ],
-    "closingThought": "\"A state exists for the sake of a good life, and not for life only.\""
-  },
-  {
-    "id": "metaphysics",
-    "title": "Metaphysics",
-    "year": "-350",
-    "publication": "Metaphysics",
-    "icon": "🔍",
-    "summary": "Aristotle's inquiry into 'first philosophy,' dealing with being, substance, cause, and the fundamental nature of reality.",
-    "openingQuote": "All men by nature desire to know.",
-    "mainThemes": [
-      "Being and Substance",
-      "The Four Causes",
-      "Potentiality and Actuality",
-      "The Unmoved Mover"
-    ],
-    "keyPoints": [
-      {
-        "title": "The Science of Being qua Being",
-        "content": "Metaphysics studies existence itself, not just aspects of it. The central question is: What is substance? What is it that truly 'is'?"
-      },
-      {
-        "title": "The Four Causes",
-        "content": "To understand a thing, we must know its four causes: 1) Material (what it's made of), 2) Formal (its essence or structure), 3) Efficient (what brought it about), and 4) Final (its purpose or end)."
-      },
-      {
-        "title": "Potentiality and Actuality",
-        "content": "All things are a mix of potentiality (what they can become) and actuality (what they currently are). Actuality is prior to potentiality, as it is the end for which potentiality exists."
-      },
-      {
-        "title": "The Prime Mover",
-        "content": "There must be an eternal, immaterial, purely actual substance that is the ultimate cause of all motion in the universe. This 'Unmoved Mover' causes motion not by pushing, but as a final cause, by being an object of desire and thought."
-      }
-    ],
-    "controversialAspects": [
-      "The highly abstract and complex nature of the text makes it notoriously difficult to interpret",
-      "The concept of the Unmoved Mover has been both influential and heavily debated in theology and philosophy"
-    ],
-    "relevanceToday": [
-      "Foundational for Western philosophy and theology",
-      "Influences debates on the nature of reality in philosophy of science",
-      "The concept of teleology (purpose in nature) is debated in biology"
-    ],
-    "closingThought": "\"The actuality of thought is life, and God is that actuality.\""
-  },
-  {
-    "id": "poetics",
-    "title": "Poetics",
-    "year": "-335",
-    "publication": "Poetics",
-    "icon": "🎭",
-    "summary": "Aristotle's analysis of poetry, particularly tragedy, defining its components and explaining its emotional and psychological impact.",
-    "openingQuote": "Epic poetry and Tragedy, Comedy also... are all, viewed as a whole, modes of imitation.",
-    "mainThemes": [
-      "Mimesis (Imitation)",
-      "Tragedy",
-      "Catharsis",
-      "Plot"
-    ],
-    "keyPoints": [
-      {
-        "title": "Art as Imitation (Mimesis)",
-        "content": "Poetry is an imitation of human action and life. This imitation is not a mere copy but a representation of universal truths, which is why it is 'more philosophical' than history."
-      },
-      {
-        "title": "The Elements of Tragedy",
-        "content": "The six formative elements of tragedy are: Plot, Character, Thought, Diction, Spectacle, and Song. Plot is the 'soul' of tragedy, the most important element."
-      },
-      {
-        "title": "The Tragic Hero and Hamartia",
-        "content": "The ideal tragic hero is a man who is neither perfectly virtuous nor entirely wicked, but who suffers a downfall due to a hamartia—a tragic error or flaw in judgment."
-      },
-      {
-        "title": "Catharsis",
-        "content": "The purpose of tragedy is to achieve a catharsis (purgation or purification) of the emotions of pity and fear through the audience's engagement with the dramatic events."
-      }
-    ],
-    "controversialAspects": [
-      "The exact meaning of 'catharsis' is one of the most debated concepts in literary theory",
-      "His strict rules for tragedy were seen as prescriptive by later Renaissance critics"
-    ],
-    "relevanceToday": [
-      "The foundation of Western literary criticism",
-      "Concepts of plot structure used in screenwriting and storytelling",
-      "Ongoing psychological studies on the effects of narrative and drama"
-    ],
-    "closingThought": "\"A tragedy is the imitation of an action that is serious and complete... through pity and fear effecting the proper purgation of these emotions.\""
-  },
-  {
-    "id": "rhetoric",
-    "title": "Rhetoric",
-    "year": "-350",
-    "publication": "Rhetoric",
-    "icon": "💬",
-    "summary": "Aristotle's systematic art of persuasion, analyzing the means of effective argument and communication in public life.",
-    "openingQuote": "Rhetoric is the counterpart of Dialectic.",
-    "mainThemes": [
-      "Persuasion",
-      "Ethos, Pathos, Logos",
-      "Enthymeme",
-      "Civic Discourse"
-    ],
-    "keyPoints": [
-      {
-        "title": "The Three Modes of Persuasion",
-        "content": "1) Ethos: The character and credibility of the speaker. 2) Pathos: Appealing to the emotions of the audience. 3) Logos: The logical argument itself."
-      },
-      {
-        "title": "The Enthymeme",
-        "content": "The core of rhetorical logic is the enthymeme, a rhetorical syllogism that often relies on a premise shared with the audience, making the argument more persuasive."
-      },
-      {
-        "title": "The Three Genres of Oratory",
-        "content": "1) Deliberative: Persuading about future action (political). 2) Forensic: Arguing about past events (legal). 3) Epideictic: Praising or blaming in the present (ceremonial)."
-      },
-      {
-        "title": "Rhetoric as a Neutral Tool",
-        "content": "Unlike Plato, who saw rhetoric as mere flattery, Aristotle treats it as a true art (techne) that can be used for good or ill, and is essential for civic life and discovering truth."
-      }
-    ],
-    "controversialAspects": [
-      "Some philosophers still view rhetoric as manipulative, rather than a search for truth",
-      "His systematization could be seen as teaching people how to argue for any position, regardless of its merit"
-    ],
-    "relevanceToday": [
-      "The foundation of public speaking, debate, and communication studies",
-      "Ethos, Pathos, Logos are fundamental concepts in marketing, advertising, and politics",
-      "Studies in law and legal argumentation"
-    ],
-    "closingThought": "\"Persuasion is achieved by the speaker's personal character when the speech is so spoken as to make us think him credible.\""
-  },
-  {
-    "id": "virtue_ethics",
-    "title": "Virtue Ethics Framework",
-    "year": "-340",
-    "publication": "Multiple Works",
-    "icon": "⭐",
-    "summary": "Aristotle's ethical system that focuses on character and virtue rather than rules or consequences.",
-    "openingQuote": "Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution.",
-    "mainThemes": [
-      "Character Development",
-      "Moral Virtue",
-      "Practical Wisdom",
-      "Habit Formation"
-    ],
-    "keyPoints": [
-      {
-        "title": "Virtue as Excellence of Character",
-        "content": "Virtue (aretē) means excellence in performing one's function. For humans, this means excellence in reasoning and living a rationally guided life."
-      },
-      {
-        "title": "The Role of Phronesis",
-        "content": "Practical wisdom (phronesis) is the intellectual virtue that enables us to discern the right course of action in particular situations. It's the bridge between knowing the good and doing the good."
-      },
-      {
-        "title": "The Importance of Community",
-        "content": "We become virtuous through proper upbringing in a good community. Virtue is social - we learn courage, justice, and generosity through interaction with others."
-      },
-      {
-        "title": "Virtue as Its Own Reward",
-        "content": "The virtuous person takes pleasure in doing virtuous acts. Virtue is not a means to happiness but constitutes happiness itself."
-      }
-    ],
-    "controversialAspects": [
-      "Critics argue it provides insufficient guidance for specific moral dilemmas",
-      "The emphasis on character can lead to moralistic judgment of persons rather than actions",
-      "It may be culturally specific to ancient Greek ideals"
-    ],
-    "relevanceToday": [
-      "Modern virtue ethics revival in moral philosophy",
-      "Character education programs",
-      "Professional ethics emphasizing integrity and character",
-      "Positive psychology's focus on strengths and virtues"
-    ],
-    "closingThought": "\"We are what we repeatedly do. Excellence, then, is not an act, but a habit.\""
-  },
-  {
-    "id": "four_causes",
-    "title": "The Four Causes",
-    "year": "-350",
-    "publication": "Physics & Metaphysics",
-    "icon": "🔎",
-    "summary": "Aristotle's comprehensive framework for explaining why things are the way they are, covering material, formal, efficient, and final causation.",
-    "openingQuote": "Knowledge is the object of our inquiry, and men do not think they know a thing till they have grasped the 'why' of it.",
-    "mainThemes": [
-      "Causation",
-      "Explanation",
-      "Teleology",
-      "Understanding"
-    ],
-    "keyPoints": [
-      {
-        "title": "Material Cause",
-        "content": "What something is made of - the bronze of a statue, the marble of a building, the biological matter of an organism."
-      },
-      {
-        "title": "Formal Cause",
-        "content": "The form, pattern, or essence of something - the design of the statue, the architectural plan, the genetic code of the organism."
-      },
-      {
-        "title": "Efficient Cause",
-        "content": "The agent that brings something about - the sculptor who makes the statue, the builder who constructs the house, the parents who generate the child."
-      },
-      {
-        "title": "Final Cause",
-        "content": "The purpose, end, or goal of something - the statue's function as art, the house's purpose as shelter, the acorn's telos to become an oak tree."
-      }
-    ],
-    "controversialAspects": [
-      "Final causation has been largely rejected in modern science",
-      "The framework can be seen as anthropomorphic - projecting human-like purposes onto nature",
-      "Some argue the four causes overlap or aren't clearly distinct"
-    ],
-    "relevanceToday": [
-      "Still used in philosophy of science for analyzing explanations",
-      "Useful in design thinking and engineering",
-      "Influential in biology debates about teleology and function",
-      "Helpful framework for historical and archaeological analysis"
-    ],
-    "closingThought": "\"Nature does nothing in vain.\""
-  },
-  {
-    "id": "golden_mean",
-    "title": "The Golden Mean",
-    "year": "-340",
-    "publication": "Nicomachean Ethics",
-    "icon": "⚖️",
-    "summary": "Aristotle's doctrine that moral virtue lies in finding the intermediate between excess and deficiency in emotions and actions.",
-    "openingQuote": "Virtue is a mean state between two vices, one of excess and the other of deficiency.",
-    "mainThemes": [
-      "Moderation",
-      "Balance",
-      "Moral Psychology",
-      "Practical Judgment"
-    ],
-    "keyPoints": [
-      {
-        "title": "Not Mathematical, But Relative",
-        "content": "The mean is not an arithmetic midpoint but relative to us - what's courageous for a seasoned soldier differs from what's courageous for a novice."
-      },
-      {
-        "title": "Examples of Virtues and Vices",
-        "content": "Courage (mean) between cowardice (deficiency) and rashness (excess). Generosity between stinginess and wastefulness. Proper pride between vanity and humility."
-      },
-      {
-        "title": "The Role of Practical Wisdom",
-        "content": "Finding the mean requires phronesis - the ability to judge what the right action is in particular circumstances. There's no algorithm; it's a matter of perception and experience."
-      },
-      {
-        "title": "Not for All Actions",
-        "content": "The doctrine applies to emotions and actions that admit of degrees. Some actions (like murder or adultery) are always wrong and don't have a mean."
-      }
-    ],
-    "controversialAspects": [
-      "Some virtues don't clearly fit the mean model (e.g., justice, truthfulness)",
-      "It can be interpreted as advocating mediocrity rather than excellence",
-      "The 'relative to us' qualification makes the theory potentially subjective"
-    ],
-    "relevanceToday": [
-      "Influence on moderation in various wisdom traditions",
-      "Applications in emotional intelligence and self-regulation",
-      "Useful in conflict resolution and mediation",
-      "Relevant to discussions of work-life balance"
-    ],
-    "closingThought": "\"Anybody can become angry—that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose, and in the right way—that is not easy.\""
-  },
-  {
-    "id": "soul_psychology",
-    "title": "On the Soul (De Anima)",
-    "year": "-350",
-    "publication": "On the Soul",
-    "icon": "🧠",
-    "summary": "Aristotle's investigation into the nature of the soul (psyche), which he defines as the form and actuality of a living body.",
-    "openingQuote": "Holding as we do that, while knowledge of any kind is a thing to be honored and prized, one kind of it may be more honorable and precious than another.",
-    "mainThemes": [
-      "Psyche",
-      "Hylomorphism",
-      "Faculties of the Soul",
-      "Perception and Intellect"
-    ],
-    "keyPoints": [
-      {
-        "title": "The Soul as Form of the Body",
-        "content": "The soul is the 'first actuality' of a natural body that has life potentially. It is not a separate substance trapped in the body (as Plato thought), but the form that organizes and animates the body. This is the doctrine of hylomorphism."
-      },
-      {
-        "title": "The Hierarchical Faculties",
-        "content": "The soul has different faculties: Nutritive (plants), Perceptive (animals), and Rational (humans). Each higher faculty includes the capacities of the lower ones."
-      },
-      {
-        "title": "Perception and the Active Intellect",
-        "content": "Perception is the reception of the form of an object without its matter. The mind has a passive intellect (which receives forms) and an active intellect (which makes them intelligible), the latter being immortal and divine."
-      }
-    ],
-    "controversialAspects": [
-      "The nature and immortality of the 'active intellect' is extremely obscure and has been interpreted in many ways",
-      "His view of the soul as inseparable from the body conflicted with Christian doctrines of an immortal soul"
-    ],
-    "relevanceToday": [
-      "Influential in philosophy of mind, especially debates on dualism vs. physicalism",
-      "Foundational for psychology and cognitive science",
-      "Discussions on consciousness and embodiment"
-    ],
-    "closingThought": "\"The soul is, in a way, all existing things; for existing things are either perceptible or thinkable.\""
-  },
-  {
-    "id": "scientific_method",
-    "title": "Scientific Demonstration",
-    "year": "-350",
-    "publication": "Posterior Analytics",
-    "icon": "🔬",
-    "summary": "Aristotle's theory of scientific knowledge and demonstration, explaining how we gain certain knowledge from first principles.",
-    "openingQuote": "All instruction given or received by way of argument proceeds from pre-existent knowledge.",
-    "mainThemes": [
-      "Scientific Knowledge",
-      "Demonstration",
-      "Syllogism",
-      "First Principles"
-    ],
-    "keyPoints": [
-      {
-        "title": "Scientific Knowledge (Episteme)",
-        "content": "We have scientific knowledge of a thing when we know its cause, that it is the cause of that thing, and that it cannot be otherwise. It is knowledge through demonstration."
-      },
-      {
-        "title": "The Structure of Demonstration",
-        "content": "A scientific demonstration is a syllogism that proceeds from premises that are true, primary, immediate, better known than the conclusion, and prior to it. The conclusion then becomes scientifically known."
-      },
-      {
-        "title": "First Principles",
-        "content": "All knowledge ultimately rests on indemonstrable first principles (archai), which are grasped by a faculty called nous (intellect or understanding)."
-      }
-    ],
-    "controversialAspects": [
-      "His model of perfect, deductive science was perhaps too rigid and doesn't perfectly fit modern empirical science",
-      "The nature of 'nous' and how we grasp first principles is unclear"
-    ],
-    "relevanceToday": [
-      "Foundational for philosophy of science and epistemology",
-      "Influenced the ideal of an axiomatic system, as seen in geometry"
-    ],
-    "closingThought": "\"We think we understand a thing simpliciter when we think we know of the cause that it is the cause of that thing.\""
-  },
-  {
-    "id": "logic_syllogism",
-    "title": "Syllogistic Logic",
-    "year": "-350",
-    "publication": "Prior Analytics",
-    "icon": "⚙️",
-    "summary": "Aristotle's invention of formal logic, presenting his system of the syllogism and deductive reasoning.",
-    "openingQuote": "We must first state what our inquiry is about and what it is concerned with.",
-    "mainThemes": [
-      "Syllogistic Logic",
-      "Deduction",
-      "Figures and Moods",
-      "Formal Reasoning"
-    ],
-    "keyPoints": [
-      {
-        "title": "The Invention of the Syllogism",
-        "content": "A syllogism is a discourse in which, certain things having been supposed, something different from the things supposed results of necessity because these things are so. It is the foundation of deductive logic."
-      },
-      {
-        "title": "The Three Figures",
-        "content": "Syllogisms are categorized into three figures based on the position of the middle term. He meticulously catalogs which forms are valid and which are invalid."
-      },
-      {
-        "title": "The Tool for Science",
-        "content": "The Prior Analytics provides the formal machinery (the syllogism) that is then applied in the Posterior Analytics to build scientific demonstrations."
-      }
-    ],
-    "controversialAspects": [
-      "Syllogistic logic was the dominant form of logic for over 2000 years, but has been largely superseded by modern predicate logic",
-      "It is limited in its ability to handle complex relational statements"
-    ],
-    "relevanceToday": [
-      "The historical foundation of logic as a formal discipline",
-      "Still taught as an introduction to logical structure and deductive reasoning"
-    ],
-    "closingThought": "\"A syllogism is discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.\""
-  },
-  {
-    "id": "friendship",
-    "title": "Theory of Friendship",
-    "year": "-340",
-    "publication": "Nicomachean Ethics",
-    "icon": "🤝",
-    "summary": "Aristotle's profound analysis of friendship as essential to human flourishing and the good life.",
-    "openingQuote": "Without friends no one would choose to live, though he had all other goods.",
-    "mainThemes": [
-      "Philia",
-      "Three Types of Friendship",
-      "Self-Knowledge",
-      "Social Nature"
-    ],
-    "keyPoints": [
-      {
-        "title": "Three Kinds of Friendship",
-        "content": "1) Friendship of utility: Based on mutual benefit. 2) Friendship of pleasure: Based on shared enjoyment. 3) Friendship of virtue: Based on mutual admiration of each other's good character."
-      },
-      {
-        "title": "The Highest Form",
-        "content": "Virtue friendship is perfect friendship - it is lasting, based on loving the other for who they are, and involves wishing good for the other's own sake."
-      },
-      {
-        "title": "The Friend as Another Self",
-        "content": "In true friendship, the friend becomes 'another self' - through friendship we come to know ourselves better and extend our concern beyond our own interests."
-      },
-      {
-        "title": "Political Dimension",
-        "content": "Friendship holds cities together, and lawgivers care more for it than for justice. A city is a community of friends."
-      }
-    ],
-    "controversialAspects": [
-      "His claim that we can only have a few true virtue friends seems overly restrictive",
-      "The hierarchy of friendships could be seen as elitist",
-      "His focus on friendship between equals excludes many meaningful relationships"
-    ],
-    "relevanceToday": [
-      "Psychology of relationships and social connection",
-      "Discussions about social capital and community",
-      "Philosophical discussions about love and relationship ethics",
-      "Studies on loneliness and social isolation"
-    ],
-    "closingThought": "\"The friend is another self.\""
-  },
-  {
-    "id": "political_animal",
-    "title": "Man as Political Animal",
-    "year": "-350",
-    "publication": "Politics",
-    "icon": "🏛️",
-    "summary": "Aristotle's famous doctrine that humans are fundamentally political beings who achieve their full potential only in community.",
-    "openingQuote": "Man is by nature a political animal.",
-    "mainThemes": [
-      "Human Nature",
-      "Political Community",
-      "Social Dependence",
-      "Common Good"
-    ],
-    "keyPoints": [
-      {
-        "title": "Beyond Mere Sociality",
-        "content": "Humans are not just social like bees or herd animals. We are political because we have speech (logos) that enables us to discuss justice, good and evil, and the common advantage."
-      },
-      {
-        "title": "The Self-Sufficient Polis",
-        "content": "The city-state (polis) is the complete, self-sufficient community that exists for the sake of the good life. The individual and household are incomplete without it."
-      },
-      {
-        "title": "Natural Hierarchy",
-        "content": "Some are naturally suited to rule, others to be ruled. The relationship of master and slave, husband and wife, parent and child are all natural and necessary for the household."
-      },
-      {
-        "title": "The Isolated Human",
-        "content": "He who is unable to live in society, or who has no need because he is self-sufficient, must be either a beast or a god."
-      }
-    ],
-    "controversialAspects": [
-      "His defense of natural slavery is morally unacceptable",
-      "The subordination of women in his political theory",
-      "His exclusion of laborers and artisans from full citizenship"
-    ],
-    "relevanceToday": [
-      "Communitarian critiques of liberal individualism",
-      "Discussions about citizenship and civic engagement",
-      "Debates about human nature and social dependence",
-      "Theories of deliberative democracy"
-    ],
-    "closingThought": "\"The city is prior in nature to the household and to the individual, for the whole must be prior to the part.\""
-  },
-  {
-    "id": "art_imitation",
-    "title": "Art as Imitation (Mimesis)",
-    "year": "-335",
-    "publication": "Poetics",
-    "icon": "🎨",
-    "summary": "Aristotle's theory that art imitates nature and represents universal truths rather than mere appearances.",
-    "openingQuote": "Epic poetry and Tragedy, Comedy also... are all, viewed as a whole, modes of imitation.",
-    "mainThemes": [
-      "Mimesis",
-      "Universal Truth",
-      "Catharsis",
-      "Representation"
-    ],
-    "keyPoints": [
-      {
-        "title": "Not Mere Copying",
-        "content": "Imitation (mimesis) is natural to humans and pleasurable. Art doesn't just copy particular things but represents universal patterns and possibilities."
-      },
-      {
-        "title": "More Philosophical Than History",
-        "content": "Poetry is more philosophical and serious than history because history relates what has happened, while poetry relates what may happen - the universal rather than the particular."
-      },
-      {
-        "title": "The Purpose of Tragedy",
-        "content": "Tragedy achieves catharsis - the purification or purgation of the emotions of pity and fear through their representation and arousal in a controlled context."
-      },
-      {
-        "title": "Unity of Action",
-        "content": "A good plot must have unity - it should represent one complete action with a beginning, middle, and end where each part follows necessarily or probably from what precedes it."
-      }
-    ],
-    "controversialAspects": [
-      "The exact meaning of 'catharsis' remains hotly debated",
-      "Some argue his rules for tragedy are too prescriptive",
-      "The theory has been criticized for being too intellectual and ignoring other functions of art"
-    ],
-    "relevanceToday": [
-      "Foundation of Western literary theory and criticism",
-      "Influence on narrative theory and storytelling",
-      "Discussions about the cognitive value of fiction",
-      "Debates about representation in art and media"
-    ],
-    "closingThought": "\"The aim of art is to represent not the outward appearance of things, but their inward significance.\""
-  },
-  {
-    "id": "education_citizens",
-    "title": "Education of Citizens",
-    "year": "-350",
-    "publication": "Politics",
+    "id": "analects",
+    "title": "The Analects (Lunyu)",
+    "year": "-479",
+    "publication": "The Analects",
     "icon": "📚",
-    "summary": "Aristotle's vision of education as a public responsibility essential for creating virtuous citizens and maintaining the state.",
-    "openingQuote": "No one will doubt that the legislator should direct his attention above all to the education of youth.",
+    "summary": "The foundational text of Confucianism, compiled by Confucius's disciples after his death, containing dialogues and sayings that shaped East Asian thought for millennia.",
+    "openingQuote": "Is it not a joy to have friends come from afar?",
     "mainThemes": [
-      "Public Education",
-      "Character Formation",
-      "Citizenship",
-      "Moral Habituation"
+      "Ren (Benevolence)",
+      "Li (Propriety)",
+      "Junzi (Gentleman)",
+      "Filial Piety"
     ],
     "keyPoints": [
       {
-        "title": "Education as Political",
-        "content": "Education should not be a private matter but a common public concern, since the stability of the state depends on citizens sharing the same values and character."
+        "title": "The Central Virtue of Ren",
+        "content": "Ren (仁) is the highest virtue in Confucian philosophy, often translated as benevolence, humaneness, or goodness. It encompasses compassion, empathy, and kindness towards others, forming the foundation for all other virtues and social harmony."
       },
       {
-        "title": "Habituation Before Reason",
-        "content": "Moral education begins with habituation - through practice and repetition, children develop good habits before they can understand the reasons for them."
+        "title": "Li: Proper Conduct and Ritual",
+        "content": "Li (禮) refers to proper conduct, rituals, and social norms that govern behavior. It includes etiquette, ceremonies, and appropriate actions in various social contexts, viewed as essential for maintaining social order and harmony."
       },
       {
-        "title": "Balanced Curriculum",
-        "content": "Education should include gymnastics for the body, music for character formation, and potentially reading, writing, and drawing for useful skills."
+        "title": "The Ideal of Junzi",
+        "content": "The junzi (君子) or 'gentleman' is the ideal person in Confucian thought, embodying moral virtues and serving as a role model. The junzi possesses wisdom, integrity, and commitment to self-improvement, contrasting with the xiaoren (small person) motivated by self-interest."
       },
       {
-        "title": "Education for Leisure",
-        "content": "We educate people for leisure as well as work, since the ability to use leisure well is essential for happiness and flourishing."
+        "title": "Learning and Self-Cultivation",
+        "content": "Confucius emphasized lifelong learning and self-cultivation. 'To study and not think is a waste. To think and not study is dangerous.' Education and moral development are essential for personal growth and societal improvement."
       }
     ],
     "controversialAspects": [
-      "His educational system was designed only for male citizens, excluding others",
-      "The heavy emphasis on music and gymnastics seems limited by modern standards",
-      "His view that education should serve the state can be seen as indoctrination"
+      "The hierarchical nature of Confucian relationships has been criticized as supporting authoritarianism",
+      "Traditional gender roles and the subordination of women in Confucian society",
+      "The emphasis on conformity and tradition can be seen as stifling individual creativity and dissent"
     ],
     "relevanceToday": [
-      "Debates about character education in schools",
-      "Discussions about the purpose of public education",
-      "Questions about education for citizenship",
-      "The role of arts in education"
+      "Influence on East Asian educational systems and work ethics",
+      "Modern discussions about virtue ethics and character education",
+      "Corporate governance and business ethics in East Asia",
+      "Family values and intergenerational relationships"
     ],
-    "closingThought": "\"The roots of education are bitter, but the fruit is sweet.\""
+    "closingThought": "\"The gentleman understands what is right; the petty person understands what is profitable.\""
   },
   {
-    "id": "natural_slave",
-    "title": "Theory of Natural Slavery",
-    "year": "-350",
-    "publication": "Politics",
-    "icon": "⛓️",
-    "summary": "Aristotle's controversial doctrine that some people are naturally suited to be slaves and others to be masters.",
-    "openingQuote": "That some should rule and others be ruled is not only necessary, but expedient.",
+    "id": "ren_benevolence",
+    "title": "Ren: The Philosophy of Benevolence",
+    "year": "-500",
+    "publication": "Multiple Works",
+    "icon": "❤️",
+    "summary": "Confucius's central concept of ren (仁), the highest virtue that encompasses love, compassion, and humaneness as the foundation of moral character.",
+    "openingQuote": "The man of wisdom is never of two minds; the man of benevolence never worries; the man of courage is never afraid.",
     "mainThemes": [
-      "Natural Hierarchy",
-      "Slavery",
-      "Rational Capacity",
-      "Property"
+      "Universal Love",
+      "Compassion",
+      "Moral Character",
+      "Human Relatedness"
     ],
     "keyPoints": [
       {
-        "title": "The Natural Slave",
-        "content": "A natural slave is one who participates in reason enough to apprehend it but not to possess it. They are living tools who belong entirely to their master."
+        "title": "The Etymology of Ren",
+        "content": "The character ren (仁) consists of 'person' (人) and 'two' (二), symbolizing the inherently relational nature of humanity. It suggests that one becomes fully human only through proper relationships with others."
       },
       {
-        "title": "Distinction from Conventional Slavery",
-        "content": "Aristotle distinguishes natural slavery (which he defends) from conventional slavery through war or force (which he criticizes as unjust)."
+        "title": "Ren as Universal Principle",
+        "content": "Ren extends beyond family to encompass all humanity. When asked what he would do if given governmental power, Confucius emphasized spreading benevolence to create a harmonious society where people care for one another."
       },
       {
-        "title": "Beneficial for Both",
-        "content": "He argues that the relationship is beneficial for both master and slave - the slave gains direction and purpose, while the master gains the means to live well."
+        "title": "The Golden Rule",
+        "content": "Confucius articulated an early version of the Golden Rule: 'Do not impose on others what you yourself do not desire.' This principle of reciprocity forms the practical application of ren in daily life."
       },
       {
-        "title": "Bodily Evidence",
-        "content": "He suggests that nature intends to make the bodies of free men and slaves different, with slaves strong for service and free men upright for political life."
+        "title": "Ren and Self-Cultivation",
+        "content": "Developing ren requires constant self-reflection and improvement. It involves conquering selfishness and extending one's natural love for family to broader circles of humanity, ultimately embracing all people with compassion."
       }
     ],
     "controversialAspects": [
-      "This is one of the most morally problematic aspects of Aristotle's thought",
-      "Used to justify slavery for centuries",
-      "Contradicts his own principle that no one is a slave by nature if they have virtue"
+      "Critics argue that Confucian benevolence can lead to paternalistic attitudes",
+      "The emphasis on harmony might suppress necessary conflict and social change",
+      "Some see ren as culturally specific rather than universally applicable"
     ],
     "relevanceToday": [
-      "Important case study in how even great thinkers can be blinded by cultural prejudices",
-      "Example of philosophy being used to justify oppression",
-      "Discussions about human equality and dignity",
-      "Historical context for understanding ancient societies"
+      "Foundation for modern discussions about empathy and emotional intelligence",
+      "Influence on corporate social responsibility and stakeholder capitalism",
+      "Relevance to global ethics and international cooperation",
+      "Applications in conflict resolution and restorative justice"
     ],
-    "closingThought": "\"The slave is a living tool and the tool a lifeless slave.\""
+    "closingThought": "\"If you would govern a state of a thousand chariots, you must pay strict attention to business, be true to your word, be economical in expenditure, and love the people.\""
   },
   {
-    "id": "contemplative_life",
-    "title": "The Contemplative Life",
-    "year": "-340",
-    "publication": "Nicomachean Ethics",
-    "icon": "✨",
-    "summary": "Aristotle's argument that the highest human happiness is found in the life of philosophical contemplation.",
-    "openingQuote": "If happiness is activity in accordance with virtue, it is reasonable that it should be in accordance with the highest virtue.",
+    "id": "li_propriety",
+    "title": "Li: Propriety and Ritual",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🎭",
+    "summary": "Confucius's teaching on li (禮), encompassing proper conduct, rituals, and social norms that maintain order and cultivate moral character.",
+    "openingQuote": "If language is not correct, then what is said is not what is meant; if what is said is not what is meant, then what must be done remains undone.",
     "mainThemes": [
-      "Theoretical Wisdom",
-      "Divine Element",
-      "Highest Happiness",
-      "Intellectual Virtue"
+      "Social Order",
+      "Ritual Practice",
+      "Proper Conduct",
+      "Cultural Transmission"
     ],
     "keyPoints": [
       {
-        "title": "The Highest Virtue",
-        "content": "The highest virtue is theoretical wisdom (sophia), which contemplates eternal truths and first principles. This is superior to practical wisdom (phronesis)."
+        "title": "Li as Social Glue",
+        "content": "Li provides the framework for social interaction, defining appropriate behavior in different relationships and contexts. It creates predictability and harmony in society by establishing clear expectations for conduct."
       },
       {
-        "title": "The Divine in Us",
-        "content": "The intellect (nous) is the divine element in humans. When we engage in contemplation, we are actualizing this divine element and living in accordance with what is highest in us."
+        "title": "The Transformative Power of Ritual",
+        "content": "Proper performance of rituals transforms both the individual and society. Through repeated practice of li, people internalize moral values and develop virtuous character, while society maintains its cultural continuity."
       },
       {
-        "title": "Self-Sufficiency",
-        "content": "The contemplative life is the most self-sufficient - while it needs some external goods, it depends less on others and circumstances than the political life."
+        "title": "Li and Sincerity",
+        "content": "External conformity to li must be accompanied by inner sincerity. Empty ritual performance without genuine feeling is meaningless; true li requires both outward observance and inner commitment to its underlying values."
       },
       {
-        "title": "Imitating the Gods",
-        "content": "Since the gods spend eternity in contemplation, the contemplative life allows us to imitate the divine activity as much as is humanly possible."
+        "title": "Adaptation and Reform",
+        "content": "While respecting tradition, Confucius believed li should adapt to changing circumstances. He emphasized understanding the spirit behind rituals rather than blind adherence to forms, allowing for thoughtful reform when necessary."
       }
     ],
     "controversialAspects": [
-      "Seems to devalue practical and political life",
-      "Could be seen as elitist and inaccessible to most people",
-      "Creates tension with his earlier emphasis on moral virtue and social life"
+      "Emphasis on ritual can be seen as promoting rigid conformity over individual expression",
+      "Traditional li often reinforced class distinctions and inequality",
+      "Some critics view excessive focus on propriety as superficial and hypocritical"
     ],
     "relevanceToday": [
-      "Discussions about the value of pure research and theoretical science",
-      "Philosophical debates about the meaning of life",
-      "The value of intellectual pursuits in a practical world",
-      "Mindfulness and meditation practices"
+      "Understanding the role of etiquette and social norms in modern society",
+      "Applications in diplomatic protocol and international relations",
+      "Relevance to corporate culture and professional behavior",
+      "Insights for ceremony and ritual in contemporary religious practice"
     ],
-    "closingThought": "\"We must not listen to those who urge us to think human thoughts because we are human, and mortal thoughts because we are mortal; rather, we should become immortal as far as that is possible.\""
+    "closingThought": "\"Ritual performed without reverence, the forms of mourning observed without grief - these are things I cannot bear to see.\""
   },
   {
-    "id": "economics_household",
-    "title": "Household Management (Economics)",
-    "year": "-330",
-    "publication": "Economics & Politics",
-    "icon": "🏠",
-    "summary": "Aristotle's analysis of the household as the fundamental economic and social unit, distinct from the political realm.",
-    "openingQuote": "Every state is composed of households.",
+    "id": "filial_piety",
+    "title": "Xiao: Filial Piety",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "👨‍👩‍👧‍👦",
+    "summary": "Confucius's foundational teaching on xiao (孝), emphasizing respect, obedience, and care for one's parents as the root of all virtues.",
+    "openingQuote": "When the father is alive, observe the aspirations of the son. When the father is dead, observe the actions of the son. If for three years he does not change from his father's way, he may be called filial.",
     "mainThemes": [
-      "Oikonomia",
-      "Household Relations",
-      "Wealth Acquisition",
-      "Natural vs Unnatural"
+      "Family Relationships",
+      "Ancestral Veneration",
+      "Social Hierarchy",
+      "Moral Foundation"
     ],
     "keyPoints": [
       {
-        "title": "Three Relationships",
-        "content": "The household involves three natural relationships: master-slave, husband-wife, and parent-child. Each has its own form of rule."
+        "title": "The Root of All Virtue",
+        "content": "Filial piety is considered the foundation from which all other virtues spring. If one cannot properly love and respect their parents, they cannot be expected to show genuine care for others in society."
       },
       {
-        "title": "Wealth Getting",
-        "content": "There is natural wealth-getting (managing resources for the good life) and unnatural wealth-getting (money-making for its own sake). The former is proper to household management."
+        "title": "Beyond Mere Obedience",
+        "content": "True filial piety goes beyond simple obedience to include emotional care, moral guidance when parents err, and bringing honor to the family name through virtuous conduct. It requires wisdom to know when and how to properly advise parents."
       },
       {
-        "title": "Use vs Exchange",
-        "content": "Natural wealth-getting concerns the proper use of goods. Unnatural wealth-getting concerns exchange and money-making, which has no natural limit."
+        "title": "Extension to Society",
+        "content": "The attitudes and behaviors learned in filial relationships extend to all hierarchical relationships in society - between ruler and subject, teacher and student, elder and younger. This creates a stable, harmonious social order."
       },
       {
-        "title": "The Role of the Wife",
-        "content": "The wife's virtue is different from the husband's - hers involves obedience and household management, while his involves command and provision."
+        "title": "Care in Life and Death",
+        "content": "Filial piety encompasses caring for parents during their lifetime, providing proper burial when they die, and continuing to honor them through ancestral rites. This creates continuity between generations and maintains family bonds beyond death."
       }
     ],
     "controversialAspects": [
-      "His patriarchal view of household relations",
-      "His criticism of trade and commerce as unnatural",
-      "The justification of slavery within the household"
+      "Can conflict with individual autonomy and personal moral judgment",
+      "May perpetuate authoritarian family structures and suppress dissent",
+      "Traditional emphasis on male lineage has marginalized women's roles",
+      "Blind filial obedience can prevent necessary social reform and progress"
     ],
     "relevanceToday": [
-      "Historical source for understanding ancient Greek society",
-      "Discussions about the relationship between economics and ethics",
-      "Feminist critiques of traditional family structures",
-      "Debates about limits to economic growth"
+      "Elder care in aging societies and debates about intergenerational responsibility",
+      "Work-life balance and family obligations in modern career culture",
+      "Immigrant families balancing traditional values with new cultural contexts",
+      "Corporate mentorship and hierarchical relationships in organizations"
     ],
-    "closingThought": "\"The art of household management is not identical with the art of getting wealth, for the one uses the material which the other provides.\""
+    "closingThought": "\"While a man's father is alive, his aspirations are best observed; it is when his father is dead that his actions show his true character.\""
   },
   {
-    "id": "language_truth",
-    "title": "Language and Truth",
-    "year": "-350",
-    "publication": "On Interpretation",
-    "icon": "💭",
-    "summary": "Aristotle's analysis of language, propositions, and their relationship to reality and truth.",
-    "openingQuote": "First we must define 'noun' and 'verb', then 'denial' and 'affirmation'.",
+    "id": "government_virtue",
+    "title": "Government by Virtue (De Zhi)",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "👑",
+    "summary": "Confucius's political philosophy emphasizing that legitimate government derives from moral authority rather than force, with rulers governing through virtuous example.",
+    "openingQuote": "He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.",
+    "mainThemes": [
+      "Moral Leadership",
+      "Benevolent Government",
+      "Meritocracy",
+      "Social Harmony"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Mandate of Heaven",
+        "content": "Legitimate rule comes from Heaven (Tian), which grants authority to virtuous leaders who care for the people's welfare. Rulers lose legitimacy when they become corrupt and oppressive, justifying their replacement."
+      },
+      {
+        "title": "Government by Example",
+        "content": "The ideal ruler governs through moral example rather than laws and punishments. When the ruler embodies virtue, the people naturally follow, creating harmony without coercion. 'If you lead correctly, orders are unnecessary; if you lead incorrectly, even orders won't be obeyed.'"
+      },
+      {
+        "title": "The Rectification of Names",
+        "content": "Good government requires that words correspond to reality. Rulers must actually be benevolent, ministers truly loyal, fathers genuinely caring, and sons properly filial. When roles are properly fulfilled, society functions harmoniously."
+      },
+      {
+        "title": "Welfare of the People",
+        "content": "Government exists to serve the people's needs - providing food, security, and education. A ruler's legitimacy depends on improving people's lives. Oppressive government is 'more terrible than tigers,' and cruel rulers deserve to be overthrown like common criminals."
+      }
+    ],
+    "controversialAspects": [
+      "The ideal of sage-king rule can justify authoritarianism and suppress democratic participation",
+      "Emphasis on hierarchy and obedience may inhibit checks on power and accountability",
+      "The meritocracy ideal has sometimes excluded broader social classes from political participation",
+      "The concept of 'virtuous rule' can be subjectively defined to serve existing power structures"
+    ],
+    "relevanceToday": [
+      "Discussions about political legitimacy and moral authority in leadership",
+      "Corporate governance and ethical leadership in business",
+      "The role of character and integrity in democratic politics",
+      "Debates about meritocracy versus democratic representation in government"
+    ],
+    "closingThought": "\"If the ruler himself is upright, all will go well without orders. But if he himself is not upright, even though he gives orders, they will not be obeyed.\""
+  },
+  {
+    "id": "junzi_gentleman",
+    "title": "The Junzi: The Exemplary Person",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🌟",
+    "summary": "Confucius's ideal of the junzi (君子), the morally superior person who embodies virtue and serves as a model for others in society.",
+    "openingQuote": "The gentleman understands what is right; the petty person understands what is profitable.",
+    "mainThemes": [
+      "Moral Excellence",
+      "Self-Cultivation",
+      "Leadership",
+      "Character Development"
+    ],
+    "keyPoints": [
+      {
+        "title": "Virtue Over Birth",
+        "content": "The junzi is defined by moral character rather than social class or birth. Anyone can become a gentleman through self-cultivation and moral development, making it an achievable ideal rather than an inherited status."
+      },
+      {
+        "title": "The Way of Self-Improvement",
+        "content": "The junzi constantly engages in self-reflection and improvement. They examine their thoughts and actions daily, seeking to correct faults and develop virtues. This lifelong process of moral cultivation is never complete."
+      },
+      {
+        "title": "Influence Through Example",
+        "content": "Rather than seeking power or profit, the junzi influences others through moral example. Their virtue naturally attracts followers and creates positive change in society without coercion or manipulation."
+      },
+      {
+        "title": "Harmonizing Opposites",
+        "content": "The junzi balances different aspects of character - being firm yet gentle, serious yet cheerful, respectful yet confident. They avoid extremes and maintain equilibrium in their personality and behavior."
+      }
+    ],
+    "controversialAspects": [
+      "The ideal can appear elitist and judgmental toward those deemed 'petty persons'",
+      "May promote conformity to traditional values over individual creativity and innovation",
+      "The masculine terminology and historical context excluded women from this ideal",
+      "Can be used to justify social hierarchy and inequality"
+    ],
+    "relevanceToday": [
+      "Leadership development and character-based management approaches",
+      "Personal development and self-help movements emphasizing character",
+      "Professional ethics and integrity in various fields",
+      "Mentorship and role model relationships in education and career development"
+    ],
+    "closingThought": "\"The gentleman is distressed by his lack of ability, not by the fact that men do not recognize his ability.\""
+  },
+  {
+    "id": "education_learning",
+    "title": "Education and Learning",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🎓",
+    "summary": "Confucius's revolutionary approach to education, emphasizing learning for all social classes and the integration of study with moral cultivation.",
+    "openingQuote": "Is it not a pleasure, having learned something, to try it out at due intervals?",
+    "mainThemes": [
+      "Universal Education",
+      "Lifelong Learning",
+      "Method and Practice",
+      "Moral Development"
+    ],
+    "keyPoints": [
+      {
+        "title": "Education for All",
+        "content": "Confucius broke with tradition by accepting students regardless of social class, asking only for a modest payment ('a bundle of dried meat'). He believed that education should be available to anyone with sincere desire to learn."
+      },
+      {
+        "title": "Balance of Study and Reflection",
+        "content": "'To study and not think is a waste. To think and not study is dangerous.' Learning requires both absorption of knowledge and critical reflection. Mere memorization without understanding is useless, but speculation without grounding in knowledge is harmful."
+      },
+      {
+        "title": "Gradual Progress",
+        "content": "Learning is a gradual process that requires patience and persistence. Students should master basics before advancing to complex ideas. The teacher should adapt methods to individual students' needs and abilities."
+      },
+      {
+        "title": "Integration of Knowledge and Character",
+        "content": "True education develops both intellectual understanding and moral character. Knowledge without virtue is dangerous, while virtue without knowledge lacks effectiveness. The goal is to create both learned and ethical individuals."
+      }
+    ],
+    "controversialAspects": [
+      "Traditional Confucian education emphasized rote memorization over creativity",
+      "The focus on classical texts could inhibit innovation and scientific advancement",
+      "Hierarchical teacher-student relationships may discourage questioning and critical thinking",
+      "Elite literary education sometimes neglected practical and technical skills"
+    ],
+    "relevanceToday": [
+      "Influence on East Asian educational systems and academic achievement",
+      "Debates about standardized testing versus holistic education",
+      "The role of character education alongside academic learning",
+      "Lifelong learning and continuous professional development"
+    ],
+    "closingThought": "\"When I walk along with two others, they may serve me as my teachers. I will select their good qualities and follow them, their bad qualities and avoid them.\""
+  },
+  {
+    "id": "rectification_names",
+    "title": "The Rectification of Names (Zhengming)",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "📝",
+    "summary": "Confucius's doctrine that social order depends on the proper use of language and the fulfillment of roles according to their true meanings.",
+    "openingQuote": "If language is not correct, then what is said is not what is meant; if what is said is not what is meant, then what ought to be done remains undone.",
     "mainThemes": [
       "Language and Reality",
-      "The Proposition",
-      "Truth and Falsity",
-      "Future Contingents"
+      "Social Roles",
+      "Truth and Authenticity",
+      "Moral Governance"
     ],
     "keyPoints": [
       {
-        "title": "The Triad of Language, Thought, and Reality",
-        "content": "Spoken words are symbols of affections in the soul, and written words are symbols of spoken words. These affections in the soul are likenesses of actual things."
+        "title": "The Foundation of Order",
+        "content": "Social chaos stems from the corruption of language and the failure to fulfill proper roles. When people don't act according to their titles and positions, society loses its foundation and descends into disorder."
       },
       {
-        "title": "The Nature of the Proposition",
-        "content": "A proposition (apophansis) is a statement that affirms or denies something of something and is either true or false."
+        "title": "Ruler, Minister, Father, Son",
+        "content": "'Let the ruler be a ruler, the minister a minister, the father a father, and the son a son.' Each person must fulfill the duties inherent in their role for society to function properly. Titles carry moral obligations, not just privileges."
       },
       {
-        "title": "The Problem of Future Contingents",
-        "content": "In his famous 'Sea-Battle Argument,' Aristotle grapples with whether statements about future events that are not determined have a definite truth value. He suggests they are neither true nor false yet, to preserve freedom and contingency."
+        "title": "The Cascade Effect",
+        "content": "When language becomes corrupted and roles are unfulfilled, the effects cascade through society: affairs cannot be carried out properly, ritual and music decline, punishments miss their mark, and people don't know how to act."
+      },
+      {
+        "title": "Reform Through Clarity",
+        "content": "Social reform begins with clarifying the meaning of words and ensuring that reality matches language. This requires both linguistic precision and moral commitment to fulfilling one's proper role in society."
       }
     ],
     "controversialAspects": [
-      "The interpretation of the 'Sea-Battle Argument' and his solution to the problem of future contingents is one of the most debated topics in the history of philosophy"
+      "Can be used to justify rigid social hierarchies and resist necessary change",
+      "May suppress legitimate questioning of traditional roles and authorities",
+      "The emphasis on fixed social positions conflicts with modern ideas of social mobility",
+      "Could discourage innovation in language and social organization"
     ],
     "relevanceToday": [
-      "Foundational for philosophy of language and logic",
-      "The problem of future contingents is central to debates about free will, determinism, and the nature of time"
+      "Corporate responsibility and accountability in leadership roles",
+      "Political discourse and the importance of truthful communication",
+      "Professional ethics and role-based obligations",
+      "Legal systems and the precise definition of terms and responsibilities"
     ],
-    "closingThought": "\"To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true.\""
+    "closingThought": "\"The gentleman calls attention to the good points in others; he does not call attention to their defects. The small man does just the reverse of this.\""
   },
   {
-    "id": "biology_teleology",
-    "title": "Biology and Teleology",
-    "year": "-350",
-    "publication": "Parts of Animals, Generation of Animals",
-    "icon": "🌿",
-    "summary": "Aristotle's biological works applying his teleological framework to living organisms, based on extensive empirical observation.",
-    "openingQuote": "In all things of nature there is something of the marvelous.",
+    "id": "music_culture",
+    "title": "Music and Cultural Refinement",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🎵",
+    "summary": "Confucius's teaching on the moral and educational power of music and cultural arts in cultivating character and maintaining social harmony.",
+    "openingQuote": "A man is aroused by poetry, established by ritual, and perfected by music.",
     "mainThemes": [
-      "Teleology in Biology",
-      "Empirical Observation",
-      "Classification",
-      "Reproduction"
+      "Aesthetic Education",
+      "Emotional Cultivation",
+      "Cultural Transmission",
+      "Social Harmony"
     ],
     "keyPoints": [
       {
-        "title": "Nature Does Nothing in Vain",
-        "content": "Every part of an organism exists for a purpose. The eye is for seeing, the heart for pumping blood. Biological explanation requires understanding final causes."
+        "title": "Music as Moral Education",
+        "content": "Music has the power to transform character by harmonizing emotions and cultivating proper feelings. Different types of music produce different moral effects - elegant music promotes virtue, while decadent music corrupts character."
       },
       {
-        "title": "Scala Naturae",
-        "content": "Aristotle arranged living things on a scale of perfection, from plants (having only nutritive soul) to animals (adding perceptive soul) to humans (adding rational soul)."
+        "title": "The Complete Person",
+        "content": "A well-rounded education includes poetry (for inspiration), ritual (for proper behavior), and music (for emotional refinement). These three elements work together to develop the complete moral person."
       },
       {
-        "title": "Theory of Reproduction",
-        "content": "The male provides the form (through semen) while the female provides the matter (menstrual blood). The male is the active principle, the female the passive."
+        "title": "Social Transformation",
+        "content": "When proper music flourishes in society, it creates harmony between social classes and promotes moral behavior. Music serves as both a reflection of social order and a means of maintaining it."
       },
       {
-        "title": "Spontaneous Generation",
-        "content": "He believed some creatures like insects could arise spontaneously from decaying matter under the influence of the sun's heat."
+        "title": "Cultural Preservation",
+        "content": "Ancient music contains the wisdom of the sages and should be preserved and practiced. However, Confucius also appreciated beautiful music regardless of its origin, showing openness to cultural adaptation when it serves moral purposes."
       }
     ],
     "controversialAspects": [
-      "His biological theories, while advanced for his time, were often completely wrong",
-      "His description of the female as a 'mutilated male' is a notorious example of sexism in science",
-      "Teleological explanation was largely abandoned in modern biology"
+      "Confucian aesthetic theory can be seen as elitist and dismissive of popular culture",
+      "The moral evaluation of music may suppress artistic freedom and experimentation",
+      "Traditional emphasis on ancient forms could inhibit cultural innovation",
+      "The connection between musical taste and moral character is questionable by modern standards"
     ],
     "relevanceToday": [
-      "A landmark in the history of biology, based on extensive observation",
-      "His errors show the importance of empirical testing over pure reasoning",
-      "His teleological approach influenced biology until Darwin",
-      "Modern debates about teleology in biology (function vs purpose)"
+      "Arts education and its role in character development",
+      "Cultural policy and the preservation of traditional arts",
+      "The debate over the moral influence of popular media and entertainment",
+      "Music therapy and the therapeutic uses of artistic expression"
     ],
-    "closingThought": "\"The female is, as it were, a mutilated male.\""
+    "closingThought": "\"In music, the ancient kings found pleasure and it served to regulate their hearts.\""
+  },
+  {
+    "id": "friendship_relationships",
+    "title": "Friendship and Social Relationships",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🤝",
+    "summary": "Confucius's teachings on the nature of true friendship and the cultivation of meaningful relationships based on mutual moral improvement.",
+    "openingQuote": "Is it not a joy to have friends come from afar?",
+    "mainThemes": [
+      "True Friendship",
+      "Moral Support",
+      "Social Bonds",
+      "Character Assessment"
+    ],
+    "keyPoints": [
+      {
+        "title": "Quality Over Quantity",
+        "content": "Confucius valued deep, meaningful friendships over numerous shallow acquaintances. True friends support each other's moral development and provide honest counsel, even when it's difficult to hear."
+      },
+      {
+        "title": "Mutual Improvement",
+        "content": "The best friendships are those where both parties help each other become better people. Friends should encourage virtue, correct faults with kindness, and share in the joy of moral progress."
+      },
+      {
+        "title": "Choosing Companions Wisely",
+        "content": "'Have no friends not equal to yourself.' This doesn't mean social status, but moral character. Associate with people who will elevate your standards and challenge you to grow, while avoiding those who encourage bad behavior."
+      },
+      {
+        "title": "The Limits of Friendship",
+        "content": "Even in friendship, there are boundaries. Friends should offer advice when asked and should gently correct errors, but they shouldn't be pushy or intrusive. Respect for others' autonomy preserves the relationship."
+      }
+    ],
+    "controversialAspects": [
+      "The emphasis on moral equality in friendship could promote social exclusivity",
+      "May discourage relationships that bridge different social or cultural groups",
+      "The focus on moral improvement might make friendships feel instrumental rather than genuine",
+      "Could justify cutting ties with people going through difficult periods"
+    ],
+    "relevanceToday": [
+      "Social media and the quality of online versus in-person relationships",
+      "Professional networking and the balance between utility and genuine connection",
+      "Peer influence and the importance of choosing positive role models",
+      "Conflict resolution and maintaining relationships through disagreements"
+    ],
+    "closingThought": "\"Faithful words are not pleasant; pleasant words are not faithful.\""
+  },
+  {
+    "id": "yi_righteousness",
+    "title": "Yi: Righteousness and Moral Duty",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "⚖️",
+    "summary": "Confucius's teaching on yi (義), the virtue of righteousness that compels one to do what is morally right regardless of personal cost or benefit.",
+    "openingQuote": "The gentleman understands what is right; the petty person understands what is profitable.",
+    "mainThemes": [
+      "Moral Obligation",
+      "Justice",
+      "Sacrifice for Principle",
+      "Ethical Decision Making"
+    ],
+    "keyPoints": [
+      {
+        "title": "Righteousness Over Profit",
+        "content": "Yi requires choosing moral duty over personal advantage. When righteousness conflicts with profit or convenience, the virtuous person always chooses what is right, even at significant personal cost."
+      },
+      {
+        "title": "Contextual Judgment",
+        "content": "Righteousness isn't about following rigid rules but making proper moral judgments in specific situations. It requires wisdom to discern what is truly right in complex circumstances where moral principles may conflict."
+      },
+      {
+        "title": "Courage in Action",
+        "content": "'To see what is right and not do it is want of courage.' Knowing what is right is insufficient; righteousness demands the moral courage to act on one's convictions despite opposition or personal risk."
+      },
+      {
+        "title": "Universal Application",
+        "content": "Righteousness applies to all relationships and situations - family, friendship, government, and business. It provides the moral compass for navigating complex social and political situations."
+      }
+    ],
+    "controversialAspects": [
+      "The absolute nature of righteousness can conflict with pragmatic problem-solving",
+      "May lead to moral rigidity and judgment of others who make different choices",
+      "Cultural differences in defining what constitutes 'righteous' behavior",
+      "Can be used to justify harsh treatment of those deemed morally inferior"
+    ],
+    "relevanceToday": [
+      "Business ethics and corporate social responsibility",
+      "Whistleblowing and standing up against institutional wrongdoing",
+      "Political integrity and principled leadership",
+      "Professional ethics in law, medicine, and other fields requiring moral judgment"
+    ],
+    "closingThought": "\"When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves.\""
+  },
+  {
+    "id": "heaven_fate",
+    "title": "Heaven and Fate (Tian and Ming)",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🌌",
+    "summary": "Confucius's nuanced understanding of Heaven (Tian) as both cosmic order and moral authority, and fate (ming) as the limits within which human effort operates.",
+    "openingQuote": "At fifty, I understood the mandate of Heaven.",
+    "mainThemes": [
+      "Cosmic Order",
+      "Moral Authority",
+      "Human Destiny",
+      "Divine Will"
+    ],
+    "keyPoints": [
+      {
+        "title": "Heaven as Moral Source",
+        "content": "Tian (Heaven) is not merely the physical sky but the source of moral order in the universe. It grants legitimate authority to virtuous rulers and provides the ultimate standard for judging human behavior."
+      },
+      {
+        "title": "The Mandate of Heaven",
+        "content": "Heaven's mandate (tianming) can refer both to individual destiny and political legitimacy. Rulers hold power only as long as they serve Heaven's will by caring for the people; corrupt rulers lose the mandate and may be legitimately overthrown."
+      },
+      {
+        "title": "Accepting What Cannot Be Changed",
+        "content": "Understanding fate (ming) means recognizing the limits of human control while still striving to fulfill one's moral duties. We cannot control outcomes, but we can control our effort and intentions."
+      },
+      {
+        "title": "Human Agency Within Cosmic Order",
+        "content": "While Heaven sets the overall pattern, humans have significant freedom to make moral choices within that framework. Virtue is rewarded and vice punished, though not always in ways immediately apparent to us."
+      }
+    ],
+    "controversialAspects": [
+      "The concept of heavenly mandate has been used to justify authoritarian rule",
+      "Fate can promote passivity and acceptance of unjust conditions",
+      "The relationship between divine will and human freedom remains philosophically complex",
+      "Cultural specificity of Chinese concepts of heaven may not translate universally"
+    ],
+    "relevanceToday": [
+      "Discussions about moral absolutes in an increasingly secular world",
+      "The relationship between religious belief and political authority",
+      "Coping with suffering and finding meaning in difficult circumstances",
+      "Environmental ethics and humanity's relationship to natural order"
+    ],
+    "closingThought": "\"Heaven does not speak, yet the four seasons run their course and all things are produced.\""
+  },
+  {
+    "id": "self_reflection",
+    "title": "Self-Reflection and Moral Cultivation",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🪞",
+    "summary": "Confucius's emphasis on daily self-examination and continuous moral improvement as the foundation of personal development and social harmony.",
+    "openingQuote": "Each day I examine myself on three points: In my work with others, have I always been loyal? In my relations with friends, have I always been trustworthy? Have I practiced the precepts I have preached?",
+    "mainThemes": [
+      "Self-Examination",
+      "Continuous Improvement",
+      "Personal Responsibility",
+      "Character Development"
+    ],
+    "keyPoints": [
+      {
+        "title": "Daily Moral Inventory",
+        "content": "Confucius recommended daily self-examination on key virtues: loyalty in work relationships, trustworthiness with friends, and consistency between teaching and practice. This regular reflection prevents moral drift and promotes steady improvement."
+      },
+      {
+        "title": "Learning from Mistakes",
+        "content": "'When I have made a mistake, I am never afraid to admit it.' Moral growth requires honest acknowledgment of faults and the humility to correct them. Pride and defensiveness are the enemies of self-improvement."
+      },
+      {
+        "title": "The Inner Life",
+        "content": "True virtue begins in the heart and mind, not just external actions. Self-cultivation involves examining one's motivations, desires, and thoughts, ensuring that good actions spring from genuine virtue rather than mere compliance."
+      },
+      {
+        "title": "Gradual Progress",
+        "content": "Moral development is a lifelong process that happens gradually through consistent effort. Small daily improvements in character eventually lead to significant transformation over time."
+      }
+    ],
+    "controversialAspects": [
+      "Excessive self-examination can lead to scrupulosity and mental health issues",
+      "The emphasis on fault-finding might promote negative self-image rather than growth",
+      "Cultural differences in approaches to self-reflection and personal development",
+      "The individual focus might neglect systemic and social causes of moral problems"
+    ],
+    "relevanceToday": [
+      "Mindfulness practices and meditation for self-awareness",
+      "Personal development and self-help movements",
+      "Professional development and continuous learning in careers",
+      "Therapeutic approaches emphasizing self-reflection and behavioral change"
+    ],
+    "closingThought": "\"The faults of a man are such as to show his type. Observe a man's faults and you may know his virtues.\""
+  },
+  {
+    "id": "social_harmony",
+    "title": "Social Harmony and Collective Well-being",
+    "year": "-500",
+    "publication": "The Analects",
+    "icon": "🌸",
+    "summary": "Confucius's vision of harmonious society achieved through proper relationships, mutual care, and the cultivation of virtue at all levels of social organization.",
+    "openingQuote": "In a group of three people, there will always be one who can be my teacher.",
+    "mainThemes": [
+      "Collective Responsibility",
+      "Social Order",
+      "Mutual Care",
+      "Community Building"
+    ],
+    "keyPoints": [
+      {
+        "title": "Interlocking Relationships",
+        "content": "Society consists of interconnected relationships - family, community, and state - each with specific duties and obligations. When people fulfill their roles properly, the whole society benefits and prospers."
+      },
+      {
+        "title": "The Ripple Effect of Virtue",
+        "content": "Individual moral cultivation has social consequences. When families are harmonious, communities prosper; when communities are virtuous, the state is stable. Personal ethics and social welfare are inseparable."
+      },
+      {
+        "title": "Conflict Resolution",
+        "content": "Harmony doesn't mean the absence of disagreement but the ability to handle conflicts constructively. Proper relationships allow for honest discussion while maintaining respect and working toward mutual benefit."
+      },
+      {
+        "title": "Inclusive Community",
+        "content": "True social harmony includes care for the vulnerable - the elderly, poor, and disadvantaged. A good society ensures that all members can live with dignity and have opportunities for moral and material development."
+      }
+    ],
+    "controversialAspects": [
+      "Emphasis on harmony can suppress legitimate dissent and social criticism",
+      "Traditional hierarchies may perpetuate inequality and injustice",
+      "The ideal of consensus might prevent necessary social change and innovation",
+      "Cultural specificity of Confucian harmony may not fit all social contexts"
+    ],
+    "relevanceToday": [
+      "Community building and social capital in modern urban societies",
+      "Workplace culture and team dynamics in organizations",
+      "International relations and diplomatic approaches to conflict resolution",
+      "Social policy aimed at reducing inequality and promoting collective welfare"
+    ],
+    "closingThought": "\"If you would govern a state of a thousand chariots, you must pay strict attention to business, be true to your word, be economical in expenditure, and love the people.\""
   }
 ]

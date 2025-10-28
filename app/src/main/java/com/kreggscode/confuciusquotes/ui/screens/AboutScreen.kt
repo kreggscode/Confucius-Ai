@@ -61,7 +61,7 @@ fun AboutScreen(
                     ) {
                         // Confucius Icon (using emoji as placeholder)
                         Text(
-                            text = "🧠",
+                            text = "🎓",
                             style = MaterialTheme.typography.displayLarge,
                             fontSize = 80.sp
                         )
@@ -77,7 +77,7 @@ fun AboutScreen(
                         )
                         
                         Text(
-                            text = "Ancient Greek Philosopher",
+                            text = "Ancient Chinese Philosopher",
                             style = MaterialTheme.typography.titleMedium,
                             color = MaterialTheme.colorScheme.secondary,
                             textAlign = TextAlign.Center,
@@ -87,7 +87,7 @@ fun AboutScreen(
                         Spacer(modifier = Modifier.height(8.dp))
                         
                         Text(
-                            text = "384 BCE - 322 BCE",
+                            text = "551 BCE - 479 BCE",
                             style = MaterialTheme.typography.bodyLarge,
                             color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                             fontWeight = FontWeight.Medium
@@ -112,19 +112,19 @@ fun AboutScreen(
                         )
                         
                         Text(
-                            text = "Confucius was an ancient Greek philosopher and polymath who made foundational contributions to logic, metaphysics, ethics, politics, biology, and rhetoric. A student of Plato and teacher of Alexander the Great, he founded the Lyceum and the Peripatetic school of philosophy.",
+                            text = "Confucius was an ancient Chinese philosopher and teacher who founded Confucianism, a philosophical and ethical system that profoundly shaped East Asian culture and society. His teachings emphasized personal and governmental morality, social harmony, justice, and sincerity.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
                         
                         Text(
-                            text = "Born in Stagira in 384 BCE, Confucius's works shaped Western philosophy and science for over two millennia. His systematic approach to knowledge, empirical observations, and concepts like the Golden Mean, virtue ethics, and the four causes remain influential today.",
+                            text = "Born in the state of Lu (modern-day Shandong Province) in 551 BCE, Confucius lived during the Spring and Autumn period of Chinese history. His philosophy centered on the concepts of ren (benevolence), li (ritual propriety), and the cultivation of virtue through education and self-reflection.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
                         
                         Text(
-                            text = "Beyond his philosophical achievements, Confucius made groundbreaking contributions to biology through empirical observation. He classified over 500 species and his works on ethics, politics, and metaphysics continue to influence modern thought, making him one of the most important figures in Western intellectual history.",
+                            text = "Though he held minor government positions, Confucius's greatest legacy was as a teacher. He believed in education for all and taught over 3,000 students. His teachings, compiled in the Analects, continue to influence billions of people across East Asia and the world, making him one of the most influential figures in human history.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
@@ -148,27 +148,27 @@ fun AboutScreen(
                         )
                         
                         ContributionItem(
-                            icon = "⚖️",
-                            title = "Virtue Ethics",
-                            description = "Founded virtue ethics and the concept of the Golden Mean"
+                            icon = "❤️",
+                            title = "Ren (Benevolence)",
+                            description = "Emphasized compassion and humaneness as the foundation of morality"
                         )
                         
                         ContributionItem(
-                            icon = "🧠",
-                            title = "Logic & Reason",
-                            description = "Created formal logic and the syllogism"
+                            icon = "🎭",
+                            title = "Li (Ritual Propriety)",
+                            description = "Taught proper conduct and social harmony through ritual and etiquette"
                         )
                         
                         ContributionItem(
-                            icon = "🔬",
-                            title = "Natural Science",
-                            description = "Founded biology through empirical observation of 500+ species"
+                            icon = "👨‍👩‍👧‍👦",
+                            title = "Filial Piety",
+                            description = "Established family values and respect for elders as societal foundation"
                         )
                         
                         ContributionItem(
-                            icon = "🏛️",
-                            title = "Political Philosophy",
-                            description = "Analyzed constitutions and the nature of the ideal state"
+                            icon = "📚",
+                            title = "Education for All",
+                            description = "Pioneered universal education regardless of social class"
                         )
                     }
                 }
@@ -190,7 +190,7 @@ fun AboutScreen(
                         )
                         
                         Text(
-                            text = "Confucius's works formed the foundation of Western philosophy and science for over two millennia. His systematic approach to knowledge, empirical observations, and concepts like virtue ethics, the four causes, and the golden mean remain influential today. He established the Lyceum and pioneered the scientific method.",
+                            text = "Confucius's teachings formed the foundation of East Asian philosophy, ethics, and governance for over 2,500 years. His emphasis on moral cultivation, social harmony, and education shaped Chinese, Korean, Japanese, and Vietnamese civilizations. The Analects, containing his sayings and dialogues, remains one of the most influential texts in human history.",
                             style = MaterialTheme.typography.bodyLarge,
                             lineHeight = MaterialTheme.typography.bodyLarge.lineHeight
                         )
@@ -198,7 +198,7 @@ fun AboutScreen(
                         Spacer(modifier = Modifier.height(12.dp))
                         
                         Text(
-                            text = "\"We are what we repeatedly do. Excellence, then, is not an act, but a habit.\"",
+                            text = "\"It does not matter how slowly you go as long as you do not stop.\"",
                             style = MaterialTheme.typography.bodyLarge,
                             fontWeight = FontWeight.Bold,
                             fontStyle = androidx.compose.ui.text.font.FontStyle.Italic,

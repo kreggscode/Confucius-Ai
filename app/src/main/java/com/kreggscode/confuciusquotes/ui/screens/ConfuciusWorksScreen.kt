@@ -236,7 +236,7 @@ fun ConfuciusWorksScreen(
                     item {
                         SectionHeader(
                             title = "Major Works",
-                            subtitle = "Revolutionary papers that changed physics",
+                            subtitle = "Foundational texts that shaped East Asian civilization",
                             icon = "⚡"
                         )
                     }
@@ -268,7 +268,7 @@ fun ConfuciusWorksScreen(
                     item {
                         SectionHeader(
                             title = "Letters",
-                            subtitle = "Personal correspondence that shaped history",
+                            subtitle = "Wisdom shared through correspondence",
                             icon = "✉️"
                         )
                     }
@@ -283,8 +283,8 @@ fun ConfuciusWorksScreen(
                 WorkCategory.PAPERS -> {
                     item {
                         SectionHeader(
-                            title = "Scientific Papers",
-                            subtitle = "Published research that defined modern physics",
+                            title = "Scholarly Papers",
+                            subtitle = "Confucian teachings and philosophical writings",
                             icon = "📄"
                         )
                     }
@@ -327,7 +327,7 @@ fun ConfuciusWorksScreen(
                     }
                     item {
                         CategoryOverviewCard(
-                            title = "Scientific Papers",
+                            title = "Scholarly Papers",
                             count = papers.size,
                             icon = "📄",
                             color = PremiumColors.QuantumGold,
@@ -380,7 +380,7 @@ private fun HeaderCard() {
             )
             Spacer(modifier = Modifier.height(8.dp))
             Text(
-                text = "Dive into the revolutionary works, essays, letters, and papers that changed our understanding of the universe",
+                text = "Dive into the timeless works, essays, letters, and teachings that shaped East Asian philosophy and ethics",
                 style = MaterialTheme.typography.bodyMedium,
                 textAlign = TextAlign.Center,
                 color = Color.White.copy(alpha = 0.8f)

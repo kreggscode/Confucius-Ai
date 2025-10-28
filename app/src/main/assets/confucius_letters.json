@@ -1,157 +1,169 @@
 [
   {
-    "id": "letter_to_alexander",
-    "title": "Letter to Alexander on Kingship",
-    "date": "334 BCE",
-    "recipient": "Alexander, Son of Philip",
-    "location": "Lyceum, Athens",
+    "id": "letter_to_duke_ding",
+    "title": "Letter to Duke Ding on Rectification of Names",
+    "date": "501 BCE",
+    "recipient": "Duke Ding of Lu",
+    "location": "Qufu, State of Lu",
     "icon": "👑",
-    "summary": "Aristotle's advice to his former student Alexander on the nature of virtuous kingship and the dangers of absolute power.",
-    "historicalContext": "Written as Alexander began his conquest of Persia, this letter represents Aristotle's attempt to guide his most famous student toward philosophical kingship rather than mere conquest.",
-    "letterText": "To Alexander, son of Philip, greetings.\n\nI have received your accounts of victories in the East, and while I rejoice in your successes, I find myself compelled to write concerning matters of greater importance than military conquest. You were my student, and so I must speak plainly about the nature of true kingship.\n\nRemember our discussions in Mieza: the king exists for the sake of his people, not the people for the king. A true ruler is like the mind to the body—he directs and cares for the whole. The Persian model you now encounter, where the king is master and all others slaves, is the corruption of true monarchy into tyranny.\n\nConsider this: the virtue of a king is not measured by the extent of his domains but by the flourishing of his citizens. A small city of virtuous, happy men is greater than an empire of slaves. You conquer lands, but can you make men better? This is the true test of leadership.\n\nI understand the practical necessities of rule, but caution you against the intoxication of unlimited power. The man who can do anything he wishes rarely does what he should. The golden mean applies to rulers as much as to other men—courage between cowardice and rashness, generosity between stinginess and wastefulness, ambition between sloth and hubris.\n\nBring Greek learning to the barbarians, yes, but also learn what wisdom they may possess. The man who thinks his own culture contains all wisdom is like one who tries to see the whole world from a single room.\n\nYour tutor,\nAristotle\n\nP.S. I am sending with this letter several new works from the Lyceum on natural history. Even amid conquest, do not neglect your philosophical education.",
+    "summary": "Confucius advises his sovereign on the fundamental importance of using words properly as the foundation of good government.",
+    "historicalContext": "Written during Confucius's brief period serving as Minister of Justice in Lu, this letter addresses the chaos caused by the misuse of language in governance.",
+    "letterText": "To His Lordship Duke Ding, ruler of Lu,\n\nYour humble servant Kong Qiu writes concerning the foundation of all good government: the rectification of names.\n\nYou ask why our state suffers from disorder despite our best intentions. The answer lies not in our policies but in our words. When words lose their proper meaning, speech loses its effectiveness. When speech is ineffective, affairs cannot be carried out successfully. When affairs cannot be successful, ritual and music deteriorate. When ritual and music deteriorate, punishments miss their mark. When punishments miss their mark, the people have nowhere to put their hands and feet.\n\nConsider: we call men 'ministers' who serve only themselves, 'fathers' who abandon their children, 'rulers' who exploit their subjects. Is it any wonder that chaos follows? If a ruler is not truly a ruler, a minister not truly a minister, a father not truly a father, then even if there is grain, can I eat it in safety?\n\nLet us begin our reforms by calling things by their proper names. A minister who enriches himself at the state's expense is not a minister but a thief—call him so. A father who neglects his duties is not fulfilling his role—acknowledge this. When names correspond to reality, the people will know what is expected of them.\n\nThis is why the junzi must be careful about what he says and quick to act on what he says. Nothing is more important to governance than that words have meaning.\n\nYour loyal servant,\nKong Qiu (Confucius)\n\nP.S. I have observed that when the stables burned down, you asked first about the people, not the horses. This is the behavior of a true ruler—may your words always match such noble actions.",
     "keyPoints": [
       {
-        "title": "The Purpose of Kingship",
-        "content": "Aristotle emphasizes that a true king exists for the benefit of his people, not for personal glory. The measure of good leadership is the flourishing of citizens, not the size of territory."
+        "title": "Language as Foundation of Order",
+        "content": "Confucius argues that social and political chaos begins when words lose their proper meaning, making precise communication impossible."
       },
       {
-        "title": "Warning Against Tyranny",
-        "content": "He distinguishes between kingship (rule for the common good) and tyranny (rule for personal benefit), warning Alexander against adopting Persian absolutism."
+        "title": "The Chain of Disorder",
+        "content": "He traces how linguistic confusion leads to ineffective speech, failed policies, deteriorated ritual, and ultimately social chaos."
       },
       {
-        "title": "The Golden Mean in Leadership",
-        "content": "Aristotle applies his ethical framework to leadership: courage between cowardice and rashness, ambition between sloth and hubris, generosity between stinginess and wastefulness."
+        "title": "Role-Based Ethics",
+        "content": "The letter emphasizes that social harmony depends on everyone fulfilling their proper role—rulers ruling, ministers serving, fathers nurturing."
       },
       {
-        "title": "Cultural Exchange",
-        "content": "While advocating spreading Greek learning, Aristotle surprisingly encourages Alexander to learn from conquered peoples, showing intellectual humility."
+        "title": "Leading by Example",
+        "content": "Confucius praises the Duke's concern for people over property, showing how a ruler's actions should embody the values he promotes."
       }
     ],
     "behindTheScenes": [
-      "Aristotle tutored Alexander for three years in his youth",
-      "Their relationship became strained as Alexander's power grew",
-      "Alexander reportedly slept with Aristotle's works under his pillow",
-      "Aristotle's nephew was executed by Alexander for treason",
-      "The letter represents Aristotle's ideal of the \"philosopher-king\""
+      "Confucius served briefly as Minister of Justice under Duke Ding",
+      "His political career was largely unsuccessful during his lifetime",
+      "The 'rectification of names' became a central Confucian doctrine",
+      "This teaching influenced Chinese political thought for millennia",
+      "The stable fire incident is recorded in the Analects"
     ],
-    "legacy": "This letter represents the tension between philosophical ideals and political reality. Aristotle's attempt to guide the most powerful man of his age shows both the potential and limitations of philosophical counsel to rulers. It raises eternal questions about the relationship between wisdom and power."
+    "legacy": "This letter represents Confucius's belief that social reform must begin with moral and linguistic clarity. His emphasis on precise language and proper roles became foundational to Chinese governance and social organization."
   },
   {
-    "id": "letter_to_theophrastus",
-    "title": "Letter to Theophrastus on the Lyceum",
-    "date": "322 BCE",
-    "recipient": "Theophrastus of Eresus",
-    "location": "Chalcis",
-    "icon": "🏛️",
-    "summary": "Aristotle's final instructions to his successor Theophrastus, ensuring the continuation of the Lyceum and his philosophical legacy.",
-    "historicalContext": "Written shortly before Aristotle's death, as he fled Athens to avoid persecution after Alexander's death. This letter establishes Theophrastus as his successor.",
-    "letterText": "To Theophrastus, my friend and colleague,\n\nMy health declines, and I write to you from Chalcis, where I have sought refuge from the anti-Macedonian sentiment in Athens. The death of Alexander has unleashed forces that threaten our work, and I fear I shall not see the Lyceum again.\n\nTherefore, I entrust to you the care of our school and the completion of our researches. You have been my most capable student and collaborator these many years, and I know the work will flourish under your guidance.\n\nRemember our method: collect the facts, consider the opinions of previous thinkers, proceed systematically. Do not let our investigations become mere speculation divorced from observation. The world is full of wonders waiting to be understood—from the habits of animals to the motions of stars.\n\nI leave you my library and my unpublished manuscripts. Some are nearly complete; others are but notes and outlines. Use your judgment in preparing them for students. The work on constitutions is particularly important—we have collected 158, but the analysis remains incomplete.\n\nTake care of the younger students. Education is not the filling of a vessel but the kindling of a flame. Teach them to wonder, to question, to think for themselves. The future of philosophy depends on the next generation.\n\nDo not mourn my passing. I have lived a full life, pursuing understanding to the best of my ability. As I wrote long ago, the unexamined life is not worth living—and I have examined mine thoroughly.\n\nYour friend,\nAristotle\n\nP.S. Ensure the animals in our menagerie are properly cared for. Even the lowliest creature has something to teach us about nature's purposes.",
+    "id": "letter_to_yan_hui",
+    "title": "Letter to Yan Hui on Ren (Humaneness)",
+    "date": "495 BCE",
+    "recipient": "Yan Hui (Yan Yuan)",
+    "location": "During travels between states",
+    "icon": "💝",
+    "summary": "A tender letter to his most beloved disciple explaining the cultivation of humaneness and the path to becoming a junzi.",
+    "historicalContext": "Written to Yan Hui, Confucius's favorite student, during their period of wandering between states seeking a ruler who would implement Confucian ideals.",
+    "letterText": "To Yan Hui, my most devoted student,\n\nI write to you as we rest between our travels, reflecting on our conversation about ren—that quality of humaneness that makes us truly human.\n\nYou asked how one cultivates ren, and I told you: 'Overcome yourself and return to ritual.' But I see in your eyes that you wish to understand more deeply. Let me explain further.\n\nRen is not something external to be grasped, but something internal to be awakened. It begins with love for your parents and extends outward like ripples on water—to siblings, to friends, to all people, and finally to all living things. The person of ren cannot bear to see others suffer because he recognizes himself in them.\n\nBut ren without li (ritual/propriety) becomes mere sentiment. The rituals our ancestors gave us are not empty forms but the accumulated wisdom of how to express humaneness appropriately. When you bow to your parents, you embody filial piety. When you yield precedence to elders, you show respect. These acts train the heart as well as the body.\n\nYou have progressed far in your studies—your joy in learning reminds me of my own youth. But remember: knowledge without ren is dangerous, like a sharp sword in the hands of a child. Always ask not just 'What can I know?' but 'How should I live?'\n\nI am proud of your development. Among all my students, you alone seem to love goodness for its own sake, not for the advantage it brings.\n\nYour teacher,\nKong Qiu\n\nP.S. I have enclosed some verses I composed yesterday. Poetry helps cultivate the emotions properly—study it well.",
     "keyPoints": [
       {
-        "title": "Succession Planning",
-        "content": "Aristotle formally designates Theophrastus as his successor, ensuring the Lyceum's continuation and establishing one of the first successions in philosophical school leadership."
+        "title": "Ren as Universal Love",
+        "content": "Confucius explains humaneness as beginning with family love and extending outward to embrace all humanity, like ripples expanding from a stone dropped in water."
       },
       {
-        "title": "Methodological Legacy",
-        "content": "He emphasizes their empirical approach: observation first, then systematic analysis, building on but critically examining previous thinkers."
+        "title": "The Balance of Heart and Form",
+        "content": "He emphasizes that genuine humaneness must be expressed through proper ritual, preventing sentiment from becoming mere emotion."
       },
       {
-        "title": "The Unfinished Work",
-        "content": "Aristotle mentions his massive research projects, particularly the collection of 158 constitutions, showing the scale of his unfinished work."
+        "title": "Learning for Character",
+        "content": "The letter stresses that knowledge must serve moral development, not just intellectual advancement or personal gain."
       },
       {
-        "title": "Educational Philosophy",
-        "content": "His advice about teaching reflects his view of education as awakening curiosity rather than transmitting information."
+        "title": "The Teacher-Student Bond",
+        "content": "Confucius expresses deep affection for Yan Hui, showing the personal dimension of Confucian education."
       }
     ],
-    "theophrastusResponse": "Theophrastus successfully led the Lyceum for 35 years, expanding Aristotle's work particularly in botany. He preserved and edited Aristotle's manuscripts, ensuring their survival.",
-    "historicalImpact": [
-      "Theophrastus became head of the Lyceum until his death in 287 BCE",
-      "He preserved and organized Aristotle's works",
-      "The Lyceum continued for centuries under various leaders",
-      "Aristotle's manuscripts were famously lost and rediscovered centuries later",
-      "This succession established a model for philosophical schools"
+    "yanHuiProfile": [
+      "Confucius's favorite disciple, known for his virtue and poverty",
+      "Died young, causing Confucius great grief",
+      "Represented the ideal student who learned for love of learning",
+      "Known for his joy in simple living and moral cultivation",
+      "Became the model of the dedicated Confucian scholar"
     ],
-    "teachingMoment": "This letter exemplifies:\n• The importance of institutional continuity\n• Mentorship and succession planning\n• The collaborative nature of philosophical research\n• Leaving a legacy beyond one's lifetime\n• The teacher-student relationship at its best"
+    "teachingMethods": [
+      "Personal correspondence maintained the teacher-student relationship",
+      "Use of metaphors (ripples on water) to explain abstract concepts",
+      "Integration of poetry and emotion with moral instruction",
+      "Emphasis on internal transformation over external achievement",
+      "Balance between affection and high standards"
+    ]
   },
   {
-    "id": "letter_to_antipater",
-    "title": "Letter to Antipater on Exile",
-    "date": "323 BCE",
-    "recipient": "Antipater, Regent of Macedonia",
-    "location": "Athens",
-    "icon": "🏺",
-    "summary": "Aristotle's bitter reflection on his impending exile from Athens and the ingratitude of cities toward philosophers.",
-    "historicalContext": "Written after Alexander's death, when anti-Macedonian sentiment threatened Aristotle's safety in Athens. He references Socrates' fate while defending his own actions.",
-    "letterText": "To Antipater, greetings.\n\nI write to you as the storm gathers in Athens. The same madness that took Socrates now threatens me, though my crimes are different. He was accused of corrupting the youth with new gods; I am suspect for having been Alexander's teacher and your friend.\n\nHow ironic that Athens, which prides itself on wisdom, should so often turn against its wisest men. I have lived here these twelve years, establishing my school, contributing to the city's intellectual life, harming no one. Yet now I am called a foreigner and a threat.\n\nI shall not make Socrates' mistake of trusting in Athenian justice. When they come for me, I shall be gone. Let them say Aristotle fled—I would rather be a living coward in Chalcis than a dead hero in Athens.\n\nDo they not understand? I study constitutions to understand how cities might be better governed. I analyze virtue to understand how men might live better lives. My work serves all humanity, not just Macedonians or Athenians.\n\nYet cities are like ungrateful children—they bite the hand that feeds them wisdom. Plato experienced this in Syracuse, and now I in Athens. Perhaps philosophers should concern themselves only with eternal truths and leave cities to their follies.\n\nBut no—that would be to abandon our duty. The philosopher must engage with the world, even when the world rejects him.\n\nI shall depart within the week. Keep me informed of developments, and know that my work continues wherever I am.\n\nAristotle\n\nP.S. The manuscripts are being secured. Some will travel with me; others will be hidden. Wisdom must be preserved, even when wise men are persecuted.",
+    "id": "letter_to_zilu",
+    "title": "Letter to Zilu on Courage and Wisdom",
+    "date": "492 BCE",
+    "recipient": "Zhong You (Zilu)",
+    "location": "State of Wei",
+    "icon": "⚔️",
+    "summary": "Confucius counsels his most impetuous disciple on tempering courage with wisdom and the proper understanding of bravery.",
+    "historicalContext": "Written to Zilu, known for his physical courage but occasional rashness, during their travels when they faced danger from hostile officials.",
+    "letterText": "To Zhong You, my brave student,\n\nI write concerning yesterday's incident at the border crossing, where your hand moved to your sword when the official insulted our mission. Your loyalty touches my heart, but your rashness concerns me.\n\nTrue courage, my dear Zilu, is not the absence of fear but right action in the presence of fear. The junzi distinguishes between three kinds of bravery: the bravery of the common man, which acts without thinking; the bravery of the soldier, which follows orders without question; and the bravery of the sage, which acts only when action serves righteousness.\n\nYou possess the first two forms naturally—your physical courage has never been in question. But I would have you cultivate the third. Before you act, ask: Will this serve justice? Will this benefit the people? Will this advance the Way? If the answer is no, then the brave action is to restrain yourself.\n\nRemember the story of King Tang, who conquered the tyrant Jie not through superior force but through superior virtue. The people welcomed him because they knew he fought for their welfare, not his own glory. This is courage in service of the Way.\n\nI do not ask you to become timid—the world needs your boldness. But let wisdom be the charioteer of your courage. A wild horse may run fastest, but the trained horse reaches its destination.\n\nYour capacity for loyalty and your willingness to act make you precious to me. But these same qualities could destroy you if not guided by reflection. Study more, my friend. Read the histories. Learn from the mistakes of heroes as well as their triumphs.\n\nYour teacher who cares for your growth,\nKong Qiu\n\nP.S. The official apologized this morning and provided us safe passage. Sometimes patience achieves what swords cannot.",
     "keyPoints": [
       {
-        "title": "The Philosopher's Vulnerability",
-        "content": "Aristotle reflects on the precarious position of philosophers in political life, drawing parallels between his situation and Socrates' execution."
+        "title": "Three Types of Courage",
+        "content": "Confucius distinguishes between instinctive bravery, disciplined courage, and wise action—advocating for the highest form that serves righteousness."
       },
       {
-        "title": "Practical Wisdom vs. Principle",
-        "content": "He chooses exile over martyrdom, showing his pragmatic approach compared to Socrates' principled acceptance of death."
+        "title": "Restraint as Bravery",
+        "content": "He teaches that sometimes the most courageous act is not to act, challenging conventional notions of heroism."
       },
       {
-        "title": "Universal vs. Particular Loyalties",
-        "content": "Aristotle defends his work as serving all humanity, transcending national or city loyalties that others try to impose on him."
+        "title": "Moral Leadership",
+        "content": "Using King Tang as an example, he shows how true power comes from moral authority rather than physical force."
       },
       {
-        "title": "The Duty to Engage",
-        "content": "Despite the risks and ingratitude, he affirms the philosopher's duty to engage with political life rather than retreat into pure contemplation."
+        "title": "Personalized Teaching",
+        "content": "The letter demonstrates Confucius's method of addressing each student's particular strengths and weaknesses."
+      }
+    ],
+    "ziluCharacter": [
+      "Known for physical courage and loyalty to Confucius",
+      "Often acted impulsively, sometimes embarrassing his teacher",
+      "Served in government positions after his studies",
+      "Died defending his lord in a political conflict",
+      "Represented the warrior type who needed moral cultivation"
+    ],
+    "confucianBalance": [
+      "Courage balanced with wisdom",
+      "Action balanced with reflection",
+      "Loyalty balanced with moral judgment",
+      "Strength balanced with propriety",
+      "Individual virtue balanced with social responsibility"
+    ]
+  },
+  {
+    "id": "letter_to_mencius_family",
+    "title": "Letter to the Meng Family on Education",
+    "date": "479 BCE",
+    "recipient": "The Meng Family of Zou",
+    "location": "Qufu, final months",
+    "icon": "📚",
+    "summary": "Confucius's advice to a young boy's family on education, unknowingly writing about his future philosophical successor.",
+    "historicalContext": "A fictional letter to the family of young Mencius (then called Meng Ke), showing Confucius's educational philosophy applied to child-rearing.",
+    "letterText": "To the honored Meng family of Zou,\n\nI have received your inquiry about the education of your young son, Meng Ke. Though I have not met the boy, your description of his character—spirited, questioning, sometimes stubborn—suggests great potential.\n\nThe education of a child is like tending a garden. You cannot make a pine tree grow faster, but you can ensure it has good soil, adequate water, and proper pruning. The child's nature will unfold according to Heaven's design, but we can help or hinder that process.\n\nBegin with the foundation: teach him filial piety through your own example. Children learn more from watching than from listening. If he sees you honor your parents, he will learn to honor you. This respect for family extends naturally to respect for teachers, for rulers, and for all worthy persons.\n\nNext, surround him with good influences. Let him hear music that elevates the spirit, not songs that inflame base passions. Show him poetry that celebrates virtue, not verses that mock goodness. The young mind is like soft clay—whatever impressions it receives early will harden into permanent shape.\n\nTeach him to love learning for its own sake. When he asks questions—and from your description, he asks many—do not silence him but help him think through problems. The goal is not to fill his mind with answers but to kindle his love of inquiry. A mind that truly loves learning will continue growing throughout life.\n\nMost importantly, help him understand that learning serves life. Knowledge without virtue is useless; virtue without knowledge is incomplete. The educated person should be able to govern wisely, serve loyally, and live harmoniously with others.\n\nBe patient with his development. Each child has his own pace and his own gifts. What matters is not how quickly he learns but how thoroughly he integrates learning into his character.\n\nYour servant in the Way,\nKong Qiu\n\nP.S. I am too old now to travel to Zou, but if the boy shows promise, perhaps he might visit Qufu to study with my remaining disciples.",
+    "keyPoints": [
+      {
+        "title": "Education as Cultivation",
+        "content": "Confucius uses gardening metaphors to explain how education should work with a child's nature rather than against it."
+      },
+      {
+        "title": "Learning Through Example",
+        "content": "He emphasizes that children learn virtue more from observing their parents' behavior than from formal instruction."
+      },
+      {
+        "title": "Holistic Development",
+        "content": "The letter advocates for intellectual, moral, aesthetic, and practical education working together to form character."
+      },
+      {
+        "title": "Intrinsic Motivation",
+        "content": "Confucius stresses cultivating love of learning itself rather than external rewards or punishments."
       }
     ],
     "historicalIrony": [
-      "Aristotle fled \"to prevent Athens from sinning twice against philosophy\"",
-      "He died in exile the following year",
-      "Athens later honored him with a statue",
-      "His works became foundational to Western thought",
-      "The Lyceum outlasted the political forces that exiled him"
+      "Mencius became Confucius's most important philosophical successor",
+      "He developed key Confucian concepts like the innate goodness of human nature",
+      "Mencius lived about 100 years after Confucius",
+      "He defended Confucian thought against competing schools",
+      "This fictional letter imagines their spiritual connection across time"
     ],
-    "philosophicalSignificance": "This letter illustrates Aristotle's middle way between:\n• Political engagement and philosophical detachment\n• Principle and pragmatism\n• Local loyalty and universal concern\n• The active and contemplative lives"
-  },
-  {
-    "id": "letter_to_plato_academy",
-    "title": "Letter to the Academy on Method",
-    "date": "347 BCE",
-    "recipient": "Speusippus and Members of the Academy",
-    "location": "Assos",
-    "icon": "💭",
-    "summary": "Aristotle's respectful but firm explanation of his methodological differences with Plato's Academy.",
-    "historicalContext": "Written after Plato's death when Aristotle left Athens, this letter explains his philosophical divergence from his teacher's approach while maintaining respect.",
-    "letterText": "To Speusippus and my former colleagues in the Academy,\n\nI write to you from Assos, where I have established a small school. Though distant from Athens, my thoughts often return to the years I spent among you, and to the memory of our great teacher Plato.\n\nYou have asked why I have chosen a different path in philosophy, and I owe you an explanation. My departure is not from Plato himself, whom I will always honor, but from certain aspects of his method that I find problematic.\n\nPlato was right about so much: the importance of definitions, the reality of forms, the supremacy of the good. But I cannot follow him in making mathematics the model for all knowledge, or in treating the sensible world as a mere shadow of reality.\n\nThe forms, if they exist, must be in things, not beyond them. We should begin our investigations with what is apparent to the senses—with this man, this horse, this plant—and work upward to principles, not downward from abstract forms.\n\nNor can I accept that the study of politics should begin with an ideal state that has never existed. We should study actual constitutions—the good, the bad, and the mixed—to understand what makes cities flourish or fail.\n\nDo not mistake this for mere rebellion. Plato taught me to think for myself, and that is what I am doing. Amicus Plato, sed magis amica veritas—Plato is dear to me, but truth is dearer.\n\nMy work here continues the spirit, if not the letter, of Plato's mission. We investigate nature, ethics, politics—but with different methods. There are many paths to wisdom, and the world is large enough for multiple schools.\n\nI remain your friend and fellow seeker of truth,\nAristotle\n\nP.S. I am studying marine biology here by the sea. The intricate design of even the simplest sea creature confirms that nature is not random but works toward ends.",
-    "keyPoints": [
-      {
-        "title": "Respectful Divergence",
-        "content": "Aristotle maintains deep respect for Plato while clearly explaining their philosophical differences, modeling intellectual disagreement without personal animosity."
-      },
-      {
-        "title": "Methodological Critique",
-        "content": "He identifies key differences: empirical observation vs mathematical abstraction, forms in things vs forms beyond things, studying actual states vs ideal states."
-      },
-      {
-        "title": "The Famous Maxim",
-        "content": "The letter contains one of philosophy's most famous statements: \"Plato is dear to me, but truth is dearer,\" showing loyalty to truth over loyalty to teachers."
-      },
-      {
-        "title": "Multiple Paths to Wisdom",
-        "content": "Aristotle suggests that different philosophical approaches can coexist and contribute to understanding, rejecting dogmatic adherence to a single school."
-      }
-    ],
-    "platosLegacy": [
-      "Aristotle studied with Plato for 20 years",
-      "Plato called Aristotle \"the mind of the school\"",
-      "Their differences represent a fundamental philosophical divide",
-      "Aristotle criticized Plato's theory of forms but built on his methods",
-      "Both approaches have influenced Western thought for millennia"
-    ],
-    "modernRelevance": [
-      "The balance between respect for tradition and independent thinking",
-      "Empirical vs rationalist approaches in science",
-      "How to disagree respectfully with mentors",
-      "Multiple methodologies in academic disciplines",
-      "The relationship between observation and theory"
+    "educationalPrinciples": [
+      "Work with the child's natural temperament",
+      "Model the behavior you wish to teach",
+      "Create an environment rich in cultural resources",
+      "Encourage questions and critical thinking",
+      "Balance knowledge acquisition with character formation",
+      "Be patient with individual developmental differences"
     ]
   }
 ]

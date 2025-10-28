@@ -90,7 +90,7 @@ fun HomeScreen(
                     val greeting = getConfuciusGreeting()
                     GlassmorphicHeader(
                         title = greeting,
-                        subtitle = "INSIGHTS & WISDOM FROM THE PHILOSOPHER"
+                        subtitle = "TEACHINGS OF THE GREAT SAGE"
                     )
                 }
                 // Stunning feature cards

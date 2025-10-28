@@ -70,17 +70,17 @@ object PremiumColors {
         Color(0xFFF093FB).copy(alpha = 0.1f)
     )
     
-    // Greek-inspired philosophical colors
-    val OliveGreen = Color(0xFF6B8E23)      // Ancient olive groves
-    val Terracotta = Color(0xFFE07A5F)       // Greek pottery
-    val MarbleWhite = Color(0xFFF4F1DE)      // Marble temples
-    val AncientGold = Color(0xFFD4AF37)      // Golden age
-    val AegeanBlue = Color(0xFF3D5A80)       // Aegean Sea
-    val PurpleRoyal = Color(0xFF9B59B6)      // Royal purple
-    val BronzeAge = Color(0xFFCD7F32)        // Bronze statues
-    val SageGreen = Color(0xFF81B29A)        // Wisdom & philosophy
-    val CrimsonRed = Color(0xFFDC143C)       // Greek passion
-    val IvoryParchment = Color(0xFFFFFFF0)   // Ancient scrolls
+    // Confucius-inspired Chinese philosophical colors
+    val JadeGreen = Color(0xFF00A86B)        // Sacred jade
+    val ImperialYellow = Color(0xFFFFD700)   // Emperor's color
+    val CinnabarRed = Color(0xFFE34234)      // Traditional red
+    val IndigoBlue = Color(0xFF4B0082)       // Scholar's robe
+    val BambooGreen = Color(0xFF6B8E23)      // Bamboo wisdom
+    val LotusWhite = Color(0xFFF8F8FF)       // Purity & enlightenment
+    val DragonGold = Color(0xFFD4AF37)       // Imperial dragon
+    val TeaGreen = Color(0xFF88B04B)         // Tea ceremony
+    val SilkPurple = Color(0xFF9B59B6)       // Silk road
+    val ParchmentBeige = Color(0xFFF5DEB3)   // Ancient texts
 }
 
 // Glassmorphism modifier with blur and transparency

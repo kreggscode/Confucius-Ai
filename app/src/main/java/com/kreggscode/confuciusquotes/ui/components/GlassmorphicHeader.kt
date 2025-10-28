@@ -77,9 +77,9 @@ fun GlassmorphicHeader(
                     .padding(vertical = 24.dp, horizontal = 20.dp),
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
-                // Animated brain emoji or icon
+                // Animated Confucius icon (scholar/sage)
                 Text(
-                    text = "🧠",
+                    text = "🎓",
                     fontSize = 48.sp,
                     modifier = Modifier
                         .scale(scale)

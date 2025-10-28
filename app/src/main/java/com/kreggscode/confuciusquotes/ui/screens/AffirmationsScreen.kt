@@ -25,6 +25,7 @@ import com.kreggscode.confuciusquotes.model.Quote
 import com.kreggscode.confuciusquotes.ui.components.*
 import com.kreggscode.confuciusquotes.ui.theme.*
 import com.kreggscode.confuciusquotes.viewmodel.QuoteViewModel
+import com.kreggscode.confuciusquotes.data.AffirmationsDataLoader
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import java.util.Locale
@@ -75,8 +76,27 @@ fun AffirmationsScreen(
         }
     }
     
-    val affirmations = remember { generateConfuciusAffirmations() }
-    val categories = listOf("All", "Science", "Wisdom", "Life", "Innovation", "Peace")
+    val context = LocalContext.current
+    val dataLoader = remember { AffirmationsDataLoader(context) }
+    var affirmations by remember { mutableStateOf<List<Affirmation>>(emptyList()) }
+    var isLoading by remember { mutableStateOf(true) }
+    
+    // Load affirmations from JSON
+    LaunchedEffect(Unit) {
+        val loadedData = dataLoader.loadAffirmations()
+        affirmations = loadedData.map { data ->
+            Affirmation(
+                id = data.id,
+                text = data.affirmation,
+                category = data.category,
+                icon = getCategoryIcon(data.category),
+                gradientColors = getCategoryGradient(data.category)
+            )
+        }
+        isLoading = false
+    }
+    
+    val categories = listOf("All", "Ren & Benevolence", "Li & Ritual Propriety", "Xiao & Family", "Junzi & Character", "Yi & Righteousness", "Zhi & Learning", "Xin & Trust", "Self-Cultivation", "Social Harmony", "Governance & Order")
     
     val filteredAffirmations = remember(selectedCategory, selectedTab, favoriteAffirmations) {
         val baseList = if (selectedTab == 1) {
@@ -90,9 +110,11 @@ fun AffirmationsScreen(
     }
     
     // Get daily affirmation
-    LaunchedEffect(Unit) {
-        val dayOfYear = java.time.LocalDate.now().dayOfYear
-        dailyAffirmation = affirmations[dayOfYear % affirmations.size]
+    LaunchedEffect(affirmations) {
+        if (affirmations.isNotEmpty()) {
+            val dayOfYear = java.time.LocalDate.now().dayOfYear
+            dailyAffirmation = affirmations[dayOfYear % affirmations.size]
+        }
     }
     
     Box(
@@ -140,7 +162,17 @@ fun AffirmationsScreen(
             },
             containerColor = Color.Transparent
         ) { paddingValues ->
-            LazyColumn(
+            if (isLoading) {
+                Box(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(paddingValues),
+                    contentAlignment = Alignment.Center
+                ) {
+                    CircularProgressIndicator(color = PremiumColors.ElectricPurple)
+                }
+            } else {
+                LazyColumn(
                 modifier = Modifier
                     .fillMaxSize()
                     .padding(paddingValues),
@@ -202,6 +234,7 @@ fun AffirmationsScreen(
                                     Text("All Affirmations")
                                 }
                             },
+                            contentAlignment = Alignment.Center,
                             colors = FilterChipDefaults.filterChipColors(
                                 selectedContainerColor = PremiumColors.ElectricPurple,
                                 containerColor = PremiumColors.ElectricPurple.copy(alpha = 0.2f),
@@ -209,7 +242,11 @@ fun AffirmationsScreen(
                                 labelColor = Color.White.copy(alpha = 0.7f)
                             ),
                             modifier = Modifier.weight(1f)
-                        )
+                        ) {
+                            if (isLoading) {
+                                CircularProgressIndicator(color = PremiumColors.ElectricPurple)
+                            }
+                        }
                         
                         FilterChip(
                             selected = selectedTab == 1,
@@ -320,6 +357,7 @@ fun AffirmationsScreen(
                 item {
                     Spacer(modifier = Modifier.height(100.dp))
                 }
+            }
             }
         }
         
@@ -656,6 +694,38 @@ fun AffirmationCard(
                 }
             }
         }
+    }
+}
+
+fun getCategoryIcon(category: String): String {
+    return when (category) {
+        "Ren & Benevolence" -> "❤️"
+        "Li & Ritual Propriety" -> "🎭"
+        "Xiao & Family" -> "👨‍👩‍👧‍👦"
+        "Junzi & Character" -> "🌟"
+        "Yi & Righteousness" -> "⚖️"
+        "Zhi & Learning" -> "📚"
+        "Xin & Trust" -> "🤝"
+        "Self-Cultivation" -> "🌱"
+        "Social Harmony" -> "☯️"
+        "Governance & Order" -> "👑"
+        else -> "✨"
+    }
+}
+
+fun getCategoryGradient(category: String): List<Color> {
+    return when (category) {
+        "Ren & Benevolence" -> listOf(PremiumColors.NeonPink, PremiumColors.PlasmaOrange)
+        "Li & Ritual Propriety" -> listOf(PremiumColors.ElectricPurple, PremiumColors.NebulaMagenta)
+        "Xiao & Family" -> listOf(PremiumColors.QuantumTeal, PremiumColors.CyberBlue)
+        "Junzi & Character" -> PremiumColors.GalaxyGradient
+        "Yi & Righteousness" -> listOf(PremiumColors.CosmicIndigo, PremiumColors.ElectricPurple)
+        "Zhi & Learning" -> PremiumColors.AuroraGradient
+        "Xin & Trust" -> listOf(PremiumColors.CyberBlue, PremiumColors.QuantumTeal)
+        "Self-Cultivation" -> PremiumColors.NorthernLights
+        "Social Harmony" -> PremiumColors.SunsetGradient
+        "Governance & Order" -> listOf(PremiumColors.QuantumGold, PremiumColors.PlasmaOrange)
+        else -> PremiumColors.GalaxyGradient
     }
 }
 

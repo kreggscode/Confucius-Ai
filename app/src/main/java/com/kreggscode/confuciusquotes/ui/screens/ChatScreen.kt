@@ -102,7 +102,7 @@ fun ChatScreen(
                             fontWeight = FontWeight.Bold
                         )
                         Text(
-                            text = "Genius of Relativity",
+                            text = "Master of Wisdom",
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.primary.copy(alpha = 0.7f),
                             fontWeight = FontWeight.Medium

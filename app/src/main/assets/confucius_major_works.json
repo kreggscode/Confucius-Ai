@@ -1,1081 +1,491 @@
 [
-  
   {
-    "id": "nicomachean_ethics",
-    "title": "Nicomachean Ethics",
-    "subtitle": "The Science of Human Flourishing",
-    "year": "-340",
-    "type": "Ethical Treatise",
-    "icon": "⭐",
-    "summary": "Aristotle's comprehensive work on ethics, exploring the nature of virtue, happiness, and the good life through practical wisdom.",
-    "keyConcept": "Eudaimonia",
-    "keyConceptExplanation": "Human flourishing achieved through virtuous activity in accordance with reason",
-    "sections": [
-      {
-        "title": "The Highest Good",
-        "content": "All human activities aim at some good, but the ultimate end is eudaimonia - not mere pleasure or honor, but excellent activity of the rational soul over a complete life."
-      },
-      {
-        "title": "The Doctrine of the Mean",
-        "content": "Moral virtue is a mean state between two vices - one of excess and one of deficiency. Courage lies between cowardice and rashness, generosity between stinginess and wastefulness."
-      },
-      {
-        "title": "Intellectual vs Moral Virtue",
-        "content": "Moral virtues (courage, temperance) are acquired through habit. Intellectual virtues (wisdom, understanding) are acquired through teaching. Practical wisdom (phronesis) bridges both."
-      },
-      {
-        "title": "Friendship and Community",
-        "content": "Friendship is essential for the good life. The highest form is between virtuous individuals who wish each other well for their own sake. The friend is 'another self.'"
-      }
-    ],
-    "funFacts": [
-      "Named after Aristotle's son Nicomachus, who may have edited it",
-      "Basis for modern virtue ethics movement",
-      "Influenced Thomas Aquinas and medieval Christian ethics",
-      "The 'golden mean' concept appears in many world philosophies"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Virtue as Habit",
-        "explanation": "We become just by doing just acts, brave by doing brave acts - virtue requires practice"
-      },
-      {
-        "principle": "Function Argument",
-        "explanation": "The good for anything depends on its function - for humans, this is rational activity"
-      },
-      {
-        "principle": "Voluntary Action",
-        "explanation": "We are responsible for voluntary actions done with knowledge and choice"
-      }
-    ]
-  },
-  {
-    "id": "politics",
-    "title": "Politics",
-    "subtitle": "The Science of the Polis",
-    "year": "-350",
-    "type": "Political Treatise",
-    "icon": "🏛️",
-    "summary": "Aristotle's analysis of political communities, constitutions, and the ideal state, based on empirical study of 158 Greek constitutions.",
-    "keyConcept": "Man is by nature a political animal",
-    "keyConceptExplanation": "Humans achieve their full potential only within the political community (polis)",
-    "sections": [
-      {
-        "title": "The Natural Polis",
-        "content": "The state develops naturally from households to villages to city-states. It exists for the sake of the good life, not mere survival."
-      },
-      {
-        "title": "Classification of Governments",
-        "content": "Good forms: Monarchy (rule by one), Aristocracy (rule by few), Polity (rule by many). Corrupt forms: Tyranny, Oligarchy, Democracy."
-      },
-      {
-        "title": "The Ideal State",
-        "content": "The best state has a large middle class for stability, public education, and citizens who can both rule and be ruled. It balances freedom and order."
-      },
-      {
-        "title": "Revolution and Stability",
-        "content": "Constitutions fail when justice is violated. The best protection is education that matches the constitution and prevents extreme inequality."
-      }
-    ],
-    "funFacts": [
-      "Based on study of 158 actual constitutions - only Athens' survives",
-      "Aristotle tutored Alexander the Great in politics",
-      "His analysis of revolution influenced Machiavelli",
-      "Defended slavery as 'natural' - a major ethical flaw"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Teleology of the State",
-        "explanation": "The state exists for the sake of the good life, not just life"
-      },
-      {
-        "principle": "Mixed Constitution",
-        "explanation": "The best government combines elements of different systems"
-      },
-      {
-        "principle": "Rule of Law",
-        "explanation": "Law should rule rather than any individual"
-      }
-    ]
-  },
-  {
-    "id": "metaphysics",
-    "title": "Metaphysics",
-    "subtitle": "First Philosophy",
-    "year": "-350",
-    "type": "Philosophical Treatise",
-    "icon": "🔍",
-    "summary": "Aristotle's investigation into being as being, substance, causality, and the fundamental principles of reality.",
-    "keyConcept": "The science of being qua being",
-    "keyConceptExplanation": "The study of existence itself, not just particular aspects of reality",
-    "sections": [
-      {
-        "title": "The Four Causes",
-        "content": "To understand anything, we must know its: Material cause (what it's made of), Formal cause (its essence), Efficient cause (what made it), Final cause (its purpose)."
-      },
-      {
-        "title": "Substance and Accident",
-        "content": "Substance is what exists independently (this man, this horse). Accidents are properties that depend on substance (white, tall)."
-      },
-      {
-        "title": "Potentiality and Actuality",
-        "content": "Everything contains potentiality (what it can become) and actuality (what it currently is). Actuality is prior to potentiality."
-      },
-      {
-        "title": "The Unmoved Mover",
-        "content": "There must be a first cause - eternal, immaterial, purely actual - that moves everything as a final cause, by being an object of thought and desire."
-      }
-    ],
-    "funFacts": [
-      "Title means 'after the Physics' - the order it was placed in his works",
-      "Called 'first philosophy' by Aristotle himself",
-      "Influenced medieval theology and the concept of God",
-      "One of the most difficult and debated texts in Western philosophy"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Hylomorphism",
-        "explanation": "All physical objects are compounds of matter (hyle) and form (morphe)"
-      },
-      {
-        "principle": "Actuality Priority",
-        "explanation": "Actuality is prior to potentiality in definition, time, and substance"
-      },
-      {
-        "principle": "Non-Contradiction",
-        "explanation": "The same attribute cannot belong and not belong to the same subject at the same time"
-      }
-    ]
-  },
-  {
-    "id": "physics",
-    "title": "Physics",
-    "subtitle": "The Science of Nature",
-    "year": "-350",
-    "type": "Scientific Treatise",
-    "icon": "🌌",
-    "summary": "Aristotle's foundational work on natural philosophy, exploring motion, change, time, and the principles of the physical world.",
-    "keyConcept": "Nature is a principle of motion and change",
-    "keyConceptExplanation": "Natural objects have within themselves principles of motion and rest",
-    "sections": [
-      {
-        "title": "The Principles of Change",
-        "content": "All change involves three principles: substratum (what persists), form (what is gained), and privation (what is lost)."
-      },
-      {
-        "title": "The Four Causes in Nature",
-        "content": "Natural phenomena are explained by material, formal, efficient, and final causes. Nature acts for ends - 'nature does nothing in vain.'"
-      },
-      {
-        "title": "Motion and Time",
-        "content": "Motion is the actuality of what exists potentially. Time is the number of motion in respect of before and after."
-      },
-      {
-        "title": "Teleology in Nature",
-        "content": "Everything in nature has a purpose. The acorn's telos is to become an oak tree. Final causes are essential for understanding nature."
-      }
-    ],
-    "funFacts": [
-      "Dominant physics until Galileo and Newton 2000 years later",
-      "His theories were wrong but methodologically sophisticated",
-      "Rejected atomism and the void",
-      "His concept of natural place influenced medieval cosmology"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Natural Motion",
-        "explanation": "Elements move toward their natural places: earth down, fire up"
-      },
-      {
-        "principle": "Continuum Theory",
-        "explanation": "Rejected atoms - matter is infinitely divisible in theory"
-      },
-      {
-        "principle": "Anti-Vacuum",
-        "explanation": "A vacuum is impossible - nature abhors a void"
-      }
-    ]
-  },
-  {
-    "id": "poetics",
-    "title": "Poetics",
-    "subtitle": "The Theory of Tragedy",
-    "year": "-335",
-    "type": "Literary Theory",
-    "icon": "🎭",
-    "summary": "Aristotle's analysis of poetry and drama, defining the elements of tragedy and explaining its psychological impact.",
-    "keyConcept": "Catharsis",
-    "keyConceptExplanation": "The purification or purgation of emotions of pity and fear through dramatic representation",
-    "sections": [
-      {
-        "title": "Art as Imitation",
-        "content": "Poetry is imitation (mimesis) of human action. It represents universal truths, making it more philosophical than history."
-      },
-      {
-        "title": "The Six Elements of Tragedy",
-        "content": "Plot (mythos) - the soul of tragedy, Character (ethos), Thought (dianoia), Diction (lexis), Song (melos), Spectacle (opsis)."
-      },
-      {
-        "title": "The Perfect Tragedy",
-        "content": "Involves a good man falling from happiness to misery through hamartia (error), producing pity and fear leading to catharsis."
-      },
-      {
-        "title": "Unity and Probability",
-        "content": "Plot should have unity of action - one complete action with beginning, middle, end. Events should follow probably or necessarily."
-      }
-    ],
-    "funFacts": [
-      "Only part on tragedy survives - comedy section is lost",
-      "Influenced Renaissance drama and Shakespeare",
-      "The 'three unities' (action, time, place) were Renaissance additions",
-      "Hamartia is often misunderstood as 'tragic flaw' rather than 'error'"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Plot over Character",
-        "explanation": "Plot is the soul of tragedy - characters exist for the sake of action"
-      },
-      {
-        "principle": "Reversal and Recognition",
-        "explanation": "Best plots involve peripeteia (reversal) and anagnorisis (recognition)"
-      },
-      {
-        "principle": "Universal Truth",
-        "explanation": "Poetry deals with what may happen - the universal - unlike history's particulars"
-      }
-    ]
-  },
-  {
-    "id": "on_the_soul",
-    "title": "On the Soul (De Anima)",
-    "subtitle": "The Science of Life",
-    "year": "-350",
-    "type": "Psychological Treatise",
-    "icon": "🧠",
-    "summary": "Aristotle's investigation into the nature of the soul as the form and actuality of living bodies.",
-    "keyConcept": "The soul is the first actuality of a natural body having life potentially",
-    "keyConceptExplanation": "The soul is what makes a living body actually alive - it's the form of the body",
-    "sections": [
-      {
-        "title": "Hylomorphism",
-        "content": "The soul is to the body as form is to matter. They are inseparable - the soul is not a separate substance trapped in the body."
-      },
-      {
-        "title": "Hierarchy of Souls",
-        "content": "Nutritive soul (plants - growth/nutrition), Perceptive soul (animals - adds perception), Rational soul (humans - adds reason)."
-      },
-      {
-        "title": "Perception and Thought",
-        "content": "Perception receives the form of objects without their matter. Mind has passive intellect (receives forms) and active intellect (makes them intelligible)."
-      },
-      {
-        "title": "The Active Intellect",
-        "content": "The active intellect (nous poietikos) is immortal and divine - it makes all things intelligible and is separable from the body."
-      }
-    ],
-    "funFacts": [
-      "Foundation for philosophy of mind for 2000 years",
-      "His view conflicted with Christian doctrine of immortal soul",
-      "Active intellect concept heavily debated in medieval philosophy",
-      "Influenced cognitive science and theories of consciousness"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Soul-Body Unity",
-        "explanation": "Soul and body are not separate substances but form and matter of one being"
-      },
-      {
-        "principle": "Faculties Hierarchy",
-        "explanation": "Higher souls include capacities of lower ones"
-      },
-      {
-        "principle": "Mental Representation",
-        "explanation": "Mind becomes what it thinks - takes on form of objects"
-      }
-    ]
-  },
-  {
-    "id": "rhetoric",
-    "title": "Rhetoric",
-    "subtitle": "The Art of Persuasion",
-    "year": "-350",
-    "type": "Communication Theory",
+    "id": "analects",
+    "title": "The Analects (Lunyu)",
+    "subtitle": "Conversations and Sayings of the Master",
+    "year": "-479",
+    "type": "Philosophical Dialogue Collection",
     "icon": "💬",
-    "summary": "Aristotle's systematic analysis of persuasive speech as essential for civic life and discovering truth.",
-    "keyConcept": "The available means of persuasion",
-    "keyConceptExplanation": "Rhetoric is the faculty of discovering in any case the available means of persuasion",
+    "summary": "A compilation of conversations, teachings, and sayings of Confucius and his disciples, forming the foundation of Confucian thought and ethics.",
+    "keyConcept": "Ren (仁) - Benevolence",
+    "keyConceptExplanation": "The highest virtue encompassing humaneness, kindness, and moral goodness toward all people",
     "sections": [
       {
-        "title": "Three Modes of Persuasion",
-        "content": "Ethos (character of speaker), Pathos (emotional appeal to audience), Logos (logical argument). Ethos is most important."
+        "title": "The Joy of Learning",
+        "content": "Learning and practicing what is learned brings joy. True education involves both acquiring knowledge and applying it in daily life for moral cultivation."
       },
       {
-        "title": "The Enthymeme",
-        "content": "The rhetorical syllogism - often with one premise left unstated, relying on audience's shared knowledge and values."
+        "title": "Filial Piety (Xiao)",
+        "content": "Respect and care for parents and elders is the root of all virtue. 'When a father's way is not righteous, a son cannot refrain from protesting.'"
       },
       {
-        "title": "Three Genres of Oratory",
-        "content": "Deliberative (future action - political), Forensic (past events - legal), Epideictic (present - ceremonial praise/blame)."
+        "title": "The Gentleman (Junzi)",
+        "content": "The ideal person who cultivates virtue, acts with righteousness, and serves as a moral exemplar. 'The gentleman understands what is right; the petty person understands what is profitable.'"
       },
       {
-        "title": "Virtue of Style",
-        "content": "Style should be clear, appropriate, and avoid meanness or excess. Metaphor is the mark of genius."
+        "title": "Proper Conduct (Li)",
+        "content": "Ritual propriety and social etiquette maintain harmony in relationships and society. 'Without proper conduct, reverence becomes wearisome, caution becomes timidity.'"
       }
     ],
     "funFacts": [
-      "First systematic rhetoric text - still taught today",
-      "Defended rhetoric against Plato's attack in Gorgias",
-      "Ethos, pathos, logos used in advertising and politics",
-      "Based on analysis of actual Athenian speeches"
+      "Compiled by disciples after Confucius's death, not by the Master himself",
+      "Contains only fragments and short sayings, no systematic treatise",
+      "Basis for Chinese civil service examinations for over 1,300 years",
+      "The Golden Rule appears here: 'Do not impose on others what you do not wish for yourself'"
     ],
     "keyPrinciples": [
       {
-        "principle": "Neutral Tool",
-        "explanation": "Rhetoric can be used for good or ill - it's a tool, not inherently deceptive"
+        "principle": "Self-Cultivation",
+        "explanation": "Continuous moral and intellectual development throughout life"
       },
       {
-        "principle": "Audience-Centered",
-        "explanation": "Effective persuasion requires understanding the audience's values and emotions"
+        "principle": "Social Harmony",
+        "explanation": "Individual virtue contributes to societal order and peace"
       },
       {
-        "principle": "Probability not Certainty",
-        "explanation": "Rhetoric deals with probable truth, not scientific demonstration"
+        "principle": "Reciprocity (Shu)",
+        "explanation": "Treat others as you would wish to be treated"
       }
     ]
   },
   {
-    "id": "categories",
-    "title": "Categories",
-    "subtitle": "The Foundation of Logic",
-    "year": "-340",
-    "type": "Logical Treatise",
-    "icon": "📂",
-    "summary": "Aristotle's analysis of the basic types of being and the structure of predication.",
-    "keyConcept": "Substance is that which is neither predicable of a subject nor present in a subject",
-    "keyConceptExplanation": "Primary substance is the fundamental reality - individual things that exist independently",
+    "id": "great_learning",
+    "title": "The Great Learning (Daxue)",
+    "subtitle": "The Gateway to Moral Cultivation",
+    "year": "-450",
+    "type": "Educational Philosophy",
+    "icon": "🎓",
+    "summary": "Originally a chapter in the Book of Rites, this text outlines the process of moral and intellectual cultivation from personal development to governing others.",
+    "keyConcept": "The Eight Steps to Cultivation",
+    "keyConceptExplanation": "A systematic progression from investigating things to achieving universal peace through moral development",
     "sections": [
       {
-        "title": "The Ten Categories",
-        "content": "Substance, Quantity, Quality, Relation, Place, Time, Position, State, Action, Affection. These are the ways we can talk about what exists."
+        "title": "Investigation of Things",
+        "content": "Knowledge begins with careful observation and study of the natural and social world. Understanding principles leads to wisdom."
       },
       {
-        "title": "Primary vs Secondary Substance",
-        "content": "Primary substance: individual things (this man, this horse). Secondary substance: species and genera (man, animal)."
+        "title": "Extension of Knowledge",
+        "content": "From investigation comes genuine knowledge. This knowledge must be extended and applied to understand moral principles."
       },
       {
-        "title": "Predication Relations",
-        "content": "Things can be said OF a subject (universals) or be IN a subject (particular accidents). Only primary substances are neither."
+        "title": "Sincerity of Intention",
+        "content": "The heart-mind must be made sincere. Self-deception destroys moral cultivation - one must be honest with oneself."
       },
       {
-        "title": "The Fourfold Division",
-        "content": "Universal and particular, substance and accident create four combinations defining how things exist and are predicated."
+        "title": "From Personal to Universal",
+        "content": "Moral cultivation extends outward: cultivate yourself, regulate the family, order the state, achieve universal peace."
       }
     ],
     "funFacts": [
-      "First work in Aristotle's Organon (logical works)",
-      "Foundation for Western logic for 2000 years",
-      "Categories influenced medieval philosophy and linguistics",
-      "Some categories seem arbitrary - later philosophers revised the list"
+      "Attributed to Confucius with commentary by his disciple Zengzi",
+      "Became one of the Four Books selected by Zhu Xi",
+      "The phrase 'Great Learning' refers to adult education in moral cultivation",
+      "Influenced Neo-Confucian philosophy during Song dynasty"
     ],
     "keyPrinciples": [
       {
-        "principle": "Substance Primacy",
-        "explanation": "All other categories depend on substance for their existence"
+        "principle": "Root and Branch",
+        "explanation": "Personal cultivation is the root; governing others is the branch"
       },
       {
-        "principle": "Predication Types",
-        "explanation": "Different ways things can be said of subjects reveal their ontological status"
+        "principle": "Inner-Outer Unity",
+        "explanation": "Internal moral development must align with external actions"
       },
       {
-        "principle": "Essential vs Accidental",
-        "explanation": "Some predicates express what a thing is, others how it is qualified"
+        "principle": "Progressive Development",
+        "explanation": "Moral cultivation follows a logical sequence of stages"
       }
     ]
   },
   {
-    "id": "posterior_analytics",
-    "title": "Posterior Analytics",
-    "subtitle": "The Theory of Scientific Knowledge",
-    "year": "-350",
-    "type": "Epistemological Treatise",
-    "icon": "🧮",
-    "summary": "Aristotle's analysis of scientific demonstration and how we gain certain knowledge from first principles.",
-    "keyConcept": "Scientific knowledge is knowledge through demonstration",
-    "keyConceptExplanation": "We know something scientifically when we know its cause and that it cannot be otherwise",
-    "sections": [
-      {
-        "title": "The Structure of Demonstration",
-        "content": "Scientific demonstration is a syllogism from premises that are true, primary, immediate, better known than and prior to the conclusion."
-      },
-      {
-        "title": "First Principles",
-        "content": "All knowledge rests on indemonstrable first principles (archai) grasped by understanding (nous), not demonstration."
-      },
-      {
-        "title": "The Four Types of Inquiry",
-        "content": "That it is, Why it is, If it is, What it is. Complete scientific knowledge answers all four."
-      },
-      {
-        "title": "Definition and Essence",
-        "content": "Scientific knowledge requires knowing the essence - what makes something what it is. Definitions express essences."
-      }
-    ],
-    "funFacts": [
-      "Provided the model for Euclidean geometry",
-      "Influenced the ideal of science as deductive system",
-      "His model doesn't perfectly fit modern empirical science",
-      "The concept of 'nous' for grasping first principles remains mysterious"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Demonstrative Syllogism",
-        "explanation": "Scientific knowledge comes through syllogisms showing necessary connections"
-      },
-      {
-        "principle": "Knowledge of Causes",
-        "explanation": "We know something when we know why it must be so"
-      },
-      {
-        "principle": "Immediate Premises",
-        "explanation": "Demonstration must start from premises that don't need demonstration"
-      }
-    ]
-  },
-  {
-    "id": "prior_analytics",
-    "title": "Prior Analytics",
-    "subtitle": "The Invention of Formal Logic",
-    "year": "-350",
-    "type": "Logical Treatise",
-    "icon": "⚙️",
-    "summary": "Aristotle's creation of syllogistic logic - the first formal system of deductive reasoning.",
-    "keyConcept": "The syllogism",
-    "keyConceptExplanation": "A discourse in which, certain things being stated, something other than what is stated follows of necessity",
-    "sections": [
-      {
-        "title": "The Syllogistic Figures",
-        "content": "Three figures based on position of middle term. First figure: Barbara, Celarent, etc. Second and third figures can be reduced to first."
-      },
-      {
-        "title": "Modal Logic",
-        "content": "Extended syllogistic to include necessity and possibility. Developed rules for modal syllogisms."
-      },
-      {
-        "title": "Conversion Rules",
-        "content": "Universal negative and particular affirmative propositions convert simply. Universal affirmative converts partially."
-      },
-      {
-        "title": "The Tool for Science",
-        "content": "The Prior Analytics provides the formal machinery used in Posterior Analytics for scientific demonstration."
-      }
-    ],
-    "funFacts": [
-      "Invented formal logic - dominated for 2000 years",
-      "The word 'logic' comes from Aristotle's 'organon' (tool)",
-      "His system was complete but limited compared to modern logic",
-      "Medieval logicians developed his system extensively"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Middle Term Function",
-        "explanation": "The middle term connects major and minor terms in the conclusion"
-      },
-      {
-        "principle": "Figure Determination",
-        "explanation": "The position of middle term determines the figure and valid moods"
-      },
-      {
-        "principle": "Reduction to First Figure",
-        "explanation": "All valid syllogisms can be reduced to first figure moods"
-      }
-    ]
-  },
-  {
-    "id": "generation_of_animals",
-    "title": "Generation of Animals",
-    "subtitle": "The Science of Reproduction",
-    "year": "-350",
-    "type": "Biological Treatise",
-    "icon": "🧬",
-    "summary": "Aristotle's detailed study of animal reproduction, heredity, and embryonic development.",
-    "keyConcept": "The male provides the form, the female provides the matter",
-    "keyConceptExplanation": "In reproduction, semen provides the formal and efficient cause, menstrual blood provides the material cause",
-    "sections": [
-      {
-        "title": "Theory of Reproduction",
-        "content": "Male provides movement and form through semen. Female provides matter through menstrual blood. The male is active principle, female passive."
-      },
-      {
-        "title": "Embryonic Development",
-        "content": "Detailed observations of chick embryo development. Argued for epigenesis - gradual formation of parts - against preformation."
-      },
-      {
-        "title": "Heredity and Resemblance",
-        "content": "Proposed pangenesis theory - semen contains representations from all body parts. Explained inheritance and atavism."
-      },
-      {
-        "title": "Spontaneous Generation",
-        "content": "Believed some creatures (insects, worms) arise spontaneously from decaying matter under influence of sun's heat."
-      }
-    ],
-    "funFacts": [
-      "Based on dissection of many animals",
-      "His theory of reproduction was accepted until 19th century",
-      "The 'female as mutilated male' concept is notoriously sexist",
-      "His embryology was remarkably accurate given his tools"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Teleological Development",
-        "explanation": "Embryos develop toward their natural ends - the adult form"
-      },
-      {
-        "principle": "Hierarchy of Souls",
-        "explanation": "Nutritive soul appears first, then perceptive, in embryonic development"
-      },
-      {
-        "principle": "Material Continuity",
-        "explanation": "The female contributes the material substrate for development"
-      }
-    ]
-  },
-  {
-    "id": "parts_of_animals",
-    "title": "Parts of Animals",
-    "subtitle": "The Teleology of Biological Structures",
-    "year": "-350",
-    "type": "Biological Treatise",
-    "icon": "🔬",
-    "summary": "Aristotle's analysis of animal anatomy and the functional purposes of biological structures.",
-    "keyConcept": "Nature does nothing in vain",
-    "keyConceptExplanation": "Every part of an organism exists for a purpose that contributes to the whole",
-    "sections": [
-      {
-        "title": "Functional Analysis",
-        "content": "Each part exists for a function: eyes for seeing, hearts for pumping blood. Understanding parts requires understanding their purposes."
-      },
-      {
-        "title": "Comparative Anatomy",
-        "content": "Compared similar parts across species: teeth in different animals, digestive systems, respiratory organs. Noted homologous structures."
-      },
-      {
-        "title": "Material and Formal Causes",
-        "content": "Explained why animals have the parts they do by both material necessity and formal/functional requirements."
-      },
-      {
-        "title": "The Priority of Form",
-        "content": "The organism's form determines what parts it has, not vice versa. The whole is prior to the parts."
-      }
-    ],
-    "funFacts": [
-      "Founded comparative anatomy as a science",
-      "His teleological approach dominated biology until Darwin",
-      "Made many accurate observations despite limited tools",
-      "Classified animals by their essential characteristics"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Function Determines Structure",
-        "explanation": "The needs of the organism determine what parts it develops"
-      },
-      {
-        "principle": "Hierarchical Organization",
-        "explanation": "Parts are organized into systems serving the whole organism"
-      },
-      {
-        "principle": "Necessity and Purpose",
-        "explanation": "Some features arise from material necessity, others serve clear purposes"
-      }
-    ]
-  },
-  {
-    "id": "history_of_animals",
-    "title": "History of Animals",
-    "subtitle": "The Encyclopedia of Animal Life",
-    "year": "-350",
-    "type": "Biological Treatise",
-    "icon": "🐘",
-    "summary": "Aristotle's massive compilation of observations about animal behavior, anatomy, and classification.",
-    "keyConcept": "Empirical investigation of living nature",
-    "keyConceptExplanation": "Systematic collection and organization of facts about animals based on observation",
-    "sections": [
-      {
-        "title": "Comprehensive Scope",
-        "content": "Described over 500 species: mammals, birds, fish, insects, reptiles. Covered anatomy, reproduction, behavior, habitats."
-      },
-      {
-        "title": "Behavioral Observations",
-        "content": "Detailed accounts of mating habits, feeding, migration, social behavior. Noted tool use in some animals."
-      },
-      {
-        "title": "Classification System",
-        "content": "Grouped animals by shared characteristics: blooded vs bloodless, live-bearing vs egg-laying, locomotion methods."
-      },
-      {
-        "title": "Methodological Approach",
-        "content": "Collected reports from fishermen, hunters, farmers. Critically evaluated sources. Emphasized direct observation."
-      }
-    ],
-    "funFacts": [
-      "Largest biological work from antiquity",
-      "Some observations weren't confirmed until 19th century",
-      "Mixed accurate observations with folklore and errors",
-      "Influenced zoology until the Renaissance"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Empirical Foundation",
-        "explanation": "Biological science must begin with collection of facts"
-      },
-      {
-        "principle": "Systematic Organization",
-        "explanation": "Facts must be organized by meaningful categories"
-      },
-      {
-        "principle": "Critical Evaluation",
-        "explanation": "Reports must be evaluated for reliability"
-      }
-    ]
-  },
-  {
-    "id": "on_interpretation",
-    "title": "On Interpretation",
-    "subtitle": "The Philosophy of Language",
-    "year": "-350",
-    "type": "Logical Treatise",
-    "icon": "💭",
-    "summary": "Aristotle's analysis of language, truth, and meaning, focusing on propositions and their relationship to reality.",
-    "keyConcept": "The proposition",
-    "keyConceptExplanation": "A statement that affirms or denies something of something and is either true or false",
-    "sections": [
-      {
-        "title": "Language and Reality",
-        "content": "Spoken words symbolize mental experiences, which are likenesses of actual things. Language maps onto reality through mental representations."
-      },
-      {
-        "title": "Truth and Falsity",
-        "content": "Truth is saying of what is that it is, or of what is not that it is not. Falsity is the opposite."
-      },
-      {
-        "title": "The Square of Opposition",
-        "content": "Relations between categorical propositions: contraries, subcontraries, contradictories, subalterns."
-      },
-      {
-        "title": "Future Contingents",
-        "content": "Famous 'sea-battle' problem: Are statements about future contingent events true or false now? Suggested they are neither yet."
-      }
-    ],
-    "funFacts": [
-      "Introduced the square of opposition used in logic for centuries",
-      "The 'sea-battle' problem remains debated in philosophy of time",
-      "His theory of truth influenced the correspondence theory",
-      "Work heavily influenced medieval philosophy of language"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Correspondence Theory",
-        "explanation": "Truth consists in correspondence between statements and reality"
-      },
-      {
-        "principle": "Bivalence",
-        "explanation": "Every proposition must be true or false"
-      },
-      {
-        "principle": "Mental Mediation",
-        "explanation": "Language connects to reality through mental representations"
-      }
-    ]
-  },
-  {
-    "id": "eudemian_ethics",
-    "title": "Eudemian Ethics",
-    "subtitle": "The Alternative Ethical System",
-    "year": "-350",
-    "type": "Ethical Treatise",
+    "id": "doctrine_of_mean",
+    "title": "Doctrine of the Mean (Zhongyong)",
+    "subtitle": "The Perfect Balance",
+    "year": "-450",
+    "type": "Metaphysical Treatise",
     "icon": "⚖️",
-    "summary": "Aristotle's other major work on ethics, with different emphases and organization than the Nicomachean Ethics.",
-    "keyConcept": "The contemplative life as highest happiness",
-    "keyConceptExplanation": "The life of philosophical contemplation is the most divine and self-sufficient form of happiness",
+    "summary": "Attributed to Confucius's grandson Zisi, this work explores the metaphysical foundations of Confucian ethics and the ideal of perfect harmony.",
+    "keyConcept": "Zhongyong - The Mean",
+    "keyConceptExplanation": "The perfect balance and harmony that comes from following the natural way ordained by Heaven",
     "sections": [
       {
-        "title": "The Three Lives",
-        "content": "Examines life of pleasure, political life, and contemplative life. Concludes contemplative life is best."
+        "title": "The Way of Heaven",
+        "content": "Heaven's way is constant and perfect. Humans must align themselves with this cosmic principle to achieve moral perfection."
       },
       {
-        "title": "Virtue and the Divine",
-        "content": "Stronger emphasis on connection between human virtue and divine activity. Contemplation imitates God's activity."
+        "title": "Sincerity (Cheng)",
+        "content": "Sincerity is the way of Heaven; achieving sincerity is the way of humans. It is the foundation of all moral and spiritual development."
       },
       {
-        "title": "The Role of Fortune",
-        "content": "Discusses how external goods and luck affect happiness. The virtuous person makes best use of any circumstances."
+        "title": "The Golden Mean",
+        "content": "Virtue lies in finding the perfect balance between extremes. The superior person maintains equilibrium in all situations."
       },
       {
-        "title": "Friendship and Self-Sufficiency",
-        "content": "Explores how friendship complements rather than compromises self-sufficiency."
+        "title": "Self-Completion",
+        "content": "Through sincerity, one completes oneself and assists others in their completion. The sage helps all things achieve their proper nature."
       }
     ],
     "funFacts": [
-      "Named after Aristotle's student Eudemus",
-      "Relationship to Nicomachean Ethics is debated by scholars",
-      "Some think it's earlier, some think it's later",
-      "Less studied but contains important differences"
+      "Most metaphysical of the Confucian classics",
+      "Heavily influenced Neo-Confucian cosmology",
+      "Emphasizes the cosmic dimension of human morality",
+      "Contains parallels to Daoist concepts of natural harmony"
     ],
     "keyPrinciples": [
       {
-        "principle": "Contemplative Priority",
-        "explanation": "Theoretical contemplation is the highest human activity"
+        "principle": "Heavenly Mandate",
+        "explanation": "Human nature and moral order derive from Heaven's command"
       },
       {
-        "principle": "Divine Element",
-        "explanation": "Humans have a divine element (nous) that enables contemplation"
+        "principle": "Perfect Sincerity",
+        "explanation": "Genuine authenticity leads to spiritual transformation"
       },
       {
-        "principle": "Moderate Externalism",
-        "explanation": "Some external goods are necessary for full happiness"
+        "principle": "Cosmic Harmony",
+        "explanation": "Human moral cultivation participates in universal order"
       }
     ]
   },
   {
-    "id": "constitution_of_athens",
-    "title": "Constitution of the Athenians",
-    "subtitle": "Political History and Analysis",
-    "year": "-320",
-    "type": "Political History",
+    "id": "spring_autumn_annals",
+    "title": "Spring and Autumn Annals (Chunqiu)",
+    "subtitle": "The Moral Chronicle",
+    "year": "-481",
+    "type": "Historical Chronicle",
+    "icon": "📚",
+    "summary": "A historical chronicle of the State of Lu traditionally attributed to Confucius, demonstrating moral judgment through historical narrative.",
+    "keyConcept": "Moral Historiography",
+    "keyConceptExplanation": "History written to convey moral lessons through praise and blame of historical figures",
+    "sections": [
+      {
+        "title": "Rectification of Names",
+        "content": "Proper use of language reflects moral clarity. Calling things by their correct names reveals the moral nature of actions."
+      },
+      {
+        "title": "Praise and Blame",
+        "content": "Historical narrative serves moral education by subtly praising virtue and condemning vice through careful word choice."
+      },
+      {
+        "title": "Political Legitimacy",
+        "content": "Rulers earn legitimacy through virtuous conduct, not mere hereditary right. The chronicle judges rulers by moral standards."
+      },
+      {
+        "title": "The Decline of Zhou",
+        "content": "Documents the moral and political decline of the Zhou dynasty through loss of ritual propriety and virtuous governance."
+      }
+    ],
+    "funFacts": [
+      "Covers 242 years of Lu state history (722-481 BCE)",
+      "Traditional view: Confucius wrote it; modern view: compiled by various chroniclers",
+      "Generated three major commentaries: Gongyang, Guliang, and Zuo",
+      "Demonstrates Confucian belief that history teaches moral lessons"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Moral Judgment",
+        "explanation": "Historical narrative should convey moral evaluation"
+      },
+      {
+        "principle": "Subtle Teaching",
+        "explanation": "Moral lessons are taught through implication rather than direct statement"
+      },
+      {
+        "principle": "Historical Responsibility",
+        "explanation": "Historians have a moral duty to record truth and teach virtue"
+      }
+    ]
+  },
+  {
+    "id": "book_of_rites",
+    "title": "Book of Rites (Liji)",
+    "subtitle": "The Foundation of Social Order",
+    "year": "-400",
+    "type": "Ritual Manual",
+    "icon": "🏛️",
+    "summary": "A comprehensive guide to ritual practices, social norms, and governmental organization, emphasizing how proper conduct maintains social harmony.",
+    "keyConcept": "Li (禮) - Ritual Propriety",
+    "keyConceptExplanation": "Proper ritual conduct that maintains social order and cultivates virtue in individuals and society",
+    "sections": [
+      {
+        "title": "Family Rituals",
+        "content": "Detailed prescriptions for ceremonies marking life transitions: birth, coming of age, marriage, death, and ancestral veneration."
+      },
+      {
+        "title": "Social Hierarchy",
+        "content": "Proper relationships between ruler and subject, father and son, husband and wife, elder and younger, friend and friend."
+      },
+      {
+        "title": "Educational Principles",
+        "content": "Methods for moral education through ritual practice, music, and the cultivation of proper emotions and attitudes."
+      },
+      {
+        "title": "Governmental Order",
+        "content": "How ritual principles should guide political organization and administrative practices to create harmonious governance."
+      }
+    ],
+    "funFacts": [
+      "Contains the Great Learning and Doctrine of the Mean as chapters",
+      "Compiled during the Warring States period from earlier sources",
+      "Influenced Chinese social customs for over 2,000 years",
+      "Emphasizes that external ritual cultivates internal virtue"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Ritual Cultivation",
+        "explanation": "External practices shape internal character and moral development"
+      },
+      {
+        "principle": "Social Harmony",
+        "explanation": "Proper conduct by all members creates stable, peaceful society"
+      },
+      {
+        "principle": "Hierarchical Order",
+        "explanation": "Different roles and ranks serve the common good when properly fulfilled"
+      }
+    ]
+  },
+  {
+    "id": "book_of_documents",
+    "title": "Book of Documents (Shujing)",
+    "subtitle": "The Wisdom of Ancient Sages",
+    "year": "-1000",
+    "type": "Historical Collection",
     "icon": "📜",
-    "summary": "Aristotle's historical analysis of Athenian constitutional development, the only surviving work from his collection of 158 constitutions.",
-    "keyConcept": "Constitutional evolution",
-    "keyConceptExplanation": "Political systems develop through historical stages reflecting social and economic changes",
+    "summary": "A collection of speeches and documents from ancient Chinese rulers and ministers, presenting models of virtuous governance and moral leadership.",
+    "keyConcept": "Sage Kingship",
+    "keyConceptExplanation": "Rulers achieve legitimacy through moral virtue and concern for the people's welfare, not through force",
     "sections": [
       {
-        "title": "Historical Development",
-        "content": "Traces Athenian constitution from monarchy through aristocracy, tyranny, to democracy. Analyzes causes of constitutional changes."
+        "title": "The Mandate of Heaven",
+        "content": "Heaven grants the right to rule to virtuous leaders and withdraws it from corrupt ones. Political legitimacy depends on moral character."
       },
       {
-        "title": "Institutional Analysis",
-        "content": "Describes Athenian political institutions: Assembly, Council, courts, magistrates. Explains their functions and powers."
+        "title": "Model Rulers: Yao and Shun",
+        "content": "Legendary sage-kings who ruled through moral example, chose successors based on virtue, and prioritized the people's welfare."
       },
       {
-        "title": "Social Context",
-        "content": "Connects constitutional changes to class struggles between aristocrats, farmers, merchants, and the poor."
+        "title": "The Duke of Zhou",
+        "content": "Confucius's ideal of the perfect minister who served loyally, established just institutions, and then retired from power."
       },
       {
-        "title": "Critical Assessment",
-        "content": "Evaluates strengths and weaknesses of Athenian democracy. Criticizes radical democracy while acknowledging its achievements."
+        "title": "Virtuous Administration",
+        "content": "Government officials should be selected for virtue and competence, not birth or wealth. They must serve the people, not themselves."
       }
     ],
     "funFacts": [
-      "Only one of 158 constitutions to survive complete",
-      "Rediscovered on Egyptian papyrus in 1890",
-      "Confirmed Aristotle's authorship of the constitutions project",
-      "Major source for Athenian political history"
+      "One of the Five Classics traditionally associated with Confucius",
+      "Contains documents spanning over 1,500 years of Chinese history",
+      "Many documents are later compositions but represent ancient ideals",
+      "Established the concept of the Mandate of Heaven in Chinese political thought"
     ],
     "keyPrinciples": [
       {
-        "principle": "Historical Method",
-        "explanation": "Understand constitutions through their historical development"
+        "principle": "Moral Legitimacy",
+        "explanation": "Political authority must be based on virtue, not mere power"
       },
       {
-        "principle": "Social Determinism",
-        "explanation": "Constitutions reflect underlying social and economic structures"
+        "principle": "People-Centered Government",
+        "explanation": "Rulers exist to serve the welfare of the people"
       },
       {
-        "principle": "Cyclical Change",
-        "explanation": "Constitutions tend to change in predictable patterns"
+        "principle": "Meritocratic Selection",
+        "explanation": "Officials should be chosen for virtue and ability"
       }
     ]
   },
   {
-    "id": "on_philosophy",
-    "title": "On Philosophy",
-    "subtitle": "The Lost Dialogue",
-    "year": "-350",
+    "id": "book_of_changes",
+    "title": "Book of Changes (Yijing/I Ching)",
+    "subtitle": "The Patterns of Transformation",
+    "year": "-1000",
+    "type": "Divination Manual",
+    "icon": "☯️",
+    "summary": "An ancient divination text based on 64 hexagrams, later interpreted as a philosophical work on the patterns of change in nature and human affairs.",
+    "keyConcept": "The Dao of Change",
+    "keyConceptExplanation": "Reality is characterized by constant change following predictable patterns, which the wise person learns to understand and follow",
+    "sections": [
+      {
+        "title": "The Trigrams and Hexagrams",
+        "content": "Eight basic patterns (trigrams) of broken and unbroken lines combine to form 64 hexagrams representing all possible situations."
+      },
+      {
+        "title": "Yin and Yang",
+        "content": "The interplay of feminine (yin) and masculine (yang) principles drives all change. Balance and complementarity are essential."
+      },
+      {
+        "title": "The Superior Person",
+        "content": "The wise person studies the patterns of change to align with the cosmic order and act appropriately in each situation."
+      },
+      {
+        "title": "Moral Transformation",
+        "content": "Understanding natural change patterns helps in moral development and social harmony. Personal cultivation follows cosmic principles."
+      }
+    ],
+    "funFacts": [
+      "Originally a divination manual, later became philosophical text",
+      "Confucian commentaries (Ten Wings) transformed its interpretation",
+      "Influenced both Confucian and Daoist thought",
+      "Carl Jung studied it as a guide to psychological types and change"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Universal Change",
+        "explanation": "All phenomena undergo constant transformation according to natural patterns"
+      },
+      {
+        "principle": "Cosmic Harmony",
+        "explanation": "Human actions should align with natural and cosmic principles"
+      },
+      {
+        "principle": "Appropriate Response",
+        "explanation": "Wisdom lies in understanding each situation and responding appropriately"
+      }
+    ]
+  },
+  {
+    "id": "book_of_poetry",
+    "title": "Book of Poetry/Odes (Shijing)",
+    "subtitle": "The Songs of Moral Instruction",
+    "year": "-600",
+    "type": "Poetry Collection",
+    "icon": "🎵",
+    "summary": "A collection of 305 poems including folk songs, court music, and religious hymns, which Confucius used for moral and aesthetic education.",
+    "keyConcept": "Poetry as Moral Cultivation",
+    "keyConceptExplanation": "Poetry stimulates proper emotions, teaches virtue through beauty, and refines character through aesthetic appreciation",
+    "sections": [
+      {
+        "title": "Folk Songs (Feng)",
+        "content": "Songs from various regions expressing the joys and sorrows of ordinary people, teaching about human nature and social conditions."
+      },
+      {
+        "title": "Court Music (Ya)",
+        "content": "Formal poetry used in court ceremonies and banquets, expressing ideals of proper governance and social relationships."
+      },
+      {
+        "title": "Religious Hymns (Song)",
+        "content": "Sacred songs used in ancestral temples and religious ceremonies, connecting human virtue with cosmic order."
+      },
+      {
+        "title": "Moral Instruction",
+        "content": "Confucius found moral lessons in the poems, teaching that literature should 'stimulate the mind, help observation, promote sociability, and regulate resentment.'"
+      }
+    ],
+    "funFacts": [
+      "Confucius supposedly selected these 305 from over 3,000 poems",
+      "Used as educational texts for teaching virtue and proper emotions",
+      "Includes love songs, political satire, and agricultural celebrations",
+      "First great anthology of Chinese poetry"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Aesthetic Education",
+        "explanation": "Beauty and art are essential for complete moral development"
+      },
+      {
+        "principle": "Emotional Regulation",
+        "explanation": "Poetry helps cultivate proper feelings and emotional responses"
+      },
+      {
+        "principle": "Social Commentary",
+        "explanation": "Literature can critique society while maintaining cultural values"
+      }
+    ]
+  },
+  {
+    "id": "confucian_conversations",
+    "title": "Family Sayings of Confucius (Kongzi Jiayu)",
+    "subtitle": "Extended Teachings and Dialogues",
+    "year": "-400",
+    "type": "Biographical Collection",
+    "icon": "👨‍🏫",
+    "summary": "A collection of longer conversations and teachings of Confucius, providing more detailed context for his philosophical views and educational methods.",
+    "keyConcept": "The Master's Method",
+    "keyConceptExplanation": "Confucius taught through dialogue, example, and gradual guidance rather than systematic exposition",
+    "sections": [
+      {
+        "title": "Educational Philosophy",
+        "content": "Teaching should be adapted to each student's nature and ability. 'I never refuse instruction to anyone who has sought it eagerly.'"
+      },
+      {
+        "title": "Character Formation",
+        "content": "Detailed discussions of how to cultivate virtue, overcome personal flaws, and develop moral wisdom through practice."
+      },
+      {
+        "title": "Political Wisdom",
+        "content": "Extended conversations about governance, showing how moral principles apply to practical political problems."
+      },
+      {
+        "title": "Daily Conduct",
+        "content": "Specific guidance on behavior in family relationships, social interactions, and professional responsibilities."
+      }
+    ],
+    "funFacts": [
+      "Provides longer, more detailed conversations than the Analects",
+      "Shows Confucius's pedagogical methods in action",
+      "Contains biographical information about the Master's life",
+      "Later compilation but preserves early Confucian educational traditions"
+    ],
+    "keyPrinciples": [
+      {
+        "principle": "Individualized Teaching",
+        "explanation": "Education must be adapted to each person's specific needs and abilities"
+      },
+      {
+        "principle": "Learning Through Practice",
+        "explanation": "Virtue is developed through habitual right action, not just theoretical knowledge"
+      },
+      {
+        "principle": "Gradual Development",
+        "explanation": "Moral cultivation is a lifelong process requiring patience and persistence"
+      }
+    ]
+  },
+  {
+    "id": "mencius_text",
+    "title": "Mencius (Mengzi)",
+    "subtitle": "The Development of Confucian Idealism",
+    "year": "-300",
     "type": "Philosophical Dialogue",
-    "icon": "💎",
-    "summary": "Aristotle's lost dialogue criticizing Plato's Theory of Forms and developing his own metaphysical alternative.",
-    "keyConcept": "Critique of Platonic Forms",
-    "keyConceptExplanation": "Systematic arguments against the existence of separate Platonic Forms",
+    "icon": "❤️",
+    "summary": "Though by Confucius's philosophical heir Mencius, this text develops key Confucian themes about human nature, virtue, and governance through extensive dialogues.",
+    "keyConcept": "Innate Goodness of Human Nature",
+    "keyConceptExplanation": "All humans are born with innate moral sentiments that, if properly cultivated, naturally develop into full virtue",
     "sections": [
       {
-        "title": "The Third Man Argument",
-        "content": "If a Form exists because particulars share a quality, there must be a higher Form for what the Form and particulars share, leading to infinite regress."
+        "title": "The Four Beginnings",
+        "content": "All humans possess innate feelings of compassion, shame, respect, and right/wrong that are the seeds of the four cardinal virtues."
       },
       {
-        "title": "Arguments from the Sciences",
-        "content": "Mathematics and other sciences don't require separate Forms. They study physical objects qua mathematical properties."
+        "title": "Moral Cultivation",
+        "content": "Like plants needing proper conditions to grow, moral nature requires education, practice, and proper environment to flourish."
       },
       {
-        "title": "The Argument from Relatives",
-        "content": "If there's a Form of 'the Equal,' it must be equal to something. But Forms can't be related to particulars."
+        "title": "Benevolent Government",
+        "content": "True political authority comes from moral virtue and concern for people's welfare. Rulers who oppress lose legitimacy."
       },
       {
-        "title": "Development of Alternative",
-        "content": "Began developing his own concepts of substance, form-in-matter, and the Unmoved Mover as alternatives to Platonic Forms."
+        "title": "The People's Welfare",
+        "content": "Government exists for the people's benefit. If rulers fail in their duties, the people have the right to rebel."
       }
     ],
     "funFacts": [
-      "Known only through fragments quoted by later authors",
-      "Marked Aristotle's break from Platonism",
-      "The 'Third Man' argument remains influential in metaphysics",
-      "Shows Aristotle's philosophical development"
+      "Became one of the Four Books in Neo-Confucian education",
+      "Presents Confucian political philosophy in systematic form",
+      "Influenced concepts of popular sovereignty and just revolution",
+      "Contains famous analogies like the child falling into a well"
     ],
     "keyPrinciples": [
       {
-        "principle": "Immanent Forms",
-        "explanation": "Forms exist in particular things, not separately"
+        "principle": "Natural Goodness",
+        "explanation": "Human moral nature is originally good and can be cultivated"
       },
       {
-        "principle": "No Infinite Regress",
-        "explanation": "Good explanations don't generate infinite chains"
+        "principle": "People's Rights",
+        "explanation": "Government legitimacy depends on serving the people's welfare"
       },
       {
-        "principle": "Empirical Grounding",
-        "explanation": "Metaphysics must be grounded in observable reality"
-      }
-    ]
-  },
-  {
-    "id": "protrepticus",
-    "title": "Protrepticus",
-    "subtitle": "Exhortation to Philosophy",
-    "year": "-350",
-    "type": "Philosophical Exhortation",
-    "icon": "🗣️",
-    "summary": "Aristotle's popular work urging the value of philosophical life, known only through fragments and quotations.",
-    "keyConcept": "The inescapability of philosophy",
-    "keyConceptExplanation": "To argue against philosophy is itself to philosophize, so one must philosophize",
-    "sections": [
-      {
-        "title": "The Opening Argument",
-        "content": "One must either philosophize or not philosophize. But to choose not to philosophize requires philosophical reasoning. Therefore, one must philosophize."
-      },
-      {
-        "title": "The Value of Contemplation",
-        "content": "Philosophical contemplation is the most pleasant, virtuous, and self-sufficient activity. It actualizes what is highest in human nature."
-      },
-      {
-        "title": "Philosophy vs Practical Arts",
-        "content": "While practical arts serve necessary ends, philosophy serves the highest end - understanding for its own sake. It liberates us from mere utility."
-      },
-      {
-        "title": "The Philosophical Life",
-        "content": "The life of philosophy is the most divine life available to humans, allowing us to participate in the eternal and universal."
-      }
-    ],
-    "funFacts": [
-      "Means 'exhortation' or 'persuasion' in Greek",
-      "Was Aristotle's most popular work in antiquity",
-      "Known only through quotations in later authors like Iamblichus",
-      "Influenced many to pursue philosophical life",
-      "More Platonic in tone than his later works"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Philosophical Necessity",
-        "explanation": "Philosophy is unavoidable for rational beings"
-      },
-      {
-        "principle": "Contemplative Superiority",
-        "explanation": "Theoretical life is superior to practical life"
-      },
-      {
-        "principle": "Intrinsic Value",
-        "explanation": "Knowledge is valuable for its own sake, not just utility"
-      }
-    ]
-  },
-  {
-    "id": "on_generation_corruption",
-    "title": "On Generation and Corruption",
-    "subtitle": "The Theory of Change",
-    "year": "-350",
-    "type": "Physical Treatise",
-    "icon": "🔥",
-    "summary": "Aristotle's analysis of substantial change - how things come into being and pass away.",
-    "keyConcept": "Substantial change vs alteration",
-    "keyConceptExplanation": "Generation/corruption involve new substances; alteration involves changes in existing substances",
-    "sections": [
-      {
-        "title": "Types of Change",
-        "content": "Distinguishes generation/corruption (substantial change) from alteration (qualitative change), growth (quantitative change), and locomotion (change of place)."
-      },
-      {
-        "title": "The Four Elements",
-        "content": "All sublunary bodies composed of earth, water, air, fire. Each characterized by two primary qualities: hot/cold, wet/dry."
-      },
-      {
-        "title": "The Process of Mixture",
-        "content": "True mixture isn't just juxtaposition but fusion where ingredients are potentially present but actually form a new substance."
-      },
-      {
-        "title": "Contact and Action",
-        "content": "For change to occur, agent and patient must be in contact and have contrasting qualities (hot acts on cold, etc.)."
-      }
-    ],
-    "funFacts": [
-      "Provided the chemical theory for 2000 years",
-      "His element theory influenced alchemy and early chemistry",
-      "Rejected atomism in favor of continuum theory",
-      "Distinguished chemical from physical changes"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Elemental Transformation",
-        "explanation": "Elements can change into one another by quality alteration"
-      },
-      {
-        "principle": "Contact Requirement",
-        "explanation": "All action requires contact between agent and patient"
-      },
-      {
-        "principle": "Qualitative Basis",
-        "explanation": "Elemental differences are qualitative, not just quantitative"
-      }
-    ]
-  },
-  {
-    "id": "magna_moralia",
-    "title": "Magna Moralia",
-    "subtitle": "The Great Ethics",
-    "year": "-340",
-    "type": "Ethical Treatise",
-    "icon": "📜",
-    "summary": "A shorter work on ethics likely compiled by Aristotle's students, summarizing his ethical views.",
-    "keyConcept": "Virtue as a mean state",
-    "keyConceptExplanation": "Moral virtue is a state of character concerned with choice, lying in the mean relative to us",
-    "sections": [
-      {
-        "title": "Summary of Ethics",
-        "content": "Covers same topics as Nicomachean Ethics: happiness, virtue, friendship, but in more condensed and sometimes different form."
-      },
-      {
-        "title": "The Definition of Virtue",
-        "content": "Virtue is a state of the soul that chooses the mean relative to us, defined by reason as the prudent person would define it."
-      },
-      {
-        "title": "Practical Wisdom",
-        "content": "Emphasizes the role of practical wisdom (phronesis) in determining the mean in particular situations."
-      },
-      {
-        "title": "Friendship Types",
-        "content": "Discusses the three types of friendship but with slightly different emphasis and examples."
-      }
-    ],
-    "funFacts": [
-      "Most scholars doubt Aristotle wrote it himself",
-      "Probably student notes or compilation",
-      "Shorter and less sophisticated than other ethical works",
-      "Useful for seeing how Aristotle's teaching was transmitted"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Student Compilation",
-        "explanation": "Likely represents how students understood and transmitted Aristotle's teaching"
-      },
-      {
-        "principle": "Simplified Ethics",
-        "explanation": "Presents Aristotle's ethics in more accessible form"
-      },
-      {
-        "principle": "Teaching Tool",
-        "explanation": "May have been used as introductory text for students"
-      }
-    ]
-  },
-  {
-    "id": "on_breath",
-    "title": "On Breath",
-    "subtitle": "The Physiology of Respiration",
-    "year": "-350",
-    "type": "Biological Treatise",
-    "icon": "💨",
-    "summary": "Aristotle's analysis of respiration and its role in vital functions across different types of animals.",
-    "keyConcept": "Pneuma as vital spirit",
-    "keyConceptExplanation": "Breath or pneuma is the carrier of vital heat and soul functions in living organisms",
-    "sections": [
-      {
-        "title": "Comparative Respiration",
-        "content": "Analyzes how different animals breathe: lungs, gills, tracheae, or through skin. Relates respiratory methods to habitat and anatomy."
-      },
-      {
-        "title": "Vital Heat Theory",
-        "content": "Respiration serves to cool the innate heat of living organisms. The heart is the source of this vital heat."
-      },
-      {
-        "title": "Pneuma and Soul Functions",
-        "content": "Breath (pneuma) carries psychic functions. It's the instrument of the soul for movement and sensation."
-      },
-      {
-        "title": "Embryological Development",
-        "content": "Discusses how respiratory systems develop in embryos and their connection to cardiovascular systems."
-      }
-    ],
-    "funFacts": [
-      "His theory of pneuma influenced later vitalist theories",
-      "Correctly identified heart as central to circulation",
-      "Made detailed observations of fish gills and insect tracheae",
-      "Connected respiration with temperature regulation"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Vital Heat",
-        "explanation": "Living organisms maintain innate heat that requires regulation"
-      },
-      {
-        "principle": "Functional Adaptation",
-        "explanation": "Respiratory systems adapt to organisms' environments and needs"
-      },
-      {
-        "principle": "Psychic Instrument",
-        "explanation": "Pneuma serves as the soul's instrument for bodily functions"
-      }
-    ]
-  },
-  {
-    "id": "economics",
-    "title": "Economics",
-    "subtitle": "Household Management",
-    "year": "-330",
-    "type": "Economic Treatise",
-    "icon": "💼",
-    "summary": "Work on household and estate management, likely by Aristotle's students rather than himself.",
-    "keyConcept": "Oikonomia vs chrematistics",
-    "keyConceptExplanation": "Household management for the good life vs wealth-getting for its own sake",
-    "sections": [
-      {
-        "title": "Household Management",
-        "content": "The art of managing household resources for the good life. Includes relations between husband-wife, parent-child, master-slave."
-      },
-      {
-        "title": "Wealth Acquisition",
-        "content": "Distinguishes natural wealth-getting (for household needs) from unnatural (money-making for its own sake)."
-      },
-      {
-        "title": "The Four Types of Economy",
-        "content": "Royal, provincial, city, and individual household management. Each has its own principles and challenges."
-      },
-      {
-        "title": "Practical Advice",
-        "content": "Provides practical advice for estate management, agriculture, and household organization."
-      }
-    ],
-    "funFacts": [
-      "Probably not by Aristotle himself",
-      "Reflects conventional Greek views on household management",
-      "Source for understanding ancient Greek domestic life",
-      "Origin of word 'economics' (oikonomia = household management)"
-    ],
-    "keyPrinciples": [
-      {
-        "principle": "Limited Wealth",
-        "explanation": "Wealth should be limited to what's needed for the good life"
-      },
-      {
-        "principle": "Natural Acquisition",
-        "explanation": "Some forms of wealth-getting are natural, others unnatural"
-      },
-      {
-        "principle": "Household Priority",
-        "explanation": "The household is the fundamental economic unit"
+        "principle": "Moral Politics",
+        "explanation": "Political power should be based on virtue, not force"
       }
     ]
   }

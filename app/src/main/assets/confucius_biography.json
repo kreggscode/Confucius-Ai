@@ -1,250 +1,204 @@
 {
-  "name": "Aristotle",
-  "title": "The Philosopher & Founder of Western Science",
-  "birth": "384 BCE",
-  "death": "322 BCE",
-  "birthplace": "Stagira, Chalcidice, Greece",
-  "nationality": "Greek",
+  "name": "Confucius",
+  "title": "The Great Teacher & Founder of Confucianism",
+  "birth": "551 BCE",
+  "death": "479 BCE",
+  "birthplace": "Zou, State of Lu (modern-day Shandong Province, China)",
+  "nationality": "Chinese",
   
-  "summary": "Aristotle was one of the most influential thinkers in Western history, founding systematic philosophy and science. He established the first comprehensive system of Western philosophy, encompassing morality, aesthetics, logic, science, politics, and metaphysics. His works became the foundation of medieval scholarship and shaped Western intellectual tradition for two millennia.",
+  "summary": "Confucius was ancient China's most influential philosopher and teacher, whose ethical and social philosophy formed the foundation of East Asian civilization. His teachings emphasized moral cultivation, social harmony, proper relationships, and virtuous governance. Confucianism became the dominant philosophical system in China for over 2,000 years and profoundly shaped the cultures of Korea, Japan, Vietnam, and other East Asian societies.",
   
   "earlyLife": [
-    "Born in 384 BCE in Stagira, a Greek colony on the coast of Thrace",
-    "Son of Nicomachus, court physician to King Amyntas III of Macedon",
-    "Orphaned at a young age and raised by a guardian named Proxenus",
-    "Moved to Athens at age 17 to study at Plato's Academy",
-    "Studied under Plato for 20 years, becoming his most brilliant student",
-    "Left Athens after Plato's death in 347 BCE, possibly due to political tensions",
-    "Traveled to Assos and Lesbos, where he conducted biological research",
-    "Married Pythias, with whom he had a daughter, also named Pythias"
+    "Born Kong Qiu in 551 BCE in the State of Lu during the Spring and Autumn period",
+    "Father Kong He died when Confucius was three years old",
+    "Raised in poverty by his mother Yan Zhengzai after father's early death",
+    "Showed exceptional intelligence and love for learning from an early age",
+    "Worked various jobs including bookkeeper, cowherd, and clerk to support his family",
+    "Married at age 19 to a woman from the Qiguan family",
+    "Had a son named Kong Li and possibly daughters",
+    "Dedicated himself to learning ancient Chinese traditions, rituals, and texts",
+    "Began teaching around age 30, accepting students from all social classes"
   ],
   
-  "academyYears": {
-    "period": "367-347 BCE",
-    "description": "Aristotle's formative years studying and teaching at Plato's Academy in Athens",
+  "teachingCareer": {
+    "period": "521-479 BCE",
+    "description": "Confucius's revolutionary approach to education and moral philosophy",
     "keyDevelopments": [
       {
-        "title": "Student of Plato",
-        "description": "Became Plato's most gifted student, though he increasingly disagreed with his teacher's theories",
-        "impact": "Developed his own philosophical system while respecting his teacher's methods"
+        "title": "Democratic Education",
+        "description": "First teacher to accept students regardless of social class, requiring only tuition",
+        "impact": "Democratized education and created merit-based social mobility"
       },
       {
-        "title": "Early Dialogues",
-        "description": "Wrote philosophical dialogues in Plato's style, though none survive complete",
-        "impact": "Established his literary and philosophical reputation"
+        "title": "Moral Cultivation",
+        "description": "Emphasized character development over mere technical knowledge",
+        "impact": "Established education as moral and intellectual transformation"
       },
       {
-        "title": "Methodological Development",
-        "description": "Began developing his empirical approach, contrasting with Plato's mathematical idealism",
-        "impact": "Laid groundwork for his scientific method"
+        "title": "The Analects",
+        "description": "Collection of sayings and conversations recorded by disciples",
+        "impact": "Preserved his teachings for posterity and shaped Chinese thought"
       }
     ]
   },
   
   "majorWorks": [
     {
-      "category": "Logic",
+      "category": "Core Texts",
       "works": [
         {
-          "title": "Organon (Collection)",
-          "description": "The foundation of formal logic, including Categories, On Interpretation, Prior Analytics, Posterior Analytics, Topics, and Sophistical Refutations"
+          "title": "The Analects (Lunyu)",
+          "description": "Collection of Confucius's sayings and conversations with disciples, compiled posthumously"
         }
       ]
     },
     {
-      "category": "Natural Philosophy",
+      "category": "Classical Editing",
       "works": [
         {
-          "title": "Physics",
-          "description": "Comprehensive study of nature, motion, change, time, and the principles of the physical world"
+          "title": "Book of Changes (I Ching)",
+          "description": "Traditional attribution for editing and commentating this divination text"
         },
         {
-          "title": "On the Heavens",
-          "description": "Cosmological work describing the celestial spheres and elemental theory"
+          "title": "Book of Documents (Shujing)",
+          "description": "Collection of political speeches and documents from ancient Chinese rulers"
         },
         {
-          "title": "On Generation and Corruption",
-          "description": "Analysis of change, growth, and the transformation of elements"
-        }
-      ]
-    },
-    {
-      "category": "Biology",
-      "works": [
-        {
-          "title": "History of Animals",
-          "description": "Encyclopedic compilation of observations on animal behavior and classification"
+          "title": "Book of Poetry (Shijing)",
+          "description": "Anthology of Chinese poems and songs from various periods"
         },
         {
-          "title": "Parts of Animals",
-          "description": "Teleological analysis of biological structures and their functions"
+          "title": "Book of Rites (Liji)",
+          "description": "Manual of ritual and ceremonial practices for proper social conduct"
         },
         {
-          "title": "Generation of Animals",
-          "description": "Study of reproduction, heredity, and embryonic development"
-        }
-      ]
-    },
-    {
-      "category": "Metaphysics",
-      "works": [
-        {
-          "title": "Metaphysics",
-          "description": "Investigation into being, substance, causality, and the fundamental nature of reality"
-        }
-      ]
-    },
-    {
-      "category": "Ethics and Politics",
-      "works": [
-        {
-          "title": "Nicomachean Ethics",
-          "description": "Comprehensive ethical theory centered on virtue, happiness, and the good life"
-        },
-        {
-          "title": "Politics",
-          "description": "Analysis of political systems, citizenship, and the ideal state"
-        },
-        {
-          "title": "Eudemian Ethics",
-          "description": "Alternative presentation of his ethical theory"
-        }
-      ]
-    },
-    {
-      "category": "Aesthetics",
-      "works": [
-        {
-          "title": "Poetics",
-          "description": "Analysis of tragedy, poetry, and the theory of catharsis"
-        },
-        {
-          "title": "Rhetoric",
-          "description": "Systematic study of persuasive speech and argumentation"
+          "title": "Spring and Autumn Annals",
+          "description": "Chronicle of the State of Lu, traditionally attributed to Confucius"
         }
       ]
     }
   ],
   
   "achievements": [
-    "Founded the Lyceum in Athens (335 BCE), one of the first research institutions",
-    "Created the first comprehensive system of formal logic",
-    "Established the foundations of biology through empirical observation",
-    "Developed the theory of the four causes (material, formal, efficient, final)",
-    "Formulated the concept of virtue ethics and the golden mean",
-    "Pioneered political science through comparative study of constitutions",
-    "Established the principles of taxonomy and classification",
-    "Developed the theory of hylomorphism (matter and form)",
-    "Created the first systematic approach to rhetoric and poetics",
-    "Tutored Alexander the Great, influencing world history"
+    "Established the first private school in Chinese history (around 521 BCE)",
+    "Taught over 3,000 students, with 72 becoming renowned scholars",
+    "Created the foundation of Chinese educational philosophy",
+    "Developed the concept of junzi (exemplary person or gentleman)",
+    "Established the importance of filial piety (xiao) in Chinese culture",
+    "Promoted meritocracy over hereditary nobility",
+    "Preserved and transmitted ancient Chinese classical literature",
+    "Influenced Chinese governmental and social systems for millennia",
+    "Created ethical framework emphasizing ren (benevolence) and li (ritual propriety)",
+    "Established education as a means of moral and social transformation"
   ],
   
   "philosophy": [
-    "Empiricism: Knowledge begins with sense experience",
-    "Teleology: Nature acts for purposes and nothing in vain",
-    "Hylomorphism: All physical objects are compounds of matter and form",
-    "The Golden Mean: Virtue lies between extremes of excess and deficiency",
-    "Four Causes: Complete understanding requires material, formal, efficient, and final causes",
-    "Potentiality and Actuality: Everything contains what it is and what it can become",
-    "The Political Animal: Humans achieve fulfillment only in community",
-    "Eudaimonia: The highest human good is flourishing through virtuous activity",
-    "The Unmoved Mover: Eternal, immaterial first cause of all motion",
-    "Moderation in all things, including philosophy itself"
+    "Ren (仁): Benevolence, humaneness, and love for others",
+    "Li (礼): Ritual propriety, proper conduct, and social etiquette", 
+    "Xiao (孝): Filial piety and respect for parents and ancestors",
+    "Junzi (君子): The exemplary person who embodies moral virtues",
+    "Zhengming (正名): Rectification of names - calling things by their proper names",
+    "Wu Wei: Government through moral example rather than force",
+    "Education for all: Learning should be available regardless of social status",
+    "The Golden Rule: 'Do not impose on others what you do not wish for yourself'",
+    "Harmony through hierarchy: Social order through proper relationships",
+    "Continuous self-improvement through study and moral cultivation"
   ],
   
   "personalLife": [
-    "Born into a medical family, giving him early exposure to biological observation",
-    "Married Pythias, niece of King Hermias of Atarneus, who died young",
-    "Later had a son, Nicomachus, with Herpyllis of Stagira",
-    "Served as tutor to young Alexander the Great from 343 to 340 BCE",
-    "Founded the Lyceum in Athens, featuring covered walkways (peripatoi) for teaching",
-    "Known for his meticulous research methods and extensive data collection",
-    "Fled Athens in 323 BCE after Alexander's death, fearing anti-Macedonian sentiment",
-    "Died in 322 BCE in Chalcis, reportedly from a stomach illness",
-    "Left his library and manuscripts to his student Theophrastus"
+    "Born into minor nobility but grew up in reduced circumstances",
+    "Father died when he was very young, leaving family in poverty",
+    "Worked humble jobs while pursuing learning and self-improvement",
+    "Married and had children, emphasizing family values in his teachings",
+    "Served briefly in government positions in the State of Lu",
+    "Traveled extensively seeking rulers who would implement his ideas",
+    "Spent 14 years wandering various states promoting his philosophy",
+    "Returned to Lu in his later years, focusing on teaching and editing classics",
+    "Died in 479 BCE, reportedly saddened by the state of society",
+    "Lived modestly despite having wealthy and influential students"
   ],
   
   "legacy": [
-    "Founder of Western logic and scientific methodology",
-    "His works formed the basis of medieval scholasticism (via Aquinas)",
-    "Influenced Islamic philosophy through Avicenna and Averroes",
-    "Shaped Renaissance thought and the scientific revolution",
-    "Virtue ethics revived in 20th century moral philosophy",
-    "His biological classification system preceded Linnaeus by 2000 years",
-    "Concepts of potentiality and actuality influenced psychology and biology",
-    "Rhetorical theories still taught in communication studies",
-    "Political theories influenced constitutional government",
-    "His Lyceum became the model for universities and research institutions"
+    "Confucianism became China's official philosophy for over 2,000 years",
+    "Shaped the governmental systems of China, Korea, Japan, and Vietnam",
+    "Established the Chinese examination system based on merit",
+    "Created the foundation of East Asian educational values",
+    "Influenced concepts of family, society, and government across Asia",
+    "His birthday is celebrated as Teachers' Day in many Asian countries",
+    "Confucian institutes worldwide promote Chinese language and culture",
+    "Business ethics and management philosophy in East Asia reflect his teachings",
+    "Modern political leaders continue to reference Confucian principles",
+    "UNESCO recognizes him as one of the ten greatest thinkers in human history"
   ],
   
   "famousQuotes": [
-    "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
-    "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
-    "Nature does nothing in vain.",
-    "The whole is more than the sum of its parts.",
-    "Man is by nature a political animal.",
-    "The roots of education are bitter, but the fruit is sweet.",
-    "Happiness is the meaning and the purpose of life, the whole aim and end of human existence.",
-    "Quality is not an act, it is a habit.",
-    "The law is reason, free from passion.",
-    "To perceive is to suffer."
+    "It does not matter how slowly you go as long as you do not stop.",
+    "The man who moves a mountain begins by carrying away small stones.",
+    "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+    "Do not impose on others what you do not wish for yourself.",
+    "The superior man is modest in his speech but exceeds in his actions.",
+    "Real knowledge is to know the extent of one's ignorance.",
+    "Study the past if you would define the future.",
+    "When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves.",
+    "The person who asks a question is a fool for five minutes; the person who does not ask a question remains a fool forever."
   ],
   
-  "scientificImpact": {
-    "biology": "Founded biological science through empirical observation and classification of 500+ species",
-    "physics": "Developed comprehensive physical theory that dominated for 2000 years",
-    "logic": "Created formal logic with the syllogism as its centerpiece",
-    "psychology": "Pioneered study of the soul and mental faculties",
-    "cosmology": "Developed geocentric model that shaped astronomy until Copernicus",
-    "methodology": "Established principles of empirical research and systematic investigation"
+  "socialImpact": {
+    "education": "Democratized learning and established merit-based advancement in Chinese society",
+    "government": "Promoted rule by moral example and meritocratic civil service",
+    "family": "Emphasized filial piety as foundation of social harmony",
+    "ethics": "Created framework for personal and social moral development",
+    "culture": "Preserved and transmitted ancient Chinese classical traditions",
+    "international": "Confucian values spread throughout East and Southeast Asia"
   },
   
   "educationalContributions": [
-    "Founded the Peripatetic School at the Lyceum",
-    "Developed the first research library and museum",
-    "Pioneered systematic lecture courses and textbooks",
-    "Emphasized empirical observation alongside theoretical reasoning",
-    "Created the first biological research collection",
-    "Established the model of teacher-student succession",
-    "Integrated research and teaching as complementary activities",
-    "Developed specialized curricula for different sciences",
-    "Emphasized both theoretical and practical knowledge",
-    "Created the model of the comprehensive university"
+    "First to establish private education accessible to all social classes",
+    "Developed holistic education combining moral, intellectual, and practical training",
+    "Emphasized learning through dialogue and questioning rather than rote memorization",
+    "Created the ideal of the teacher-student relationship based on respect and dedication",
+    "Established lifelong learning as a virtue and necessity",
+    "Integrated classical texts into systematic curriculum",
+    "Promoted education as means of social mobility and personal transformation",
+    "Developed pedagogical methods still used in East Asian education",
+    "Created the concept of education serving both individual and social good",
+    "Established the examination system that shaped Chinese bureaucracy for centuries"
   ],
 
   "keyConcepts": [
     {
-      "concept": "Four Causes",
-      "explanation": "Material (what it's made of), Formal (its essence), Efficient (what made it), Final (its purpose)"
+      "concept": "Ren (Benevolence)",
+      "explanation": "The highest virtue encompassing love, kindness, human-heartedness, and care for others"
     },
     {
-      "concept": "Eudaimonia",
-      "explanation": "Human flourishing achieved through virtuous activity in accordance with reason"
+      "concept": "Li (Ritual Propriety)",
+      "explanation": "Proper conduct, ceremonies, and social etiquette that maintain harmonious relationships"
     },
     {
-      "concept": "The Golden Mean",
-      "explanation": "Virtue as the intermediate between excess and deficiency in emotions and actions"
+      "concept": "Junzi (Exemplary Person)",
+      "explanation": "The moral ideal of a person who cultivates virtue and leads by moral example"
     },
     {
-      "concept": "Hylomorphism",
-      "explanation": "All physical substances are compounds of matter (hyle) and form (morphe)"
+      "concept": "Xiao (Filial Piety)",
+      "explanation": "Respect, obedience, and care for parents and ancestors as foundation of social order"
     },
     {
-      "concept": "Potentiality/Actuality",
-      "explanation": "Everything contains both what it is (actuality) and what it can become (potentiality)"
+      "concept": "Zhengming (Rectification of Names)",
+      "explanation": "Calling things by their proper names to ensure clarity and honesty in communication"
     },
     {
-      "concept": "Unmoved Mover",
-      "explanation": "Eternal, immaterial first cause that moves everything as final cause without being moved"
+      "concept": "The Mandate of Heaven",
+      "explanation": "Rulers derive legitimacy from moral virtue and lose it through immoral behavior"
     }
   ],
 
   "influence": {
-    "ancientWorld": "Founded Peripatetic school that continued for 800 years",
-    "medievalEurope": "Became 'The Philosopher' through Aquinas's synthesis with Christianity",
-    "islamicWorld": "Known as 'The First Teacher' to Islamic philosophers",
-    "renaissance": "Rediscovery sparked scientific and humanistic revolution",
-    "modernPhilosophy": "Virtue ethics revival and continued influence on metaphysics",
-    "contemporaryScience": "Methodological principles still inform scientific practice"
+    "ancientChina": "Became dominant philosophical school during Han Dynasty (206 BCE - 220 CE)",
+    "eastAsia": "Shaped cultures of Korea, Japan, Vietnam, and other neighboring countries",
+    "imperialChina": "Formed basis of civil service examinations and governmental philosophy",
+    "modernAsia": "Continues to influence business practices, education, and social values",
+    "globalPhilosophy": "Recognized worldwide as major ethical and political philosophy",
+    "contemporaryWorld": "Referenced in discussions of leadership, ethics, and educational reform"
   }
 }

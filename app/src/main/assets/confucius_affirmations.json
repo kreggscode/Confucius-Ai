@@ -1,502 +1,502 @@
 [
   {
     "id": 1,
-    "affirmation": "I cultivate habits of excellence in all that I do.",
-    "category": "Virtue & Character"
+    "affirmation": "I cultivate ren (benevolence) as the foundation of my humanity.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 2,
-    "affirmation": "My purpose is to actively exercise my soul's faculties in conformity with virtue.",
-    "category": "Purpose & The Good Life"
+    "affirmation": "I treat others with the same compassion I wish for myself.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 3,
-    "affirmation": "I am a rational being, and I use my reason to guide my actions.",
-    "category": "Logic & Reason"
+    "affirmation": "I practice li (ritual propriety) to bring harmony to my community.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 4,
-    "affirmation": "I find happiness in living a life of virtue and purpose.",
-    "category": "Happiness & The Good Life"
+    "affirmation": "I honor my ancestors through respectful remembrance and proper ceremonies.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 5,
-    "affirmation": "I am by nature a social and political animal; I thrive in community.",
-    "category": "Politics & Community"
+    "affirmation": "I practice xiao (filial piety) by caring for my parents with love and respect.",
+    "category": "Xiao & Family"
   },
   {
     "id": 6,
-    "affirmation": "I face life's challenges with courage, finding the mean between fear and recklessness.",
-    "category": "Courage & Fear"
+    "affirmation": "My family relationships form the root of all virtue in society.",
+    "category": "Xiao & Family"
   },
   {
     "id": 7,
-    "affirmation": "I act with justice, fairness, and for the common advantage.",
-    "category": "Justice & Law"
+    "affirmation": "I strive to become a junzi (gentleman) through moral cultivation.",
+    "category": "Junzi & Character"
   },
   {
     "id": 8,
-    "affirmation": "I am a lifelong learner, for all men by nature desire to know.",
-    "category": "Education & Learning"
+    "affirmation": "I lead by moral example rather than force or coercion.",
+    "category": "Junzi & Character"
   },
   {
     "id": 9,
-    "affirmation": "I nurture deep, virtuous friendships that are essential to a complete life.",
-    "category": "Friendship"
+    "affirmation": "I practice yi (righteousness) by doing what is right regardless of personal gain.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 10,
-    "affirmation": "I use my power of speech to persuade with truth, reason, and good character.",
-    "category": "Rhetoric & Persuasion"
+    "affirmation": "I choose moral principles over wealth and status when they conflict.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 11,
-    "affirmation": "I seek the golden mean in my emotions and actions, avoiding excess and deficiency.",
-    "category": "The Mean & Moderation"
+    "affirmation": "I pursue zhi (wisdom) through both learning and reflective thinking.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 12,
-    "affirmation": "I contemplate the deeper reality and principles that govern the world.",
-    "category": "Metaphysics & Reality"
+    "affirmation": "I balance study with contemplation, for learning without thinking is useless.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 13,
-    "affirmation": "I observe the natural world with wonder, knowing nature does nothing in vain.",
-    "category": "Science & Nature"
+    "affirmation": "I maintain xin (trustworthiness) in all my words and actions.",
+    "category": "Xin & Trust"
   },
   {
     "id": 14,
-    "affirmation": "I understand things by seeking their ultimate purpose and final cause.",
-    "category": "Purpose & Final Cause"
+    "affirmation": "My word is my bond, and I honor all commitments I make.",
+    "category": "Xin & Trust"
   },
   {
     "id": 15,
-    "affirmation": "My soul is the active essence of my being, guiding my growth and perception.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I understand that self-cultivation is a lifelong journey without end.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 16,
-    "affirmation": "I use my wealth as a tool for virtuous living, not as an end in itself.",
-    "category": "Wealth & Economics"
+    "affirmation": "I examine myself daily to correct my faults and strengthen my virtues.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 17,
-    "affirmation": "I appreciate art that represents the inward significance of things, not just their appearance.",
-    "category": "Art & Poetry"
+    "affirmation": "I respect the social order while working to improve it through virtue.",
+    "category": "Social Harmony"
   },
   {
     "id": 18,
-    "affirmation": "I fulfill my role within my community with dignity and responsibility.",
-    "category": "Politics & Community"
+    "affirmation": "I fulfill my role in society with dignity and responsibility.",
+    "category": "Social Harmony"
   },
   {
     "id": 19,
-    "affirmation": "I develop my character through consistent, deliberate practice.",
-    "category": "Virtue & Character"
+    "affirmation": "I govern myself through moral principles, not just laws.",
+    "category": "Governance & Order"
   },
   {
     "id": 20,
-    "affirmation": "I bear the accidents of life with dignity and grace, making the best of circumstances.",
-    "category": "Fortitude"
+    "affirmation": "I believe good government starts with the moral cultivation of leaders.",
+    "category": "Governance & Order"
   },
   {
     "id": 21,
-    "affirmation": "I am patient, for the roots of education are bitter, but the fruit is sweet.",
-    "category": "Education & Learning"
+    "affirmation": "I practice the golden rule: do not do unto others what I would not want done to me.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 22,
-    "affirmation": "I am open to entertaining a thought without immediately accepting it.",
-    "category": "Logic & Reason"
+    "affirmation": "I show reverence in all my ritual actions, not just empty performance.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 23,
-    "affirmation": "I find joy in noble actions and take pleasure in doing what is right.",
-    "category": "Happiness & The Good Life"
+    "affirmation": "I understand that my actions reflect upon my family and ancestors.",
+    "category": "Xiao & Family"
   },
   {
     "id": 24,
-    "affirmation": "I build a life that is self-sufficient and allows for noble actions.",
-    "category": "The Good Life"
+    "affirmation": "I seek to be a moral exemplar that others can follow.",
+    "category": "Junzi & Character"
   },
   {
     "id": 25,
-    "affirmation": "I act with practical wisdom, discerning the right course in each situation.",
-    "category": "Practical Wisdom"
+    "affirmation": "I do what is right because it is right, not for reward or recognition.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 26,
-    "affirmation": "My mind is capable of grasping the first principles of things.",
-    "category": "Logic & Reason"
+    "affirmation": "I acknowledge what I know and admit what I do not know.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 27,
-    "affirmation": "I see the whole as more than the sum of its parts.",
-    "category": "Metaphysics & Reality"
+    "affirmation": "I keep my promises and speak truthfully in all circumstances.",
+    "category": "Xin & Trust"
   },
   {
     "id": 28,
-    "affirmation": "I am a part of the city, and I contribute to its good life.",
-    "category": "Politics & Community"
+    "affirmation": "I work daily to refine my character and eliminate selfishness.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 29,
-    "affirmation": "I choose a life of action in accordance with virtue.",
-    "category": "Virtue & Character"
+    "affirmation": "I contribute to social harmony through my virtuous actions.",
+    "category": "Social Harmony"
   },
   {
     "id": 30,
-    "affirmation": "I understand that excellence is not an act, but a habit.",
-    "category": "Virtue & Character"
+    "affirmation": "I believe that virtue, not force, is the true foundation of authority.",
+    "category": "Governance & Order"
   },
   {
     "id": 31,
-    "affirmation": "I am the unifying principle of my thoughts and actions.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I extend my love from family to community and beyond.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 32,
-    "affirmation": "I seek the truth, for though we love our friends, we must honor the truth first.",
-    "category": "Truth"
+    "affirmation": "I perform rituals with sincerity and proper understanding of their meaning.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 33,
-    "affirmation": "I use my time wisely, for it is the number of motion in respect of before and after.",
-    "category": "Purpose"
+    "affirmation": "I honor my parents in life and remember them properly after death.",
+    "category": "Xiao & Family"
   },
   {
     "id": 34,
-    "affirmation": "I am a valuable member of the middle class, bringing stability to society.",
-    "category": "Politics & Community"
+    "affirmation": "I cultivate moral excellence as my highest achievement.",
+    "category": "Junzi & Character"
   },
   {
     "id": 35,
-    "affirmation": "I deliberate well about what is good and advantageous for a flourishing life.",
-    "category": "Practical Wisdom"
+    "affirmation": "I stand firm in my principles even when it brings personal hardship.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 36,
-    "affirmation": "I express my complete virtue through my actions.",
-    "category": "Virtue & Character"
+    "affirmation": "I am a lifelong student, always seeking to expand my understanding.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 37,
-    "affirmation": "I am a good friend who wishes for the good of my friends for their own sake.",
-    "category": "Friendship"
+    "affirmation": "I build trust through consistency between my words and deeds.",
+    "category": "Xin & Trust"
   },
   {
     "id": 38,
-    "affirmation": "I am governed by reason, which is free from passion.",
-    "category": "Logic & Reason"
+    "affirmation": "I understand that moral development requires constant effort and attention.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 39,
-    "affirmation": "I find the energy of my mind to be the essence of my life.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I create harmony in my relationships through mutual respect and understanding.",
+    "category": "Social Harmony"
   },
   {
     "id": 40,
-    "affirmation": "I accept that one swallow does not make a spring; happiness requires a complete life.",
-    "category": "Happiness & The Good Life"
+    "affirmation": "I serve the common good through virtuous leadership and citizenship.",
+    "category": "Governance & Order"
   },
   {
     "id": 41,
-    "affirmation": "I act with liberality, giving the right amounts to the right people at the right time.",
-    "category": "Wealth & Economics"
+    "affirmation": "I show compassion to all people as expressions of our shared humanity.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 42,
-    "affirmation": "I understand that the actual is prior to the potential.",
-    "category": "Metaphysics & Reality"
+    "affirmation": "I understand that proper ceremony connects us to our cultural heritage.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 43,
-    "affirmation": "I live in accordance with the law, which is reason embodied.",
-    "category": "Justice & Law"
+    "affirmation": "I see filial piety as the foundation of all other virtues.",
+    "category": "Xiao & Family"
   },
   {
     "id": 44,
-    "affirmation": "I cultivate the virtue of my soul through learning and contemplation.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I value moral character over social status or material wealth.",
+    "category": "Junzi & Character"
   },
   {
     "id": 45,
-    "affirmation": "I see the beauty in the order and symmetry of the world.",
-    "category": "Science & Nature"
+    "affirmation": "I act with integrity even when no one is watching.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 46,
-    "affirmation": "I am a citizen who knows how to both rule and be ruled.",
-    "category": "Politics & Community"
+    "affirmation": "I learn from wise teachers and reflect on their teachings deeply.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 47,
-    "affirmation": "I endure and fear the right things, for the right purpose, in the right way.",
-    "category": "Courage & Fear"
+    "affirmation": "I am reliable and dependable in all my commitments to others.",
+    "category": "Xin & Trust"
   },
   {
     "id": 48,
-    "affirmation": "I recognize that the unexamined life is not worth living.",
-    "category": "The Good Life"
+    "affirmation": "I take responsibility for my moral development and spiritual growth.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 49,
-    "affirmation": "I am a link between the divine intellect and the physical world.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I work to resolve conflicts through dialogue and mutual understanding.",
+    "category": "Social Harmony"
   },
   {
     "id": 50,
-    "affirmation": "I find my place in the great chain of being.",
-    "category": "Metaphysics & Reality"
+    "affirmation": "I support just laws and virtuous leadership in my community.",
+    "category": "Governance & Order"
   },
   {
     "id": 51,
-    "affirmation": "I use rhetoric to highlight the truth, not to obscure it.",
-    "category": "Rhetoric & Persuasion"
+    "affirmation": "I practice loving-kindness without expecting anything in return.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 52,
-    "affirmation": "I am a substance, defined by my essential qualities and actions.",
-    "category": "Metaphysics & Reality"
+    "affirmation": "I maintain proper etiquette as an expression of respect for others.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 53,
-    "affirmation": "I cultivate the moral virtues that guide my interactions with others.",
-    "category": "Virtue & Character"
+    "affirmation": "I carry forward my family's honor through my virtuous conduct.",
+    "category": "Xiao & Family"
   },
   {
     "id": 54,
-    "affirmation": "I understand that to perceive is to be acted upon, and I learn from my experiences.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I seek to embody the ideal of the cultivated person in all my actions.",
+    "category": "Junzi & Character"
   },
   {
     "id": 55,
-    "affirmation": "I aim for the noble in all my actions and avoid the base.",
-    "category": "Virtue & Character"
+    "affirmation": "I choose the path of righteousness over the path of profit.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 56,
-    "affirmation": "I recognize that the state exists for the sake of the good life.",
-    "category": "Politics & Community"
+    "affirmation": "I combine theoretical knowledge with practical wisdom in my decisions.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 57,
-    "affirmation": "I am a being whose end is to actualize my potential.",
-    "category": "Purpose & Final Cause"
+    "affirmation": "I earn trust through honesty and maintain it through consistency.",
+    "category": "Xin & Trust"
   },
   {
     "id": 58,
-    "affirmation": "I find friendship to be a slow-ripening fruit that I nurture with care.",
-    "category": "Friendship"
+    "affirmation": "I view every day as an opportunity for moral improvement.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 59,
-    "affirmation": "I use my capacity for choice to steer my life toward eudaimonia.",
-    "category": "The Good Life"
+    "affirmation": "I promote peace and understanding in all my social interactions.",
+    "category": "Social Harmony"
   },
   {
     "id": 60,
-    "affirmation": "I see the divine as the final cause that inspires all motion.",
-    "category": "God & The Divine"
+    "affirmation": "I believe that moral transformation of society begins with individual virtue.",
+    "category": "Governance & Order"
   },
   {
     "id": 61,
-    "affirmation": "I am a political being who finds fulfillment in a just society.",
-    "category": "Politics & Community"
+    "affirmation": "I see the divine spark of humanity in every person I encounter.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 62,
-    "affirmation": "I cultivate the intellectual virtues of wisdom, understanding, and art.",
-    "category": "Education & Learning"
+    "affirmation": "I honor tradition while adapting to changing circumstances with wisdom.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 63,
-    "affirmation": "I understand that the worst form of inequality is to make unequal things equal.",
-    "category": "Justice & Law"
+    "affirmation": "I express gratitude to my parents for the gift of life and guidance.",
+    "category": "Xiao & Family"
   },
   {
     "id": 64,
-    "affirmation": "I find confidence in the power of my own reasoned judgment.",
-    "category": "Logic & Reason"
+    "affirmation": "I strive for moral perfection while accepting my human limitations.",
+    "category": "Junzi & Character"
   },
   {
     "id": 65,
-    "affirmation": "I accept that poverty is the parent of revolution and crime, and I support a just economy.",
-    "category": "Wealth & Economics"
+    "affirmation": "I uphold justice and fairness in all my dealings with others.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 66,
-    "affirmation": "I see the form in the matter, the purpose in the object.",
-    "category": "Metaphysics & Reality"
+    "affirmation": "I pursue knowledge not for pride but for better service to others.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 67,
-    "affirmation": "I am a natural being, and I strive to understand my nature.",
-    "category": "Science & Nature"
+    "affirmation": "I make and keep commitments carefully and thoughtfully.",
+    "category": "Xin & Trust"
   },
   {
     "id": 68,
-    "affirmation": "I act with equity, correcting the law when its generality fails in a particular case.",
-    "category": "Justice & Law"
+    "affirmation": "I regularly examine my conscience and correct my moral shortcomings.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 69,
-    "affirmation": "I find the metaphor to be a mark of genius in my thinking and communication.",
-    "category": "Rhetoric & Persuasion"
+    "affirmation": "I work to heal divisions and build bridges in my community.",
+    "category": "Social Harmony"
   },
   {
     "id": 70,
-    "affirmation": "I am a composite of body and soul, and I care for both.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I support leaders who govern with moral authority and benevolent concern.",
+    "category": "Governance & Order"
   },
   {
     "id": 71,
-    "affirmation": "I understand that the universe is a system of ordered parts.",
-    "category": "Science & Nature"
+    "affirmation": "I practice empathy by truly understanding others' perspectives and needs.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 72,
-    "affirmation": "I cultivate the virtue of magnanimity, claiming only the honors I deserve.",
-    "category": "Virtue & Character"
+    "affirmation": "I maintain proper decorum in all social and ceremonial situations.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 73,
-    "affirmation": "I find pleasure in the activity of my soul in accordance with virtue.",
-    "category": "Happiness & The Good Life"
+    "affirmation": "I honor my ancestors by living according to their highest values.",
+    "category": "Xiao & Family"
   },
   {
     "id": 74,
-    "affirmation": "I am a free person who rules myself through reason.",
-    "category": "The Good Life"
+    "affirmation": "I embody nobility of character regardless of my social circumstances.",
+    "category": "Junzi & Character"
   },
   {
     "id": 75,
-    "affirmation": "I see the tragic hero in myself, learning from my errors and frailties.",
-    "category": "Art & Poetry"
+    "affirmation": "I maintain moral courage in the face of opposition or temptation.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 76,
-    "affirmation": "I use my memory to persist in my perceptions and build upon my knowledge.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I seek wisdom in books, nature, and the experiences of daily life.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 77,
-    "affirmation": "I am a teacher who leads others to understand first principles.",
-    "category": "Education & Learning"
+    "affirmation": "I speak truthfully and act with genuine sincerity in all matters.",
+    "category": "Xin & Trust"
   },
   {
     "id": 78,
-    "affirmation": "I find the plot of my life to be its soul, and I strive to make it noble and complete.",
-    "category": "The Good Life"
+    "affirmation": "I embrace the continuous journey of becoming a better person.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 79,
-    "affirmation": "I act with temperance, enjoying pleasures as I ought.",
-    "category": "The Mean & Moderation"
+    "affirmation": "I contribute to social stability through my ethical behavior.",
+    "category": "Social Harmony"
   },
   {
     "id": 80,
-    "affirmation": "I am a part of a household, the foundational unit of society.",
-    "category": "Politics & Community"
+    "affirmation": "I work for a society where virtue is valued above material success.",
+    "category": "Governance & Order"
   },
   {
     "id": 81,
-    "affirmation": "I understand that the mind, in a way, becomes all things.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I express human-heartedness through acts of kindness and compassion.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 82,
-    "affirmation": "I cultivate a sense of wonder, for in all things of nature there is something marvelous.",
-    "category": "Science & Nature"
+    "affirmation": "I observe proper forms while ensuring they serve their deeper purpose.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 83,
-    "affirmation": "I find my identity in my actions and my character.",
-    "category": "Virtue & Character"
+    "affirmation": "I see family harmony as the foundation of social harmony.",
+    "category": "Xiao & Family"
   },
   {
     "id": 84,
-    "affirmation": "I am a being whose function is to live in accordance with reason.",
-    "category": "Purpose & Final Cause"
+    "affirmation": "I cultivate inner virtue as the true measure of human worth.",
+    "category": "Junzi & Character"
   },
   {
     "id": 85,
-    "affirmation": "I use dialectic to discuss difficulties and prove reputable opinions.",
-    "category": "Logic & Reason"
+    "affirmation": "I choose what is morally right over what is merely expedient.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 86,
-    "affirmation": "I find the city to be prior to the individual, and I serve my community.",
-    "category": "Politics & Community"
+    "affirmation": "I remain humble about my knowledge while eager to learn more.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 87,
-    "affirmation": "I act with good will towards others, which is the foundation of friendship.",
-    "category": "Friendship"
+    "affirmation": "I build lasting relationships through mutual trust and respect.",
+    "category": "Xin & Trust"
   },
   {
     "id": 88,
-    "affirmation": "I am a student of politics, the master science of the good.",
-    "category": "Politics & Community"
+    "affirmation": "I see moral development as my primary responsibility in life.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 89,
-    "affirmation": "I understand that the virtuous person is the measure and rule of what is fine.",
-    "category": "Virtue & Character"
+    "affirmation": "I foster cooperation and mutual support in all my communities.",
+    "category": "Social Harmony"
   },
   {
     "id": 90,
-    "affirmation": "I find the ultimate value of life in awareness and the power of contemplation.",
-    "category": "The Good Life"
+    "affirmation": "I believe that good government reflects the moral character of its people.",
+    "category": "Governance & Order"
   },
   {
     "id": 91,
-    "affirmation": "I cultivate the virtue of wit, finding the mean in humor.",
-    "category": "The Mean & Moderation"
+    "affirmation": "I practice universal love that begins with family and extends to all humanity.",
+    "category": "Ren & Benevolence"
   },
   {
     "id": 92,
-    "affirmation": "I am a rational soul, and my highest activity is contemplation.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I understand that ritual propriety creates the framework for civilized society.",
+    "category": "Li & Ritual Propriety"
   },
   {
     "id": 93,
-    "affirmation": "I use my knowledge of causes to have scientific understanding of the world.",
-    "category": "Science & Nature"
+    "affirmation": "I demonstrate gratitude and respect to those who have nurtured me.",
+    "category": "Xiao & Family"
   },
   {
     "id": 94,
-    "affirmation": "I find that the friend is another self.",
-    "category": "Friendship"
+    "affirmation": "I aspire to be the kind of person others can look up to and emulate.",
+    "category": "Junzi & Character"
   },
   {
     "id": 95,
-    "affirmation": "I act with shame when it is appropriate, feeling pain at the prospect of disgrace.",
-    "category": "Virtue & Character"
+    "affirmation": "I hold myself to the highest ethical standards in all situations.",
+    "category": "Yi & Righteousness"
   },
   {
     "id": 96,
-    "affirmation": "I am a mortal being who strives to live in accordance with the divine element within me.",
-    "category": "The Soul & Psychology"
+    "affirmation": "I integrate learning and experience to develop practical wisdom.",
+    "category": "Zhi & Learning"
   },
   {
     "id": 97,
-    "affirmation": "I understand that the end of law is not to abolish or restrain, but to preserve and enlarge freedom.",
-    "category": "Justice & Law"
+    "affirmation": "I value my reputation for honesty and work daily to preserve it.",
+    "category": "Xin & Trust"
   },
   {
     "id": 98,
-    "affirmation": "I find that the best way of life is the life of virtue supported by external goods.",
-    "category": "The Good Life"
+    "affirmation": "I commit to the lifelong work of refining my character and spirit.",
+    "category": "Self-Cultivation"
   },
   {
     "id": 99,
-    "affirmation": "I cultivate the virtue of truthfulness about myself.",
-    "category": "Virtue & Character"
+    "affirmation": "I dedicate myself to creating harmony and prosperity for future generations.",
+    "category": "Social Harmony"
   },
   {
     "id": 100,
-    "affirmation": "I am on a lifelong journey to actualize my potential and achieve Eudaimonia.",
-    "category": "The Good Life"
+    "affirmation": "I strive to build a world where virtue guides both individuals and institutions.",
+    "category": "Governance & Order"
   }
 ]

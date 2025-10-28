@@ -1,343 +1,376 @@
 [
   {
-    "id": "organon_collection",
-    "title": "The Organon (The Instrument)",
-    "year": "347-322 BCE",
-    "location": "Lyceum, Athens",
-    "icon": "🛠️",
-    "summary": "Aristotle's six foundational works on logic that created the discipline and provided the tools for scientific reasoning for 2000 years.",
-    "context": "Aristotle developed his logical system as the essential 'instrument' (organon) for all philosophical and scientific inquiry. These works established the principles of valid reasoning that dominated Western thought until the 19th century.",
+    "id": "analects_collection",
+    "title": "The Analects (Conversations and Sayings)",
+    "year": "479-221 BCE",
+    "location": "Ancient China (Lu State & Warring States Period)",
+    "icon": "💬",
+    "summary": "The foundational text of Confucianism containing the recorded conversations, sayings, and teachings of Confucius compiled by his disciples over several generations.",
+    "context": "After Confucius's death in 479 BCE, his disciples began collecting and preserving his teachings. The Analects represents the most authentic record of Confucian thought, compiled during the Warring States period and achieving final form during the Han Dynasty.",
     "works": [
       {
         "number": 1,
-        "title": "Categories",
-        "topic": "Classification of Being",
-        "abstract": "Identifies ten fundamental ways things can be predicated: Substance, Quantity, Quality, Relation, Place, Time, Position, State, Action, and Affection.",
-        "keyConcept": "Primary Substance",
-        "keyQuote": "\"Substance, in the truest and primary sense, is that which is neither predicable of a subject nor present in a subject.\"",
-        "impact": "• Foundation for ontology and metaphysics\n• Influenced medieval philosophy and linguistics\n• Basis for classification systems"
+        "title": "Books 1-2: Foundation of Character",
+        "topic": "Personal Cultivation",
+        "abstract": "Establishes fundamental principles of self-cultivation, filial piety (xiao), and the gentleman's way (junzi dao).",
+        "keyConcept": "Filial Piety (Xiao)",
+        "keyQuote": "\"Is it not a pleasure to learn and from time to time practice what one has learned?\"",
+        "impact": "• Foundation for character development\n• Basis of family ethics in East Asia\n• Core of moral education"
       },
       {
         "number": 2,
-        "title": "On Interpretation",
-        "topic": "Language and Logic",
-        "abstract": "Analyzes propositions, truth values, and the relationship between language, thought, and reality.",
-        "keyConcept": "The Proposition",
-        "keyQuote": "\"To say of what is that it is not, or of what is not that it is, is false.\"",
-        "impact": "• Developed square of opposition\n• Addressed future contingents problem\n• Foundation for philosophy of language"
+        "title": "Books 3-4: Ritual and Benevolence",
+        "topic": "Social Harmony",
+        "abstract": "Explores the relationship between ritual propriety (li) and benevolence (ren), emphasizing proper conduct and compassion.",
+        "keyConcept": "Benevolence (Ren)",
+        "keyQuote": "\"The benevolent find joy in mountains; the wise find joy in water.\"",
+        "impact": "• Model for social relationships\n• Framework for ethical governance\n• Foundation of humanistic philosophy"
       },
       {
         "number": 3,
-        "title": "Prior Analytics",
-        "topic": "Syllogistic Logic",
-        "abstract": "Presents the theory of the syllogism - the first formal system of deductive reasoning.",
-        "keyConcept": "The Syllogism",
-        "keyQuote": "\"A syllogism is discourse in which, certain things being stated, something other than what is stated follows of necessity.\"",
-        "impact": "• Invented formal logic\n• Dominated logic for 2000 years\n• Basis for scientific demonstration"
+        "title": "Books 5-8: The Cultivated Person",
+        "topic": "Virtue and Wisdom",
+        "abstract": "Develops the ideal of the exemplary person (junzi) through wisdom, righteousness, and continuous learning.",
+        "keyConcept": "The Exemplary Person (Junzi)",
+        "keyQuote": "\"The gentleman understands what is right; the petty person understands what is profitable.\"",
+        "impact": "• Leadership philosophy for 2500 years\n• Model for moral development\n• Basis for meritocratic ideals"
       },
       {
         "number": 4,
-        "title": "Posterior Analytics",
-        "topic": "Scientific Knowledge",
-        "abstract": "Explains how we gain certain knowledge through demonstration from first principles.",
-        "keyConcept": "Scientific Demonstration",
-        "keyQuote": "\"We think we understand a thing when we know its cause.\"",
-        "impact": "• Model for scientific method\n• Inspired Euclidean geometry\n• Foundation for epistemology"
+        "title": "Books 9-12: Teaching and Governance",
+        "topic": "Education and Politics",
+        "abstract": "Addresses methods of teaching, the relationship between education and governance, and social responsibility.",
+        "keyConcept": "Teaching Without Discrimination",
+        "keyQuote": "\"In education there should be no class distinctions.\"",
+        "impact": "• Revolutionary educational philosophy\n• Meritocracy over aristocracy\n• Universal access to learning"
       },
       {
         "number": 5,
-        "title": "Topics",
-        "topic": "Dialectical Reasoning",
-        "abstract": "Provides methods for argumentation based on generally accepted opinions rather than certain premises.",
-        "keyConcept": "Dialectic",
-        "keyQuote": "\"Dialectic is a process of criticism wherein lies the path to the principles of all inquiries.\"",
-        "impact": "• Art of philosophical debate\n• Foundation for rhetoric\n• Method for exploring difficult questions"
+        "title": "Books 13-15: Political Philosophy",
+        "topic": "Good Government",
+        "abstract": "Outlines principles of moral governance, the rectification of names, and the ruler's moral responsibility.",
+        "keyConcept": "Rectification of Names (Zhengming)",
+        "keyQuote": "\"If names are not correct, language is not in accordance with the truth of things.\"",
+        "impact": "• Theory of good government\n• Foundation for political ethics\n• Model for administrative responsibility"
       },
       {
         "number": 6,
-        "title": "On Sophistical Refutations",
-        "topic": "Fallacy Detection",
-        "abstract": "Classifies and analyzes logical fallacies used in deceptive arguments.",
-        "keyConcept": "Logical Fallacies",
-        "keyQuote": "\"Some arguments are dialectical and others sophistical.\"",
-        "impact": "• First systematic study of fallacies\n• Critical thinking tool\n• Protection against deceptive arguments"
+        "title": "Books 16-20: Legacy and Wisdom",
+        "topic": "Timeless Principles",
+        "abstract": "Synthesizes core teachings on virtue, learning, and the way of the ancients for future generations.",
+        "keyConcept": "The Way (Dao)",
+        "keyQuote": "\"If one learns from others but does not think, one will be bewildered; if one thinks but does not learn from others, one will be in peril.\"",
+        "impact": "• Integration of learning and reflection\n• Balance between tradition and innovation\n• Framework for lifelong cultivation"
       }
     ],
     "remarkableFacts": [
-      "Created the entire discipline of formal logic",
-      "His system wasn't significantly improved until the 19th century",
-      "The syllogism remained the dominant form of logic for 2000 years",
-      "He developed this while teaching at his school, the Lyceum",
-      "His logic was essential for medieval scholastic philosophy",
-      "The Organon was the foundation of the medieval university curriculum"
+      "Compiled over 200+ years by successive generations of disciples",
+      "Contains 499 chapters across 20 books",
+      "Became the foundation text for East Asian education",
+      "Required reading for Chinese civil service exams for 1300+ years",
+      "Influenced governance in China, Korea, Japan, and Vietnam",
+      "Most widely studied philosophical text in human history"
     ],
-    "whyRevolutionary": "Aristotle didn't just contribute to logic - he invented it. Before Aristotle, there was no systematic study of valid reasoning. He created:\n• The first formal system\n• The concept of variables in logic\n• Rules for valid inference\n• Methods for detecting fallacies\n• The foundation for all subsequent logic",
-    "legacy": "The Organon:\n• Created the field of logic\n• Provided tools for scientific reasoning\n• Dominated Western thought for millennia\n• Influenced mathematics, science, and philosophy\n• Still taught in logic courses today\n• Foundation for computer science and AI"
+    "whyRevolutionary": "The Analects revolutionized human civilization by:\n• Establishing education as a universal right\n• Creating meritocracy based on virtue and learning\n• Developing a comprehensive philosophy of moral cultivation\n• Integrating personal ethics with social responsibility\n• Providing a practical framework for good governance",
+    "legacy": "The Analects:\n• Shaped East Asian civilization for 2500 years\n• Created the world's first meritocratic system\n• Established teaching as the noblest profession\n• Provided framework for ethical governance\n• Continues to influence modern education and leadership"
   },
   {
-    "id": "natural_sciences_corpus",
-    "title": "The Natural Sciences Corpus",
-    "year": "347-335 BCE",
-    "location": "Lyceum, Athens & Research Travels",
-    "icon": "🔬",
-    "summary": "Aristotle's massive research program investigating the natural world through observation, classification, and teleological explanation.",
-    "context": "Aristotle established the first research institute (the Lyceum) where he and his students systematically investigated all aspects of nature. They collected specimens, conducted dissections, and observed phenomena across the Greek world.",
+    "id": "six_arts_curriculum",
+    "title": "The Six Arts Educational System",
+    "year": "1046-479 BCE",
+    "location": "Zhou Dynasty China & Confucian Schools",
+    "icon": "🎯",
+    "summary": "Confucius's comprehensive educational curriculum combining practical skills, cultural cultivation, and moral development through six essential disciplines.",
+    "context": "Confucius adapted and refined the traditional Zhou Dynasty educational system, transforming it from aristocratic training into a holistic program for cultivating the complete person - intellectually, physically, culturally, and morally.",
     "majorWorks": [
       {
-        "title": "Physics",
-        "topic": "Principles of Nature",
-        "volumes": 8,
-        "abstract": "Investigates the fundamental principles of natural objects: matter, form, change, motion, time, and place.",
-        "keyConcept": "Four Causes",
-        "keyDiscovery": "Everything in nature has four causes: material, formal, efficient, and final",
-        "impact": "• Foundation of natural philosophy for 2000 years\n• Teleological view of nature\n• Rejection of atomism and vacuum"
+        "title": "Ritual (Li 礼)",
+        "topic": "Social Harmony and Ethics",
+        "focus": "Ceremonies, Etiquette, Social Relationships",
+        "abstract": "Master proper conduct in all social situations, from family relationships to state ceremonies.",
+        "keyConcept": "Ritual Propriety",
+        "keyDiscovery": "Proper ritual creates social harmony and cultivates moral character",
+        "impact": "• Foundation of social ethics\n• Framework for interpersonal relationships\n• Basis for diplomatic protocol"
       },
       {
-        "title": "On the Heavens",
-        "topic": "Cosmology",
-        "volumes": 4,
-        "abstract": "Describes the structure of the universe, celestial bodies, and the elements.",
-        "keyConcept": "Natural Motion",
-        "keyDiscovery": "Elements move toward natural places: earth (down), fire (up), air and water (intermediate)",
-        "impact": "• Geocentric cosmology\n• Quintessence (fifth element)\n• Finite universe theory"
+        "title": "Music (Yue 乐)",
+        "topic": "Emotional Cultivation",
+        "focus": "Musical Performance, Aesthetic Appreciation, Inner Harmony",
+        "abstract": "Develop emotional intelligence and moral sensitivity through musical education.",
+        "keyConcept": "Inner Harmony",
+        "keyDiscovery": "Music refines emotions and creates moral transformation",
+        "impact": "• Emotional and aesthetic education\n• Character development through arts\n• Cultural preservation and transmission"
       },
       {
-        "title": "On Generation and Corruption",
-        "topic": "Change and Matter",
-        "volumes": 2,
-        "abstract": "Analyzes substantial change, mixture, and the transformation of elements.",
-        "keyConcept": "Hylomorphism",
-        "keyDiscovery": "All physical objects are compounds of matter (hyle) and form (morphe)",
-        "impact": "• Theory of chemical change\n• Rejection of atomism\n• Basis for medieval alchemy"
+        "title": "Archery (She 射)",
+        "topic": "Physical and Mental Discipline",
+        "focus": "Precision, Focus, Self-Control",
+        "abstract": "Cultivate physical skill, mental concentration, and moral steadiness through archery practice.",
+        "keyConcept": "Moral Steadiness",
+        "keyDiscovery": "Physical discipline develops moral character",
+        "impact": "• Integration of body and mind\n• Development of focus and determination\n• Metaphor for moral precision"
       },
       {
-        "title": "Meteorology",
-        "topic": "Earth Sciences",
-        "volumes": 4,
-        "abstract": "Studies atmospheric phenomena, geology, oceans, and weather.",
-        "keyConcept": "Sublunary Realm",
-        "keyDiscovery": "Earthly phenomena operate differently from celestial realms",
-        "impact": "• First systematic meteorology\n• Theories of earthquakes, comets, rainbows\n• Influenced medieval earth sciences"
+        "title": "Charioteering (Yu 御)",
+        "topic": "Leadership and Coordination",
+        "focus": "Strategic Thinking, Leadership, Teamwork",
+        "abstract": "Learn leadership skills and strategic thinking through mastery of chariot driving.",
+        "keyConcept": "Leadership Through Coordination",
+        "keyDiscovery": "Managing complexity develops leadership wisdom",
+        "impact": "• Leadership training methodology\n• Strategic thinking development\n• Model for managing complexity"
       },
       {
-        "title": "History of Animals",
-        "topic": "Zoology",
-        "volumes": 10,
-        "abstract": "Massive compilation of observations on animal anatomy, behavior, and classification.",
-        "keyConcept": "Empirical Investigation",
-        "keyDiscovery": "Systematic observation and classification of over 500 species",
-        "impact": "• Foundation of zoology\n• Comparative anatomy\n• Biological classification"
+        "title": "Calligraphy (Shu 书)",
+        "topic": "Literary Cultivation",
+        "focus": "Writing, Literature, Cultural Transmission",
+        "abstract": "Master written communication and preserve cultural heritage through beautiful writing.",
+        "keyConcept": "Cultural Transmission",
+        "keyDiscovery": "Writing skill enables cultural preservation and ethical expression",
+        "impact": "• Foundation of literary education\n• Cultural preservation method\n• Tool for moral and philosophical expression"
       },
       {
-        "title": "Parts of Animals",
-        "topic": "Anatomy and Function",
-        "volumes": 4,
-        "abstract": "Explains animal structures through their functions and purposes.",
-        "keyConcept": "Teleology",
-        "keyDiscovery": "\"Nature does nothing in vain\" - all parts serve functions",
-        "impact": "• Functional anatomy\n• Comparative method\n• Rejection of random evolution"
-      },
-      {
-        "title": "Generation of Animals",
-        "topic": "Reproduction",
-        "volumes": 5,
-        "abstract": "Studies animal reproduction, heredity, and embryonic development.",
-        "keyConcept": "Form and Matter in Reproduction",
-        "keyDiscovery": "Male provides form (semen), female provides matter (menstrual blood)",
-        "impact": "• Theory of reproduction for 2000 years\n• Embryology\n• Heredity theories"
+        "title": "Mathematics (Shu 数)",
+        "topic": "Logical Thinking",
+        "focus": "Calculation, Logic, Practical Problem-Solving",
+        "abstract": "Develop logical thinking and practical skills for administration and daily life.",
+        "keyConcept": "Practical Wisdom",
+        "keyDiscovery": "Mathematical thinking enables good governance and decision-making",
+        "impact": "• Logical thinking development\n• Administrative competence\n• Foundation for scientific thinking"
       }
     ],
-    "researchMethods": [
-      "Systematic observation and data collection",
-      "Dissection of animals (human dissection was prohibited)",
-      "Collection of specimens from across the Mediterranean",
-      "Interviews with fishermen, hunters, and farmers",
-      "Critical evaluation of sources and reports",
-      "Classification by essential characteristics"
+    "pedagogicalPrinciples": [
+      "Teaching without discrimination - education for all",
+      "Teaching according to individual aptitude",
+      "Learning through practice and reflection",
+      "Integration of theory and application",
+      "Character development through skill mastery",
+      "Lifelong learning and continuous improvement"
     ],
-    "majorDiscoveries": [
-      "Whales are mammals, not fish",
-      "Some sharks give live birth",
-      "Octopuses can change color for camouflage",
-      "Chick embryos develop gradually (epigenesis)",
-      "Dolphins are air-breathing mammals",
-      "Bees communicate about food sources",
-      "Many accurate anatomical descriptions"
+    "innovativeFeatures": [
+      "Holistic education combining mind, body, and spirit",
+      "Meritocratic advancement based on skill and virtue",
+      "Integration of practical and theoretical knowledge",
+      "Character development through disciplined practice",
+      "Cultural preservation through active learning",
+      "Preparation for both private life and public service"
     ],
-    "errorsAndLimitations": [
-      "Spontaneous generation of some creatures",
-      "Heart as seat of intelligence (not brain)",
-      "Female as 'mutilated male'",
-      "Geocentric universe",
-      "Natural slavery theory",
-      "Some fantastic creatures from traveler's tales"
-    ],
-    "whyGroundbreaking": "Aristotle established biology as a science:\n• First systematic biological research program\n• Empirical approach over pure speculation\n• Classification systems still influential\n• Functional analysis of structures\n• Massive data collection unprecedented in antiquity",
-    "legacy": "Aristotle's natural sciences:\n• Dominated biology until the Renaissance\n• Inspired medieval bestiaries and natural history\n• Foundation for taxonomy and comparative anatomy\n• Teleological thinking influenced biology until Darwin\n• Many observations confirmed by modern science\n• Model for empirical research programs"
+    "whyGroundbreaking": "The Six Arts system was revolutionary because it:\n• Created the world's first comprehensive liberal arts education\n• Integrated character development with skill acquisition\n• Made education accessible beyond the aristocracy\n• Balanced practical skills with cultural refinement\n• Established education as preparation for ethical leadership",
+    "legacy": "The Six Arts:\n• Influenced East Asian education for over 2000 years\n• Created the model for comprehensive liberal education\n• Established the integration of arts and sciences\n• Provided framework for character-based learning\n• Continues to influence modern holistic education approaches"
   },
   {
-    "id": "metaphysics_foundation",
-    "title": "Metaphysics (First Philosophy)",
-    "year": "347-322 BCE",
-    "location": "Lyceum, Athens",
-    "icon": "💎",
-    "summary": "Aristotle's investigation into being as being, substance, causality, and the fundamental principles of reality - his most profound and difficult work.",
-    "context": "Aristotle called this work 'First Philosophy' - the study of the most fundamental aspects of reality. The title 'Metaphysics' (meaning 'after the Physics') was given by later editors who placed it after his physical works.",
-    "abstract": "Metaphysics studies existence itself - being qua being. It investigates substance, form, matter, potentiality, actuality, and the first causes of all things. The work culminates in the theory of the Unmoved Mover.",
-    "keyDoctrines": [
+    "id": "four_books_core",
+    "title": "The Four Books (Core Confucian Texts)",
+    "year": "479-300 BCE (Compiled 1190 CE)",
+    "location": "Ancient China (Song Dynasty Compilation)",
+    "icon": "📚",
+    "summary": "The essential curriculum of Confucian education compiled by Zhu Xi, containing the fundamental texts for understanding Confucian philosophy and practice.",
+    "context": "During the Song Dynasty, philosopher Zhu Xi selected these four texts as the core curriculum for Confucian education, believing they provided the most accessible and comprehensive introduction to Confucian thought.",
+    "abstract": "The Four Books represent the heart of Confucian learning, progressing from basic principles to advanced philosophy, providing a complete educational pathway for moral and intellectual development.",
+    "keyTexts": [
       {
-        "doctrine": "The Science of Being",
-        "explanation": "Metaphysics studies what it means for anything to exist, not just particular kinds of beings",
-        "keyQuote": "\"There is a science which investigates being as being and the attributes which belong to this in virtue of its own nature.\""
-      },
-      {
-        "doctrine": "The Four Causes",
-        "explanation": "Complete understanding requires knowing: Material (what it's made of), Formal (its essence), Efficient (what made it), Final (its purpose)",
-        "keyQuote": "\"We do not have knowledge of a thing until we have grasped its 'why', that is, its cause.\""
-      },
-      {
-        "doctrine": "Substance Theory",
-        "explanation": "Primary substances are individual things (this man, this horse) that exist independently. All other categories depend on substance.",
-        "keyQuote": "\"Substance is that which is neither predicable of a subject nor present in a subject.\""
-      },
-      {
-        "doctrine": "Potentiality and Actuality",
-        "explanation": "Everything contains potentiality (what it can become) and actuality (what it currently is). Actuality is prior to potentiality.",
-        "keyQuote": "\"The actuality is the end, and it is for the sake of this that the potentiality is acquired.\""
-      },
-      {
-        "doctrine": "The Unmoved Mover",
-        "explanation": "There must be a first cause - eternal, immaterial, purely actual - that moves everything as a final cause by being an object of thought and desire.",
-        "keyQuote": "\"The final cause, then, produces motion as being loved, but all other things move by being moved.\""
-      }
-    ],
-    "critiqueOfPlato": "Aristotle systematically criticizes Plato's Theory of Forms:\n\n**Third Man Argument**: If Forms exist because particulars share qualities, there must be higher Forms for what Forms and particulars share, leading to infinite regress.\n\n**Separation Problem**: Forms separated from particulars cannot explain them.\n\n**Knowledge Problem**: How can we know separate Forms through sense experience?\n\nAristotle's solution: Forms exist IN particular things, not separately.",
-    "theUnmovedMover": {
-      "nature": "• Eternal and unchanging\n• Pure actuality (no potentiality)\n• Immaterial and indivisible\n• Self-thinking thought\n• The ultimate final cause",
-      "howItMoves": "Not by pushing or pulling, but as an object of desire and thought. All things strive toward this perfection.",
-      "influence": "• Foundation for medieval conceptions of God\n• Influenced Jewish, Christian, and Islamic theology\n• Inspired cosmological arguments for God's existence"
-    },
-    "famousBooks": [
-      {
-        "book": "Book I (Alpha)",
-        "content": "Survey of previous philosophers and their causes"
-      },
-      {
-        "book": "Book IV (Gamma)",
-        "content": "The science of being qua being and principle of non-contradiction"
-      },
-      {
-        "book": "Book VII-VIII (Zeta-Eta)",
-        "content": "The central books on substance - the heart of the work"
-      },
-      {
-        "book": "Book IX (Theta)",
-        "content": "Potentiality and actuality"
-      },
-      {
-        "book": "Book XII (Lambda)",
-        "content": "The Unmoved Mover and celestial movers"
-      }
-    ],
-    "interpretationChallenges": [
-      "The work seems disjointed - possibly compiled from different periods",
-      "Some books may be early, others late in Aristotle's development",
-      "The relationship between books is debated by scholars",
-      "The Unmoved Mover seems disconnected from earlier discussions",
-      "Multiple definitions of substance create tensions"
-    ],
-    "legacy": "The Metaphysics:\n• Foundation of Western metaphysics\n• Influenced medieval scholasticism profoundly\n• Inspired centuries of philosophical debate\n• Central to philosophy curriculum worldwide\n• Still actively studied and debated\n• Provided concepts and problems that shaped Western thought"
-  },
-  {
-    "id": "practical_philosophy_trilogy",
-    "title": "The Practical Philosophy Trilogy",
-    "year": "347-322 BCE",
-    "location": "Lyceum, Athens",
-    "icon": "🏛️",
-    "summary": "Aristotle's comprehensive system of practical philosophy covering ethics, politics, and economics - how humans should live individually and collectively.",
-    "context": "While Aristotle's theoretical philosophy studied what is, his practical philosophy studied what should be - how humans can achieve eudaimonia (flourishing) through virtuous living in political communities.",
-    "theTrilogy": [
-      {
-        "work": "Nicomachean Ethics",
-        "focus": "Individual Flourishing",
-        "volumes": 10,
-        "centralQuestion": "What is the good life for a human being?",
-        "answer": "Eudaimonia achieved through virtuous activity in accordance with reason",
-        "keyInnovations": [
-          "Doctrine of the Mean",
-          "Virtue as habit",
-          "Practical wisdom (phronesis)",
-          "Friendship theory",
-          "Contemplative ideal"
+        "text": "The Great Learning (Daxue)",
+        "origin": "Chapter from Book of Rites",
+        "attribution": "Confucius (main text) and Zengzi (commentary)",
+        "focus": "Self-Cultivation and Social Order",
+        "keyConcept": "Extension of Knowledge to Rectification of Hearts",
+        "keyQuote": "\"From the Son of Heaven to the common people, all must regard self-cultivation as the root.\"",
+        "teachings": [
+          "Investigation of things leads to extension of knowledge",
+          "Sincerity of intention follows from knowledge",
+          "Rectification of heart comes from sincerity",
+          "Self-cultivation develops from rectified heart",
+          "Family harmony flows from self-cultivation",
+          "Good governance emerges from family harmony",
+          "Peace under Heaven results from good governance"
         ]
       },
       {
-        "work": "Politics",
-        "focus": "Collective Flourishing",
-        "volumes": 8,
-        "centralQuestion": "What is the best political community?",
-        "answer": "A polis that enables citizens to live virtuous, flourishing lives",
-        "keyInnovations": [
-          "Man as political animal",
-          "Classification of constitutions",
-          "Mixed government theory",
-          "Middle class stability",
-          "Public education system"
+        "text": "The Doctrine of the Mean (Zhongyong)",
+        "origin": "Chapter from Book of Rites",
+        "attribution": "Zisi (Confucius's grandson)",
+        "focus": "Balance and Harmony",
+        "keyConcept": "The Mean as Moral Standard",
+        "keyQuote": "\"The superior man embodies the course of the Mean; the mean man acts contrary to the course of the Mean.\"",
+        "teachings": [
+          "The Mean as the perfect moral standard",
+          "Harmony between Heaven, Earth, and Humanity",
+          "Sincerity as the foundation of moral development",
+          "Emotional balance and self-regulation",
+          "Unity of inner nature and outer expression",
+          "Cultivation of natural human goodness"
         ]
       },
       {
-        "work": "Economics",
-        "focus": "Household Management",
-        "volumes": 2,
-        "centralQuestion": "How should households be managed?",
-        "answer": "Through proper management of resources and relationships for the good life",
-        "keyInnovations": [
-          "Wealth acquisition vs management",
-          "Household as basic unit",
-          "Relationships: master-slave, husband-wife, parent-child",
-          "Critique of unlimited wealth-seeking"
+        "text": "The Analects (Lunyu)",
+        "origin": "Compiled sayings of Confucius",
+        "attribution": "Disciples of Confucius",
+        "focus": "Practical Wisdom and Ethics",
+        "keyConcept": "The Way of the Exemplary Person",
+        "keyQuote": "\"The gentleman understands what is right; the petty person understands what is profitable.\"",
+        "teachings": [
+          "Benevolence as supreme virtue",
+          "Importance of ritual and propriety",
+          "Value of learning and teaching",
+          "Filial piety and social relationships",
+          "Good governance through moral example",
+          "Continuous self-improvement"
+        ]
+      },
+      {
+        "text": "Mencius (Mengzi)",
+        "origin": "Sayings and dialogues of Mencius",
+        "attribution": "Mencius and his disciples",
+        "focus": "Human Nature and Political Philosophy",
+        "keyConcept": "Innate Human Goodness",
+        "keyQuote": "\"The path is near, but people seek it far away.\"",
+        "teachings": [
+          "Human beings are naturally good",
+          "Moral sense is innate in all people",
+          "Education develops natural moral tendencies",
+          "Government must serve the people's welfare",
+          "The people's welfare is supreme priority",
+          "Moral cultivation as political necessity"
         ]
       }
     ],
-    "integration": "These three works form an integrated system:\n\n**Ethics → Politics → Economics**\n\nIndividual virtue requires the right political community, which depends on properly managed households. All aim at human flourishing.",
+    "educationalProgression": "The Four Books create a systematic learning progression:\n\n**Great Learning** → Foundation: How to begin moral cultivation\n**Doctrine of the Mean** → Method: How to maintain balance and harmony\n**Analects** → Practice: How to live ethically in society\n**Mencius** → Philosophy: Deep understanding of human nature and governance",
     "revolutionaryIdeas": [
       {
-        "idea": "Eudaimonia as Flourishing",
-        "explanation": "Not just pleasure or honor, but excellent activity of the rational soul over a complete life",
-        "impact": "Shifted focus from momentary pleasure to lifelong development"
+        "idea": "Universal Education",
+        "explanation": "Learning and moral cultivation available to all people regardless of birth",
+        "impact": "Created the world's first meritocratic educational system"
       },
       {
-        "idea": "Virtue as Habit",
-        "explanation": "We become just by doing just acts - virtue requires practice and habituation",
-        "impact": "Emphasized character development through action"
+        "idea": "Integration of Personal and Political",
+        "explanation": "Self-cultivation is the foundation for good governance and social harmony",
+        "impact": "Connected individual moral development with social responsibility"
       },
       {
-        "idea": "Political Animal",
-        "explanation": "Humans naturally belong to political communities where they achieve their potential",
-        "impact": "Founded political science and communitarian thought"
+        "idea": "Innate Human Goodness",
+        "explanation": "All humans possess natural moral sensibilities that education can develop",
+        "impact": "Optimistic view of human potential that encouraged universal education"
       },
       {
-        "idea": "Doctrine of the Mean",
-        "explanation": "Moral virtue lies between extremes of excess and deficiency",
-        "impact": "Provided framework for moral decision-making"
+        "idea": "Learning Through Relationship",
+        "explanation": "Moral development occurs through proper relationships and social interaction",
+        "impact": "Created emphasis on community-based education and social responsibility"
       }
     ],
-    "problematicAspects": [
-      "Defense of natural slavery",
-      "Subordination of women",
-      "Exclusion of laborers from citizenship",
-      "Elitist conception of the good life",
-      "Justification of inequality"
-    ],
     "modernRelevance": [
-      "Virtue ethics revival in moral philosophy",
-      "Communitarian critiques of liberalism",
-      "Character education movements",
-      "Work on practical wisdom and judgment",
-      "Theories of human flourishing",
-      "Deliberative democracy theories"
+      "Character education movements worldwide",
+      "Leadership development programs",
+      "Community-based learning approaches",
+      "Emphasis on moral and social responsibility",
+      "Integration of personal and professional development",
+      "Holistic education philosophies"
     ],
-    "educationalVision": "Aristotle's practical philosophy was taught to:\n• Cultivate virtuous character\n• Develop practical wisdom\n• Prepare for citizenship\n• Enable flourishing lives\n• Create good political leaders\n\nHis Lyceum was both a research institute and a school for statesmen.",
-    "enduringInfluence": "The Practical Philosophy Trilogy:\n• Foundation for Western ethical and political thought\n• Influenced Roman statesmen like Cicero\n• Central to medieval Christian ethics (Aquinas)\n• Inspired Enlightenment political theory\n• Basis for modern virtue ethics\n• Still taught in philosophy, political science, and ethics courses worldwide"
+    "enduringInfluence": "The Four Books:\n• Dominated East Asian education for 800+ years\n• Required texts for civil service examinations\n• Foundation for Confucian academies worldwide\n• Influenced political philosophy across East Asia\n• Continue to shape modern educational philosophy\n• Provide framework for character-based leadership development"
+  },
+  {
+    "id": "political_social_philosophy",
+    "title": "Political and Social Philosophy",
+    "year": "551-479 BCE",
+    "location": "Ancient China (Spring and Autumn Period)",
+    "icon": "⚖️",
+    "summary": "Confucius's comprehensive theory of governance, social harmony, and political ethics based on moral leadership, the rectification of names, and the Mandate of Heaven.",
+    "context": "Living during a period of political chaos and social upheaval, Confucius developed a political philosophy emphasizing moral governance, social responsibility, and the restoration of proper relationships between rulers and subjects.",
+    "coreDoctrines": [
+      {
+        "doctrine": "The Mandate of Heaven (Tianming)",
+        "explanation": "Legitimate political authority comes from moral virtue and service to the people, not birth or force",
+        "keyQuote": "\"Heaven sees as the people see; Heaven hears as the people hear.\"",
+        "implications": [
+          "Rulers must govern morally to maintain legitimacy",
+          "Natural disasters indicate loss of mandate",
+          "People have right to rebel against immoral rulers",
+          "Meritocracy over aristocracy"
+        ]
+      },
+      {
+        "doctrine": "Rectification of Names (Zhengming)",
+        "explanation": "Social harmony requires that people fulfill the true meaning of their roles and titles",
+        "keyQuote": "\"Let the ruler be a ruler, the minister a minister, the father a father, and the son a son.\"",
+        "implications": [
+          "Clear definition of roles and responsibilities",
+          "Accountability at all levels of society",
+          "Language must reflect moral reality",
+          "Social order through proper relationships"
+        ]
+      },
+      {
+        "doctrine": "Government by Moral Example (De Zhi)",
+        "explanation": "Rulers should govern through moral influence and personal example rather than force",
+        "keyQuote": "\"He who governs by virtue is like the North Star, which remains in place while all other stars orbit around it.\"",
+        "implications": [
+          "Personal virtue as foundation of political authority",
+          "Minimal need for laws and punishments",
+          "Education and moral suasion over coercion",
+          "Ruler as moral teacher for the people"
+        ]
+      },
+      {
+        "doctrine": "Benevolent Governance (Ren Zheng)",
+        "explanation": "Government exists to promote the welfare and moral development of the people",
+        "keyQuote": "\"The people are the most important; the state comes next; the ruler is of least importance.\"",
+        "implications": [
+          "People's welfare as supreme political priority",
+          "Government accountability to citizens",
+          "Economic justice and social welfare",
+          "Education as governmental responsibility"
+        ]
+      }
+    ],
+    "socialHierarchy": {
+      "principle": "Hierarchical relationships based on virtue and responsibility, not birth or wealth",
+      "structure": [
+        {
+          "relationship": "Ruler and Subject",
+          "ruler_duty": "Provide moral leadership and promote welfare",
+          "subject_duty": "Loyal service and respectful counsel"
+        },
+        {
+          "relationship": "Father and Son",
+          "father_duty": "Loving care and moral guidance",
+          "son_duty": "Filial piety and respect"
+        },
+        {
+          "relationship": "Husband and Wife",
+          "husband_duty": "Protection and righteous leadership",
+          "wife_duty": "Support and domestic harmony"
+        },
+        {
+          "relationship": "Elder and Younger",
+          "elder_duty": "Guidance and care",
+          "younger_duty": "Respect and learning"
+        },
+        {
+          "relationship": "Friend and Friend",
+          "mutual_duty": "Loyalty, honesty, and mutual support"
+        }
+      ]
+    },
+    "governanceModel": {
+      "selection": "Meritocracy - officials chosen for virtue and ability, not birth",
+      "administration": "Moral education and personal example over laws and punishment",
+      "economics": "Welfare of people prioritized over ruler's wealth",
+      "justice": "Moral persuasion and education to prevent crime",
+      "diplomacy": "Cultural influence and moral example to other states"
+    },
+    "criticalAssessments": [
+      "Idealistic view of human nature and political possibilities",
+      "Hierarchical system that could justify inequality",
+      "Limited role for women in political and social life",
+      "Potential for paternalistic and authoritarian governance",
+      "Difficulty implementing moral ideals in complex societies"
+    ],
+    "enduringContributions": [
+      "Government accountability to the people",
+      "Meritocratic civil service systems",
+      "Integration of ethics and politics",
+      "Education as governmental responsibility",
+      "Moral leadership as political ideal",
+      "Social stability through shared values"
+    ],
+    "modernInfluence": "Confucian political philosophy continues to influence:\n• East Asian approaches to governance\n• Concepts of moral leadership\n• Meritocratic ideals in government\n• Emphasis on education in political development\n• Community-oriented approaches to social problems\n• Integration of traditional values with modern governance"
   }
 ]
