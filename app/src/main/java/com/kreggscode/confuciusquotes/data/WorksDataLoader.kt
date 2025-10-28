@@ -122,7 +122,7 @@ class WorksDataLoader(private val context: Context) {
     
     suspend fun loadMajorWorks(): List<MajorWork> = withContext(Dispatchers.IO) {
         try {
-            val json = context.assets.open("Confucius_major_works.json")
+            val json = context.assets.open("confucius_major_works.json")
                 .bufferedReader()
                 .use { it.readText() }
             
@@ -136,7 +136,7 @@ class WorksDataLoader(private val context: Context) {
     
     suspend fun loadEssays(): List<Essay> = withContext(Dispatchers.IO) {
         try {
-            val json = context.assets.open("Confucius_essays.json")
+            val json = context.assets.open("confucius_essays.json")
                 .bufferedReader()
                 .use { it.readText() }
             
@@ -150,7 +150,7 @@ class WorksDataLoader(private val context: Context) {
     
     suspend fun loadLetters(): List<Letter> = withContext(Dispatchers.IO) {
         try {
-            val json = context.assets.open("Confucius_letters.json")
+            val json = context.assets.open("confucius_letters.json")
                 .bufferedReader()
                 .use { it.readText() }
             
@@ -164,7 +164,7 @@ class WorksDataLoader(private val context: Context) {
     
     suspend fun loadPapers(): List<Paper> = withContext(Dispatchers.IO) {
         try {
-            val json = context.assets.open("Confucius_papers.json")
+            val json = context.assets.open("confucius_papers.json")
                 .bufferedReader()
                 .use { it.readText() }
             

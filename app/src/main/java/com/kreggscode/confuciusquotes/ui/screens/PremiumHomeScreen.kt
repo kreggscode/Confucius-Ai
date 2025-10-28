@@ -132,7 +132,7 @@ fun PremiumHomeScreen(
                             verticalAlignment = Alignment.CenterVertically
                         ) {
                             Text(
-                                text = "🏛️",
+                                text = "🏯",
                                 fontSize = 24.sp,
                                 modifier = Modifier.padding(end = 8.dp)
                             )
@@ -464,7 +464,7 @@ fun AnimatedHeader(
                     )
                     
                     Text(
-                        text = "🏛️",
+                        text = "🏯",
                         fontSize = 72.sp,
                         modifier = Modifier
                             .scale(scale)
@@ -521,11 +521,11 @@ fun AnimatedHeader(
                     
                     Spacer(modifier = Modifier.height(12.dp))
                     
-                    // Greek text with golden shimmer
+                    // Chinese text with golden shimmer
                     Text(
-                        text = "Ἀριστοτέλης",
+                        text = "孔夫子",
                         style = MaterialTheme.typography.titleLarge,
-                        color = PremiumColors.AncientGold.copy(alpha = 0.9f),
+                        color = PremiumColors.ImperialYellow.copy(alpha = 0.9f),
                         fontWeight = FontWeight.Bold,
                         letterSpacing = 2.sp,
                         modifier = Modifier.graphicsLayer {
@@ -535,7 +535,7 @@ fun AnimatedHeader(
                     
                     Spacer(modifier = Modifier.height(8.dp))
                     
-                    // Decorative Greek border
+                    // Decorative Chinese border
                     Box(
                         modifier = Modifier
                             .width(200.dp)
@@ -555,9 +555,9 @@ fun AnimatedHeader(
                 Spacer(modifier = Modifier.height(16.dp))
                 
                 Text(
-                    text = "The Philosopher's Path to Wisdom",
+                    text = "The Way of the Superior Person",
                     style = MaterialTheme.typography.bodyLarge,
-                    color = PremiumColors.IvoryParchment.copy(alpha = 0.85f),
+                    color = PremiumColors.LotusWhite.copy(alpha = 0.85f),
                     fontWeight = FontWeight.Medium,
                     textAlign = TextAlign.Center,
                     letterSpacing = 0.8.sp
@@ -565,11 +565,11 @@ fun AnimatedHeader(
                 
                 Spacer(modifier = Modifier.height(8.dp))
                 
-                // Greek philosophical quote
+                // Chinese philosophical concepts
                 Text(
-                    text = "φιλοσοφία • σοφία • ἀρετή",
+                    text = "仁 • 禮 • 義 • 智 • 信",
                     style = MaterialTheme.typography.bodySmall,
-                    color = PremiumColors.SageGreen.copy(alpha = 0.7f),
+                    color = PremiumColors.JadeGreen.copy(alpha = 0.7f),
                     fontWeight = FontWeight.Normal,
                     letterSpacing = 1.5.sp
                 )
@@ -1165,14 +1165,14 @@ fun AnimatedParticles() {
     val infiniteTransition = rememberInfiniteTransition(label = "particles")
     
     // Greek philosophical symbols and letters
-    val greekSymbols = listOf(
-        "φ", "σ", "ψ", "Ω", "Δ", "Σ", "Π", "Λ", 
-        "α", "β", "γ", "θ", "μ", "ε", "ρ", "τ",
-        "🏛️", "📜", "⚖️", "🕊️"
+    val chineseSymbols = listOf(
+        "仁", "義", "禮", "智", "信", "孝", "忠", "和", 
+        "德", "道", "學", "思", "誠", "敬", "恕", "中",
+        "🏯", "📜", "☯️", "🎋"
     )
     
     // Pre-calculate all animation values
-    val rotationValues = greekSymbols.indices.map { index ->
+    val rotationValues = chineseSymbols.indices.map { index ->
         infiniteTransition.animateFloat(
             initialValue = 0f,
             targetValue = 360f,
@@ -1185,7 +1185,7 @@ fun AnimatedParticles() {
     }
     
     Canvas(modifier = Modifier.fillMaxSize()) {
-        greekSymbols.forEachIndexed { index, symbol ->
+        chineseSymbols.forEachIndexed { index, symbol ->
             val angle = (index * 18f) + rotationValues[index].value
             
             val radius = size.minDimension * 0.38f
@@ -1303,9 +1303,9 @@ fun ConfuciusCentralAnimation() {
                     )
             )
             
-            // Greek temple icon instead of brain
+            // Chinese pagoda icon
             Text(
-                text = "🏛️",
+                text = "🏯",
                 fontSize = 130.sp,
                 modifier = Modifier
                     .scale(scale)

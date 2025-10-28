@@ -135,7 +135,7 @@ fun BiographyTab() {
                         .padding(24.dp),
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
-                    Text("🏛️", fontSize = 64.sp)
+                    Text("🏯", fontSize = 64.sp)
                     Spacer(modifier = Modifier.height(16.dp))
                     Text(
                         "Confucius",
@@ -144,13 +144,13 @@ fun BiographyTab() {
                         color = Color.White
                     )
                     Text(
-                        "384 BC - 322 BC",
+                        "551 BCE - 479 BCE",
                         style = MaterialTheme.typography.titleMedium,
-                        color = PremiumColors.CyberBlue
+                        color = PremiumColors.ImperialYellow
                     )
                     Spacer(modifier = Modifier.height(8.dp))
                     Text(
-                        "Philosopher, Scientist, and Polymath",
+                        "The Great Teacher & Founder of Confucianism",
                         style = MaterialTheme.typography.bodyLarge,
                         color = Color.White.copy(alpha = 0.7f)
                     )
@@ -162,31 +162,31 @@ fun BiographyTab() {
             InfoCard(
                 title = "Early Life",
                 icon = "👶",
-                content = "Born in 384 BC in Stagira, northern Greece. Son of Nicomachus, court physician to King Amyntas III of Macedon. Orphaned at a young age and raised by a guardian. Showed early intellectual promise."
+                content = "Born Kong Qiu in 551 BCE in the State of Lu (modern-day Shandong Province, China) during the Spring and Autumn period. Father died when he was three years old. Raised in poverty by his mother, he worked various jobs while dedicating himself to learning ancient Chinese traditions and texts."
             )
         }
         
         item {
             InfoCard(
-                title = "Plato's Academy (367-347 BC)",
+                title = "Teaching Career (521-479 BCE)",
                 icon = "🎓",
-                content = "At age 17, joined Plato's Academy in Athens, the premier center of learning. Studied there for 20 years until Plato's death. Developed his own philosophical ideas while learning from the master."
+                content = "Began teaching around age 30, accepting students from all social classes - a revolutionary approach. First teacher in Chinese history to democratize education, requiring only tuition regardless of birth. Taught over 3,000 students, with 72 becoming renowned scholars."
             )
         }
         
         item {
             InfoCard(
-                title = "Tutor to Alexander (343-335 BC)",
+                title = "Government Service & Travels",
                 icon = "👑",
-                content = "Invited by King Philip II of Macedon to tutor his son, Alexander (later 'the Great'). Taught the young prince philosophy, politics, poetry, and science. This relationship shaped both their legacies."
+                content = "Served briefly in government positions in the State of Lu. Spent 14 years traveling various Chinese states, seeking rulers who would implement his philosophy of moral governance. Promoted rule by moral example rather than force."
             )
         }
         
         item {
             InfoCard(
-                title = "The Lyceum (335-323 BC)",
-                icon = "🏛️",
-                content = "Founded his own school in Athens called the Lyceum. Conducted research and taught while walking in the school's covered walkways (peripatos), earning his followers the name 'Peripatetics'."
+                title = "Private School & Classical Editing",
+                icon = "🏯",
+                content = "Established the first private school in Chinese history around 521 BCE. In his later years, focused on teaching and editing classical Chinese texts including the Book of Poetry, Book of Documents, and Book of Rites, preserving ancient wisdom for future generations."
             )
         }
         
@@ -194,7 +194,7 @@ fun BiographyTab() {
             InfoCard(
                 title = "Final Years",
                 icon = "📜",
-                content = "After Alexander's death in 323 BC, anti-Macedonian sentiment forced Confucius to flee Athens. Died in 322 BC in Chalcis at age 62, leaving behind an enormous body of work covering nearly every field of knowledge."
+                content = "Returned to the State of Lu in his later years, dedicating himself to teaching and compiling classical texts. Died in 479 BCE at age 72, reportedly saddened by the state of society. His teachings, compiled in the Analects by his disciples, became the foundation of East Asian civilization."
             )
         }
     }
@@ -208,10 +208,10 @@ fun WorksTab(onWorkClick: ((String) -> Unit)? = null) {
     ) {
         item {
             HighlightCard(
-                title = "The Golden Mean",
-                subtitle = "Virtue as the Middle Path",
-                description = "Confucius's doctrine that moral virtue is a mean between extremes of excess and deficiency. Courage, for example, lies between cowardice and recklessness.",
-                gradient = listOf(PremiumColors.PlasmaOrange, PremiumColors.NeonPink)
+                title = "Ren (Benevolence)",
+                subtitle = "The Highest Virtue",
+                description = "Confucius's central concept of humaneness, compassion, and love for others. Ren encompasses all virtues and is the foundation of moral cultivation and harmonious relationships.",
+                gradient = listOf(PremiumColors.JadeGreen, PremiumColors.TeaGreen)
             )
         }
         
@@ -226,26 +226,12 @@ fun WorksTab(onWorkClick: ((String) -> Unit)? = null) {
         }
         
         val works = listOf(
-            Work("Nicomachean Ethics", "-340 BC", "Comprehensive treatise on virtue, happiness, and the good life through practical wisdom", "⭐", "nicomachean_ethics"),
-            Work("Politics", "-350 BC", "Analysis of political communities, constitutions, and the ideal state", "🏛️", "politics"),
-            Work("Metaphysics", "-350 BC", "Investigation into being as being, substance, causality, and fundamental principles of reality", "🔍", "metaphysics"),
-            Work("Physics", "-350 BC", "Foundational work on natural philosophy, exploring motion, change, time, and principles of the physical world", "🌌", "physics"),
-            Work("Poetics", "-335 BC", "Analysis of poetry and drama, defining the elements of tragedy and its psychological impact", "🎭", "poetics"),
-            Work("On the Soul (De Anima)", "-350 BC", "Investigation into the nature of the soul as the form and actuality of living bodies", "🧠", "on_the_soul"),
-            Work("Rhetoric", "-350 BC", "Systematic analysis of persuasive speech as essential for civic life and discovering truth", "💬", "rhetoric"),
-            Work("Categories", "-340 BC", "Analysis of the basic types of being and the structure of predication", "📂", "categories"),
-            Work("Posterior Analytics", "-350 BC", "Analysis of scientific demonstration and how we gain certain knowledge from first principles", "🧮", "posterior_analytics"),
-            Work("Prior Analytics", "-350 BC", "Creation of syllogistic logic - the first formal system of deductive reasoning", "⚙️", "prior_analytics"),
-            Work("Generation of Animals", "-350 BC", "Detailed study of animal reproduction, heredity, and embryonic development", "🧬", "generation_of_animals"),
-            Work("Parts of Animals", "-350 BC", "Analysis of animal anatomy and the functional purposes of biological structures", "🔬", "parts_of_animals"),
-            Work("History of Animals", "-350 BC", "Massive compilation of observations about animal behavior, anatomy, and classification", "🐘", "history_of_animals"),
-            Work("On Interpretation", "-350 BC", "Analysis of language, truth, and meaning, focusing on propositions and their relationship to reality", "💭", "on_interpretation"),
-            Work("Eudemian Ethics", "-350 BC", "Alternative ethical system with different emphases than Nicomachean Ethics", "⚖️", "eudemian_ethics"),
-            Work("Constitution of Athens", "-320 BC", "Historical analysis of Athenian constitutional development - only surviving work from 158 constitutions", "📜", "constitution_of_athens"),
-            Work("Topics", "-350 BC", "Dialectical reasoning and argumentation", "🎯", null),
-            Work("On the Heavens", "-350 BC", "Cosmology and astronomy", "🌟", null),
-            Work("Meteorology", "-340 BC", "Weather, climate, and atmospheric phenomena", "⛈️", null),
-            Work("On Memory", "-350 BC", "Psychology of memory and recollection", "🧩", null)
+            Work("The Analects (Lunyu)", "Compiled posthumously", "Collection of Confucius's sayings and conversations with disciples - the primary source of his teachings", "⭐", null),
+            Work("Book of Poetry (Shijing)", "Edited ~500 BCE", "Anthology of 305 Chinese poems and songs that Confucius edited and used for moral instruction", "📜", null),
+            Work("Book of Documents (Shujing)", "Edited ~500 BCE", "Collection of political speeches and documents from ancient Chinese rulers", "📚", null),
+            Work("Book of Rites (Liji)", "Edited ~500 BCE", "Manual of ritual and ceremonial practices for proper social conduct and harmony", "🎭", null),
+            Work("Book of Changes (I Ching)", "Commentary ~500 BCE", "Ancient divination text with Confucius's commentaries on change and transformation", "☯️", null),
+            Work("Spring and Autumn Annals", "Compiled ~500 BCE", "Chronicle of the State of Lu, traditionally attributed to Confucius", "📖", null)
         )
         
         items(works) { work ->
@@ -266,31 +252,31 @@ fun LegacyTab() {
             InfoCard(
                 title = "Philosophical Impact",
                 icon = "🧠",
-                content = "Founded formal logic and the scientific method. His systematic approach to knowledge influenced Western thought for over 2000 years. Created frameworks for ethics, politics, and metaphysics still studied today."
+                content = "Confucianism became China's official philosophy for over 2,000 years. Shaped governmental systems of China, Korea, Japan, and Vietnam. Created ethical frameworks for personal and social moral development still influential today."
             )
         }
         
         item {
             InfoCard(
-                title = "Scientific Contributions",
+                title = "Educational Revolution",
                 icon = "🔬",
-                content = "Father of biology through empirical observation of over 500 species. Pioneered comparative anatomy, embryology, and taxonomy. His biological works remained authoritative until the Renaissance."
+                content = "First to establish private education accessible to all social classes in China. Democratized learning and created merit-based social mobility. Established the Chinese examination system that shaped bureaucracy for centuries."
             )
         }
         
         item {
             InfoCard(
-                title = "Educational Legacy",
+                title = "Cultural Preservation",
                 icon = "📚",
-                content = "The Lyceum became a model for universities. His method of systematic inquiry and classification shaped academic disciplines. Influenced Islamic Golden Age scholars who preserved and expanded his works."
+                content = "Preserved and transmitted ancient Chinese classical literature. Edited the Five Classics that became foundation of Chinese education. His emphasis on learning and self-cultivation shaped East Asian educational values."
             )
         }
         
         item {
             InfoCard(
-                title = "Medieval Influence",
-                icon = "⛪",
-                content = "Thomas Aquinas synthesized Aristotelian philosophy with Christian theology. Became the foundation of Scholasticism. Universities in medieval Europe were built around his texts."
+                title = "Social Harmony",
+                icon = "☯️",
+                content = "Emphasized filial piety as foundation of social order. Created framework of Five Relationships that structured East Asian society. Promoted harmony through proper conduct and moral example."
             )
         }
         
@@ -298,7 +284,7 @@ fun LegacyTab() {
             InfoCard(
                 title = "Modern Relevance",
                 icon = "💡",
-                content = "Virtue ethics experiencing revival in moral philosophy. His political analysis remains relevant to constitutional theory. Concepts like the golden mean influence psychology and decision-making."
+                content = "Confucian values continue to influence East Asian business practices and education. His birthday celebrated as Teachers' Day across Asia. UNESCO recognizes him as one of the ten greatest thinkers in human history."
             )
         }
     }
@@ -311,16 +297,16 @@ fun TimelineTab() {
         verticalArrangement = Arrangement.spacedBy(12.dp)
     ) {
         val timeline = listOf(
-            TimelineEvent("384 BC", "Born in Stagira, Greece", "👶"),
-            TimelineEvent("367 BC", "Joined Plato's Academy in Athens", "🎓"),
-            TimelineEvent("347 BC", "Plato dies; Confucius leaves Academy", "📜"),
-            TimelineEvent("343 BC", "Becomes tutor to Alexander the Great", "👑"),
-            TimelineEvent("335 BC", "Returns to Athens, founds the Lyceum", "🏛️"),
-            TimelineEvent("334 BC", "Alexander begins conquest of Persia", "⚔️"),
-            TimelineEvent("330 BC", "Writes major works on ethics and politics", "📚"),
-            TimelineEvent("325 BC", "Completes biological research", "🔬"),
-            TimelineEvent("323 BC", "Alexander dies; Confucius flees Athens", "💔"),
-            TimelineEvent("322 BC", "Dies in Chalcis at age 62", "⭐")
+            TimelineEvent("551 BCE", "Born in Zou, State of Lu, China", "👶"),
+            TimelineEvent("548 BCE", "Father dies; raised in poverty", "💔"),
+            TimelineEvent("532 BCE", "Marries at age 19", "💑"),
+            TimelineEvent("521 BCE", "Begins teaching; establishes private school", "🎓"),
+            TimelineEvent("501 BCE", "Appointed to government position in Lu", "👑"),
+            TimelineEvent("497 BCE", "Begins 14-year journey across Chinese states", "🚶"),
+            TimelineEvent("484 BCE", "Returns to Lu; focuses on teaching", "🏯"),
+            TimelineEvent("483 BCE", "Edits classical texts and compiles teachings", "📚"),
+            TimelineEvent("481 BCE", "Completes Spring and Autumn Annals", "📜"),
+            TimelineEvent("479 BCE", "Dies at age 72 in State of Lu", "⭐")
         )
         
         items(timeline) { event ->
