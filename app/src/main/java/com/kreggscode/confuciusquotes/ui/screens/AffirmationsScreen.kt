@@ -76,7 +76,6 @@ fun AffirmationsScreen(
         }
     }
     
-    val context = LocalContext.current
     val dataLoader = remember { AffirmationsDataLoader(context) }
     var affirmations by remember { mutableStateOf<List<Affirmation>>(emptyList()) }
     var isLoading by remember { mutableStateOf(true) }
@@ -234,7 +233,6 @@ fun AffirmationsScreen(
                                     Text("All Affirmations")
                                 }
                             },
-                            contentAlignment = Alignment.Center,
                             colors = FilterChipDefaults.filterChipColors(
                                 selectedContainerColor = PremiumColors.ElectricPurple,
                                 containerColor = PremiumColors.ElectricPurple.copy(alpha = 0.2f),
@@ -242,11 +240,7 @@ fun AffirmationsScreen(
                                 labelColor = Color.White.copy(alpha = 0.7f)
                             ),
                             modifier = Modifier.weight(1f)
-                        ) {
-                            if (isLoading) {
-                                CircularProgressIndicator(color = PremiumColors.ElectricPurple)
-                            }
-                        }
+                        )
                         
                         FilterChip(
                             selected = selectedTab == 1,
