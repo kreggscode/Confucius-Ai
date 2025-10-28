@@ -286,17 +286,17 @@ fun PremiumHomeScreen(
 fun GreetingHeader() {
     val currentHour = remember { LocalDateTime.now().hour }
     val greeting = when (currentHour) {
-        in 0..11 -> "Χαίρετε" // Greek: Greetings (morning)
-        in 12..16 -> "Καλημέρα" // Greek: Good day
-        in 17..20 -> "Καλησπέρα" // Greek: Good evening
-        else -> "Καλή νύχτα" // Greek: Good night
+        in 0..11 -> "早安" // Chinese: Good morning (Zǎo ān)
+        in 12..16 -> "午安" // Chinese: Good afternoon (Wǔ ān)
+        in 17..20 -> "晚安" // Chinese: Good evening (Wǎn ān)
+        else -> "夜安" // Chinese: Good night (Yè ān)
     }
     
     val subtitle = when (currentHour) {
-        in 0..11 -> "Begin your journey to wisdom"
-        in 12..16 -> "Continue your philosophical pursuit"
-        in 17..20 -> "Reflect on the day's insights"
-        else -> "Rest with contemplation"
+        in 0..11 -> "Begin your journey to virtue"
+        in 12..16 -> "Cultivate benevolence and wisdom"
+        in 17..20 -> "Reflect on the Way of the Sage"
+        else -> "Rest with a tranquil heart"
     }
     
     val icon = when (currentHour) {
