@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Confucius Wisdom - Ancient Chinese wisdom and timeless teachings from Confucius. Discover quotes, philosophy, and AI-powered conversations.">
+    <meta name="keywords" content="Confucius, Chinese philosophy, wisdom, quotes, teachings, Confucianism, ancient wisdom">
+    <title>Confucius Wisdom - Ancient Chinese Philosophy & Teachings</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1A1A2E 0%, #16213E 50%, #0F3460 100%);
+            color: #fff;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 80px 20px;
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(139, 115, 85, 0.1) 100%);
+            border-radius: 20px;
+            margin-bottom: 60px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .logo {
+            font-size: 120px;
+            margin-bottom: 20px;
+            text-shadow: 0 0 30px rgba(212, 175, 55, 0.5);
+        }
+
+        h1 {
+            font-size: 3.5em;
+            color: #D4AF37;
+            margin-bottom: 20px;
+            letter-spacing: 4px;
+            text-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+        }
+
+        .tagline {
+            font-size: 1.5em;
+            color: #8B7355;
+            margin-bottom: 40px;
+            font-weight: 300;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 15px 40px;
+            font-size: 1.1em;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: all 0.3s ease;
+            font-weight: 600;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #D4AF37 0%, #8B7355 100%);
+            color: #1A1A2E;
+            box-shadow: 0 10px 30px rgba(212, 175, 55, 0.3);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(212, 175, 55, 0.5);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            color: #D4AF37;
+            border: 2px solid #D4AF37;
+            backdrop-filter: blur(10px);
+        }
+
+        .btn-secondary:hover {
+            background: rgba(212, 175, 55, 0.2);
+            transform: translateY(-3px);
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(212, 175, 55, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(212, 175, 55, 0.5);
+            box-shadow: 0 15px 40px rgba(212, 175, 55, 0.2);
+        }
+
+        .feature-icon {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        .feature-card h3 {
+            color: #D4AF37;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        .feature-card p {
+            color: #8B7355;
+            line-height: 1.8;
+        }
+
+        .quote-section {
+            text-align: center;
+            padding: 60px 20px;
+            background: rgba(212, 175, 55, 0.05);
+            border-radius: 20px;
+            margin-bottom: 60px;
+            border: 1px solid rgba(212, 175, 55, 0.2);
+        }
+
+        .quote {
+            font-size: 1.8em;
+            font-style: italic;
+            color: #D4AF37;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+
+        .quote-author {
+            color: #8B7355;
+            font-size: 1.2em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid rgba(212, 175, 55, 0.2);
+            margin-top: 60px;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .footer-links a {
+            color: #8B7355;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: #D4AF37;
+        }
+
+        .copyright {
+            color: #8B7355;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5em;
+            }
+
+            .tagline {
+                font-size: 1.2em;
+            }
+
+            .logo {
+                font-size: 80px;
+            }
+
+            .quote {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">智</div>
+            <h1>Confucius Wisdom</h1>
+            <p class="tagline">Ancient Chinese Wisdom • Timeless Teachings</p>
+            <div class="cta-buttons">
+                <a href="https://play.google.com/store/apps/details?id=com.kreggscode.confuciusquotes" class="btn btn-primary">
+                    📱 Download on Google Play
+                </a>
+                <a href="https://github.com/kreggscode/Confucius-Ai" class="btn btn-secondary">
+                    💻 View on GitHub
+                </a>
+            </div>
+        </header>
+
+        <section class="features">
+            <div class="feature-card">
+                <div class="feature-icon">📚</div>
+                <h3>Timeless Quotes</h3>
+                <p>Explore hundreds of authentic quotes and teachings from Confucius, organized by themes like virtue, wisdom, relationships, and governance.</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🤖</div>
+                <h3>AI-Powered Chat</h3>
+                <p>Engage in meaningful conversations with an AI embodiment of Confucius. Ask questions about ethics, philosophy, and life guidance.</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">📖</div>
+                <h3>The Analects</h3>
+                <p>Access the complete works of Confucius, including the Analects and other classical Chinese philosophical texts.</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">⭐</div>
+                <h3>Daily Inspiration</h3>
+                <p>Receive daily notifications with carefully selected quotes to inspire and guide you throughout your day.</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">❤️</div>
+                <h3>Favorites Collection</h3>
+                <p>Save your favorite quotes and teachings for easy access. Build your personal collection of wisdom.</p>
+            </div>
+
+            <div class="feature-card">
+                <div class="feature-icon">🎨</div>
+                <h3>Beautiful Design</h3>
+                <p>Experience Chinese aesthetic with elegant gold and bronze colors, smooth animations, and a premium glassmorphic interface.</p>
+            </div>
+        </section>
+
+        <section class="quote-section">
+            <p class="quote">"It does not matter how slowly you go as long as you do not stop."</p>
+            <p class="quote-author">— Confucius</p>
+        </section>
+
+        <section class="quote-section">
+            <h2 style="color: #D4AF37; margin-bottom: 30px;">About Confucius</h2>
+            <p style="color: #8B7355; font-size: 1.1em; max-width: 800px; margin: 0 auto; line-height: 1.8;">
+                Confucius (551-479 BCE) was an ancient Chinese philosopher and teacher whose ideas have profoundly influenced East Asian culture and thought. His philosophy emphasized personal and governmental morality, correctness of social relationships, justice, kindness, and sincerity. The Analects, a collection of his sayings compiled by his disciples, remains one of the most influential works in human history.
+            </p>
+        </section>
+
+        <footer>
+            <div class="footer-links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms & Conditions</a>
+                <a href="mailto:kreg9da@gmail.com">Contact Us</a>
+                <a href="https://github.com/kreggscode/Confucius-Ai">GitHub</a>
+            </div>
+            <p class="copyright">© 2024 Confucius Wisdom. All rights reserved. | Developed by KreggsCode</p>
+        </footer>
+    </div>
+</body>
+</html>

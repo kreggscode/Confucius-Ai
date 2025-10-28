@@ -1,0 +1,866 @@
+[
+  {
+    "id": "nicomachean_ethics",
+    "title": "Nicomachean Ethics",
+    "year": "-340",
+    "publication": "Nicomachean Ethics",
+    "icon": "🏛️",
+    "summary": "Aristotle's foundational work on ethics, exploring the nature of the good life, virtue, and human flourishing.",
+    "openingQuote": "Every art and every inquiry, and similarly every action and pursuit, is thought to aim at some good.",
+    "mainThemes": [
+      "Virtue Ethics",
+      "Eudaimonia",
+      "The Golden Mean",
+      "Practical Wisdom"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Highest Good: Eudaimonia",
+        "content": "Aristotle argues that the ultimate human good is eudaimonia, often translated as 'happiness' or 'flourishing.' This is not mere pleasure but an active life lived in accordance with virtue and reason."
+      },
+      {
+        "title": "The Doctrine of the Mean",
+        "content": "Moral virtue is a mean state between two vices, one of excess and one of deficiency. Courage, for example, is the mean between cowardice and rashness."
+      },
+      {
+        "title": "Virtue as Habit",
+        "content": "We become just by performing just acts, brave by performing brave acts. Virtue is a settled disposition of the soul, acquired through practice and habit, not just theoretical knowledge."
+      },
+      {
+        "title": "Friendship and the Good Life",
+        "content": "Without friends, no one would choose to live. Aristotle analyzes three types of friendship: based on utility, pleasure, and the highest form, based on mutual recognition of virtue."
+      }
+    ],
+    "controversialAspects": [
+      "His defense of slavery as 'natural' is a major ethical flaw",
+      "The concept of the 'great-souled man' can be seen as elitist",
+      "The focus on male citizens excludes women and non-citizens from the ideal of flourishing"
+    ],
+    "relevanceToday": [
+      "Modern virtue ethics in philosophy",
+      "The psychology of habit formation",
+      "Discussions on happiness and well-being (Positive Psychology)"
+    ],
+    "closingThought": "\"The good for man is an activity of the soul in accordance with virtue, and if there are multiple virtues, in accordance with the best and most complete.\""
+  },
+  {
+    "id": "politics",
+    "title": "Politics",
+    "year": "-350",
+    "publication": "Politics",
+    "icon": "🤝",
+    "summary": "Aristotle's analysis of the polis (city-state), its constitution, citizenship, and the ideal form of government.",
+    "openingQuote": "Man is by nature a political animal.",
+    "mainThemes": [
+      "Political Community",
+      "Citizenship",
+      "Constitutions",
+      "The Common Good"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Political Nature of Man",
+        "content": "Humans cannot achieve their full potential outside of the polis. The state is a natural institution that exists for the sake of the good life, not mere survival."
+      },
+      {
+        "title": "Classification of Governments",
+        "content": "He classifies constitutions based on who rules (one, few, many) and whether they rule for the common good. The good forms are monarchy, aristocracy, and polity; the corrupt are tyranny, oligarchy, and democracy."
+      },
+      {
+        "title": "The Ideal State and the Middle Class",
+        "content": "The most stable state is one with a strong, prosperous middle class, which avoids the extremes of wealth and poverty that lead to factional conflict."
+      },
+      {
+        "title": "The Role of Education",
+        "content": "Education must be a public concern, designed to cultivate the character of citizens to suit the constitution of their state."
+      }
+    ],
+    "controversialAspects": [
+      "His justification of slavery and the subordination of women is deeply problematic",
+      "His ideal state is exclusionary, based on a small citizen body",
+      "He was skeptical of democracy, which he saw as mob rule"
+    ],
+    "relevanceToday": [
+      "Debates on communitarianism vs. individualism",
+      "Discussions on civic education and citizenship",
+      "Analysis of political stability and the middle class"
+    ],
+    "closingThought": "\"A state exists for the sake of a good life, and not for life only.\""
+  },
+  {
+    "id": "metaphysics",
+    "title": "Metaphysics",
+    "year": "-350",
+    "publication": "Metaphysics",
+    "icon": "🔍",
+    "summary": "Aristotle's inquiry into 'first philosophy,' dealing with being, substance, cause, and the fundamental nature of reality.",
+    "openingQuote": "All men by nature desire to know.",
+    "mainThemes": [
+      "Being and Substance",
+      "The Four Causes",
+      "Potentiality and Actuality",
+      "The Unmoved Mover"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Science of Being qua Being",
+        "content": "Metaphysics studies existence itself, not just aspects of it. The central question is: What is substance? What is it that truly 'is'?"
+      },
+      {
+        "title": "The Four Causes",
+        "content": "To understand a thing, we must know its four causes: 1) Material (what it's made of), 2) Formal (its essence or structure), 3) Efficient (what brought it about), and 4) Final (its purpose or end)."
+      },
+      {
+        "title": "Potentiality and Actuality",
+        "content": "All things are a mix of potentiality (what they can become) and actuality (what they currently are). Actuality is prior to potentiality, as it is the end for which potentiality exists."
+      },
+      {
+        "title": "The Prime Mover",
+        "content": "There must be an eternal, immaterial, purely actual substance that is the ultimate cause of all motion in the universe. This 'Unmoved Mover' causes motion not by pushing, but as a final cause, by being an object of desire and thought."
+      }
+    ],
+    "controversialAspects": [
+      "The highly abstract and complex nature of the text makes it notoriously difficult to interpret",
+      "The concept of the Unmoved Mover has been both influential and heavily debated in theology and philosophy"
+    ],
+    "relevanceToday": [
+      "Foundational for Western philosophy and theology",
+      "Influences debates on the nature of reality in philosophy of science",
+      "The concept of teleology (purpose in nature) is debated in biology"
+    ],
+    "closingThought": "\"The actuality of thought is life, and God is that actuality.\""
+  },
+  {
+    "id": "poetics",
+    "title": "Poetics",
+    "year": "-335",
+    "publication": "Poetics",
+    "icon": "🎭",
+    "summary": "Aristotle's analysis of poetry, particularly tragedy, defining its components and explaining its emotional and psychological impact.",
+    "openingQuote": "Epic poetry and Tragedy, Comedy also... are all, viewed as a whole, modes of imitation.",
+    "mainThemes": [
+      "Mimesis (Imitation)",
+      "Tragedy",
+      "Catharsis",
+      "Plot"
+    ],
+    "keyPoints": [
+      {
+        "title": "Art as Imitation (Mimesis)",
+        "content": "Poetry is an imitation of human action and life. This imitation is not a mere copy but a representation of universal truths, which is why it is 'more philosophical' than history."
+      },
+      {
+        "title": "The Elements of Tragedy",
+        "content": "The six formative elements of tragedy are: Plot, Character, Thought, Diction, Spectacle, and Song. Plot is the 'soul' of tragedy, the most important element."
+      },
+      {
+        "title": "The Tragic Hero and Hamartia",
+        "content": "The ideal tragic hero is a man who is neither perfectly virtuous nor entirely wicked, but who suffers a downfall due to a hamartia—a tragic error or flaw in judgment."
+      },
+      {
+        "title": "Catharsis",
+        "content": "The purpose of tragedy is to achieve a catharsis (purgation or purification) of the emotions of pity and fear through the audience's engagement with the dramatic events."
+      }
+    ],
+    "controversialAspects": [
+      "The exact meaning of 'catharsis' is one of the most debated concepts in literary theory",
+      "His strict rules for tragedy were seen as prescriptive by later Renaissance critics"
+    ],
+    "relevanceToday": [
+      "The foundation of Western literary criticism",
+      "Concepts of plot structure used in screenwriting and storytelling",
+      "Ongoing psychological studies on the effects of narrative and drama"
+    ],
+    "closingThought": "\"A tragedy is the imitation of an action that is serious and complete... through pity and fear effecting the proper purgation of these emotions.\""
+  },
+  {
+    "id": "rhetoric",
+    "title": "Rhetoric",
+    "year": "-350",
+    "publication": "Rhetoric",
+    "icon": "💬",
+    "summary": "Aristotle's systematic art of persuasion, analyzing the means of effective argument and communication in public life.",
+    "openingQuote": "Rhetoric is the counterpart of Dialectic.",
+    "mainThemes": [
+      "Persuasion",
+      "Ethos, Pathos, Logos",
+      "Enthymeme",
+      "Civic Discourse"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Three Modes of Persuasion",
+        "content": "1) Ethos: The character and credibility of the speaker. 2) Pathos: Appealing to the emotions of the audience. 3) Logos: The logical argument itself."
+      },
+      {
+        "title": "The Enthymeme",
+        "content": "The core of rhetorical logic is the enthymeme, a rhetorical syllogism that often relies on a premise shared with the audience, making the argument more persuasive."
+      },
+      {
+        "title": "The Three Genres of Oratory",
+        "content": "1) Deliberative: Persuading about future action (political). 2) Forensic: Arguing about past events (legal). 3) Epideictic: Praising or blaming in the present (ceremonial)."
+      },
+      {
+        "title": "Rhetoric as a Neutral Tool",
+        "content": "Unlike Plato, who saw rhetoric as mere flattery, Aristotle treats it as a true art (techne) that can be used for good or ill, and is essential for civic life and discovering truth."
+      }
+    ],
+    "controversialAspects": [
+      "Some philosophers still view rhetoric as manipulative, rather than a search for truth",
+      "His systematization could be seen as teaching people how to argue for any position, regardless of its merit"
+    ],
+    "relevanceToday": [
+      "The foundation of public speaking, debate, and communication studies",
+      "Ethos, Pathos, Logos are fundamental concepts in marketing, advertising, and politics",
+      "Studies in law and legal argumentation"
+    ],
+    "closingThought": "\"Persuasion is achieved by the speaker's personal character when the speech is so spoken as to make us think him credible.\""
+  },
+  {
+    "id": "virtue_ethics",
+    "title": "Virtue Ethics Framework",
+    "year": "-340",
+    "publication": "Multiple Works",
+    "icon": "⭐",
+    "summary": "Aristotle's ethical system that focuses on character and virtue rather than rules or consequences.",
+    "openingQuote": "Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution.",
+    "mainThemes": [
+      "Character Development",
+      "Moral Virtue",
+      "Practical Wisdom",
+      "Habit Formation"
+    ],
+    "keyPoints": [
+      {
+        "title": "Virtue as Excellence of Character",
+        "content": "Virtue (aretē) means excellence in performing one's function. For humans, this means excellence in reasoning and living a rationally guided life."
+      },
+      {
+        "title": "The Role of Phronesis",
+        "content": "Practical wisdom (phronesis) is the intellectual virtue that enables us to discern the right course of action in particular situations. It's the bridge between knowing the good and doing the good."
+      },
+      {
+        "title": "The Importance of Community",
+        "content": "We become virtuous through proper upbringing in a good community. Virtue is social - we learn courage, justice, and generosity through interaction with others."
+      },
+      {
+        "title": "Virtue as Its Own Reward",
+        "content": "The virtuous person takes pleasure in doing virtuous acts. Virtue is not a means to happiness but constitutes happiness itself."
+      }
+    ],
+    "controversialAspects": [
+      "Critics argue it provides insufficient guidance for specific moral dilemmas",
+      "The emphasis on character can lead to moralistic judgment of persons rather than actions",
+      "It may be culturally specific to ancient Greek ideals"
+    ],
+    "relevanceToday": [
+      "Modern virtue ethics revival in moral philosophy",
+      "Character education programs",
+      "Professional ethics emphasizing integrity and character",
+      "Positive psychology's focus on strengths and virtues"
+    ],
+    "closingThought": "\"We are what we repeatedly do. Excellence, then, is not an act, but a habit.\""
+  },
+  {
+    "id": "four_causes",
+    "title": "The Four Causes",
+    "year": "-350",
+    "publication": "Physics & Metaphysics",
+    "icon": "🔎",
+    "summary": "Aristotle's comprehensive framework for explaining why things are the way they are, covering material, formal, efficient, and final causation.",
+    "openingQuote": "Knowledge is the object of our inquiry, and men do not think they know a thing till they have grasped the 'why' of it.",
+    "mainThemes": [
+      "Causation",
+      "Explanation",
+      "Teleology",
+      "Understanding"
+    ],
+    "keyPoints": [
+      {
+        "title": "Material Cause",
+        "content": "What something is made of - the bronze of a statue, the marble of a building, the biological matter of an organism."
+      },
+      {
+        "title": "Formal Cause",
+        "content": "The form, pattern, or essence of something - the design of the statue, the architectural plan, the genetic code of the organism."
+      },
+      {
+        "title": "Efficient Cause",
+        "content": "The agent that brings something about - the sculptor who makes the statue, the builder who constructs the house, the parents who generate the child."
+      },
+      {
+        "title": "Final Cause",
+        "content": "The purpose, end, or goal of something - the statue's function as art, the house's purpose as shelter, the acorn's telos to become an oak tree."
+      }
+    ],
+    "controversialAspects": [
+      "Final causation has been largely rejected in modern science",
+      "The framework can be seen as anthropomorphic - projecting human-like purposes onto nature",
+      "Some argue the four causes overlap or aren't clearly distinct"
+    ],
+    "relevanceToday": [
+      "Still used in philosophy of science for analyzing explanations",
+      "Useful in design thinking and engineering",
+      "Influential in biology debates about teleology and function",
+      "Helpful framework for historical and archaeological analysis"
+    ],
+    "closingThought": "\"Nature does nothing in vain.\""
+  },
+  {
+    "id": "golden_mean",
+    "title": "The Golden Mean",
+    "year": "-340",
+    "publication": "Nicomachean Ethics",
+    "icon": "⚖️",
+    "summary": "Aristotle's doctrine that moral virtue lies in finding the intermediate between excess and deficiency in emotions and actions.",
+    "openingQuote": "Virtue is a mean state between two vices, one of excess and the other of deficiency.",
+    "mainThemes": [
+      "Moderation",
+      "Balance",
+      "Moral Psychology",
+      "Practical Judgment"
+    ],
+    "keyPoints": [
+      {
+        "title": "Not Mathematical, But Relative",
+        "content": "The mean is not an arithmetic midpoint but relative to us - what's courageous for a seasoned soldier differs from what's courageous for a novice."
+      },
+      {
+        "title": "Examples of Virtues and Vices",
+        "content": "Courage (mean) between cowardice (deficiency) and rashness (excess). Generosity between stinginess and wastefulness. Proper pride between vanity and humility."
+      },
+      {
+        "title": "The Role of Practical Wisdom",
+        "content": "Finding the mean requires phronesis - the ability to judge what the right action is in particular circumstances. There's no algorithm; it's a matter of perception and experience."
+      },
+      {
+        "title": "Not for All Actions",
+        "content": "The doctrine applies to emotions and actions that admit of degrees. Some actions (like murder or adultery) are always wrong and don't have a mean."
+      }
+    ],
+    "controversialAspects": [
+      "Some virtues don't clearly fit the mean model (e.g., justice, truthfulness)",
+      "It can be interpreted as advocating mediocrity rather than excellence",
+      "The 'relative to us' qualification makes the theory potentially subjective"
+    ],
+    "relevanceToday": [
+      "Influence on moderation in various wisdom traditions",
+      "Applications in emotional intelligence and self-regulation",
+      "Useful in conflict resolution and mediation",
+      "Relevant to discussions of work-life balance"
+    ],
+    "closingThought": "\"Anybody can become angry—that is easy. But to be angry with the right person, to the right degree, at the right time, for the right purpose, and in the right way—that is not easy.\""
+  },
+  {
+    "id": "soul_psychology",
+    "title": "On the Soul (De Anima)",
+    "year": "-350",
+    "publication": "On the Soul",
+    "icon": "🧠",
+    "summary": "Aristotle's investigation into the nature of the soul (psyche), which he defines as the form and actuality of a living body.",
+    "openingQuote": "Holding as we do that, while knowledge of any kind is a thing to be honored and prized, one kind of it may be more honorable and precious than another.",
+    "mainThemes": [
+      "Psyche",
+      "Hylomorphism",
+      "Faculties of the Soul",
+      "Perception and Intellect"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Soul as Form of the Body",
+        "content": "The soul is the 'first actuality' of a natural body that has life potentially. It is not a separate substance trapped in the body (as Plato thought), but the form that organizes and animates the body. This is the doctrine of hylomorphism."
+      },
+      {
+        "title": "The Hierarchical Faculties",
+        "content": "The soul has different faculties: Nutritive (plants), Perceptive (animals), and Rational (humans). Each higher faculty includes the capacities of the lower ones."
+      },
+      {
+        "title": "Perception and the Active Intellect",
+        "content": "Perception is the reception of the form of an object without its matter. The mind has a passive intellect (which receives forms) and an active intellect (which makes them intelligible), the latter being immortal and divine."
+      }
+    ],
+    "controversialAspects": [
+      "The nature and immortality of the 'active intellect' is extremely obscure and has been interpreted in many ways",
+      "His view of the soul as inseparable from the body conflicted with Christian doctrines of an immortal soul"
+    ],
+    "relevanceToday": [
+      "Influential in philosophy of mind, especially debates on dualism vs. physicalism",
+      "Foundational for psychology and cognitive science",
+      "Discussions on consciousness and embodiment"
+    ],
+    "closingThought": "\"The soul is, in a way, all existing things; for existing things are either perceptible or thinkable.\""
+  },
+  {
+    "id": "scientific_method",
+    "title": "Scientific Demonstration",
+    "year": "-350",
+    "publication": "Posterior Analytics",
+    "icon": "🔬",
+    "summary": "Aristotle's theory of scientific knowledge and demonstration, explaining how we gain certain knowledge from first principles.",
+    "openingQuote": "All instruction given or received by way of argument proceeds from pre-existent knowledge.",
+    "mainThemes": [
+      "Scientific Knowledge",
+      "Demonstration",
+      "Syllogism",
+      "First Principles"
+    ],
+    "keyPoints": [
+      {
+        "title": "Scientific Knowledge (Episteme)",
+        "content": "We have scientific knowledge of a thing when we know its cause, that it is the cause of that thing, and that it cannot be otherwise. It is knowledge through demonstration."
+      },
+      {
+        "title": "The Structure of Demonstration",
+        "content": "A scientific demonstration is a syllogism that proceeds from premises that are true, primary, immediate, better known than the conclusion, and prior to it. The conclusion then becomes scientifically known."
+      },
+      {
+        "title": "First Principles",
+        "content": "All knowledge ultimately rests on indemonstrable first principles (archai), which are grasped by a faculty called nous (intellect or understanding)."
+      }
+    ],
+    "controversialAspects": [
+      "His model of perfect, deductive science was perhaps too rigid and doesn't perfectly fit modern empirical science",
+      "The nature of 'nous' and how we grasp first principles is unclear"
+    ],
+    "relevanceToday": [
+      "Foundational for philosophy of science and epistemology",
+      "Influenced the ideal of an axiomatic system, as seen in geometry"
+    ],
+    "closingThought": "\"We think we understand a thing simpliciter when we think we know of the cause that it is the cause of that thing.\""
+  },
+  {
+    "id": "logic_syllogism",
+    "title": "Syllogistic Logic",
+    "year": "-350",
+    "publication": "Prior Analytics",
+    "icon": "⚙️",
+    "summary": "Aristotle's invention of formal logic, presenting his system of the syllogism and deductive reasoning.",
+    "openingQuote": "We must first state what our inquiry is about and what it is concerned with.",
+    "mainThemes": [
+      "Syllogistic Logic",
+      "Deduction",
+      "Figures and Moods",
+      "Formal Reasoning"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Invention of the Syllogism",
+        "content": "A syllogism is a discourse in which, certain things having been supposed, something different from the things supposed results of necessity because these things are so. It is the foundation of deductive logic."
+      },
+      {
+        "title": "The Three Figures",
+        "content": "Syllogisms are categorized into three figures based on the position of the middle term. He meticulously catalogs which forms are valid and which are invalid."
+      },
+      {
+        "title": "The Tool for Science",
+        "content": "The Prior Analytics provides the formal machinery (the syllogism) that is then applied in the Posterior Analytics to build scientific demonstrations."
+      }
+    ],
+    "controversialAspects": [
+      "Syllogistic logic was the dominant form of logic for over 2000 years, but has been largely superseded by modern predicate logic",
+      "It is limited in its ability to handle complex relational statements"
+    ],
+    "relevanceToday": [
+      "The historical foundation of logic as a formal discipline",
+      "Still taught as an introduction to logical structure and deductive reasoning"
+    ],
+    "closingThought": "\"A syllogism is discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.\""
+  },
+  {
+    "id": "friendship",
+    "title": "Theory of Friendship",
+    "year": "-340",
+    "publication": "Nicomachean Ethics",
+    "icon": "🤝",
+    "summary": "Aristotle's profound analysis of friendship as essential to human flourishing and the good life.",
+    "openingQuote": "Without friends no one would choose to live, though he had all other goods.",
+    "mainThemes": [
+      "Philia",
+      "Three Types of Friendship",
+      "Self-Knowledge",
+      "Social Nature"
+    ],
+    "keyPoints": [
+      {
+        "title": "Three Kinds of Friendship",
+        "content": "1) Friendship of utility: Based on mutual benefit. 2) Friendship of pleasure: Based on shared enjoyment. 3) Friendship of virtue: Based on mutual admiration of each other's good character."
+      },
+      {
+        "title": "The Highest Form",
+        "content": "Virtue friendship is perfect friendship - it is lasting, based on loving the other for who they are, and involves wishing good for the other's own sake."
+      },
+      {
+        "title": "The Friend as Another Self",
+        "content": "In true friendship, the friend becomes 'another self' - through friendship we come to know ourselves better and extend our concern beyond our own interests."
+      },
+      {
+        "title": "Political Dimension",
+        "content": "Friendship holds cities together, and lawgivers care more for it than for justice. A city is a community of friends."
+      }
+    ],
+    "controversialAspects": [
+      "His claim that we can only have a few true virtue friends seems overly restrictive",
+      "The hierarchy of friendships could be seen as elitist",
+      "His focus on friendship between equals excludes many meaningful relationships"
+    ],
+    "relevanceToday": [
+      "Psychology of relationships and social connection",
+      "Discussions about social capital and community",
+      "Philosophical discussions about love and relationship ethics",
+      "Studies on loneliness and social isolation"
+    ],
+    "closingThought": "\"The friend is another self.\""
+  },
+  {
+    "id": "political_animal",
+    "title": "Man as Political Animal",
+    "year": "-350",
+    "publication": "Politics",
+    "icon": "🏛️",
+    "summary": "Aristotle's famous doctrine that humans are fundamentally political beings who achieve their full potential only in community.",
+    "openingQuote": "Man is by nature a political animal.",
+    "mainThemes": [
+      "Human Nature",
+      "Political Community",
+      "Social Dependence",
+      "Common Good"
+    ],
+    "keyPoints": [
+      {
+        "title": "Beyond Mere Sociality",
+        "content": "Humans are not just social like bees or herd animals. We are political because we have speech (logos) that enables us to discuss justice, good and evil, and the common advantage."
+      },
+      {
+        "title": "The Self-Sufficient Polis",
+        "content": "The city-state (polis) is the complete, self-sufficient community that exists for the sake of the good life. The individual and household are incomplete without it."
+      },
+      {
+        "title": "Natural Hierarchy",
+        "content": "Some are naturally suited to rule, others to be ruled. The relationship of master and slave, husband and wife, parent and child are all natural and necessary for the household."
+      },
+      {
+        "title": "The Isolated Human",
+        "content": "He who is unable to live in society, or who has no need because he is self-sufficient, must be either a beast or a god."
+      }
+    ],
+    "controversialAspects": [
+      "His defense of natural slavery is morally unacceptable",
+      "The subordination of women in his political theory",
+      "His exclusion of laborers and artisans from full citizenship"
+    ],
+    "relevanceToday": [
+      "Communitarian critiques of liberal individualism",
+      "Discussions about citizenship and civic engagement",
+      "Debates about human nature and social dependence",
+      "Theories of deliberative democracy"
+    ],
+    "closingThought": "\"The city is prior in nature to the household and to the individual, for the whole must be prior to the part.\""
+  },
+  {
+    "id": "art_imitation",
+    "title": "Art as Imitation (Mimesis)",
+    "year": "-335",
+    "publication": "Poetics",
+    "icon": "🎨",
+    "summary": "Aristotle's theory that art imitates nature and represents universal truths rather than mere appearances.",
+    "openingQuote": "Epic poetry and Tragedy, Comedy also... are all, viewed as a whole, modes of imitation.",
+    "mainThemes": [
+      "Mimesis",
+      "Universal Truth",
+      "Catharsis",
+      "Representation"
+    ],
+    "keyPoints": [
+      {
+        "title": "Not Mere Copying",
+        "content": "Imitation (mimesis) is natural to humans and pleasurable. Art doesn't just copy particular things but represents universal patterns and possibilities."
+      },
+      {
+        "title": "More Philosophical Than History",
+        "content": "Poetry is more philosophical and serious than history because history relates what has happened, while poetry relates what may happen - the universal rather than the particular."
+      },
+      {
+        "title": "The Purpose of Tragedy",
+        "content": "Tragedy achieves catharsis - the purification or purgation of the emotions of pity and fear through their representation and arousal in a controlled context."
+      },
+      {
+        "title": "Unity of Action",
+        "content": "A good plot must have unity - it should represent one complete action with a beginning, middle, and end where each part follows necessarily or probably from what precedes it."
+      }
+    ],
+    "controversialAspects": [
+      "The exact meaning of 'catharsis' remains hotly debated",
+      "Some argue his rules for tragedy are too prescriptive",
+      "The theory has been criticized for being too intellectual and ignoring other functions of art"
+    ],
+    "relevanceToday": [
+      "Foundation of Western literary theory and criticism",
+      "Influence on narrative theory and storytelling",
+      "Discussions about the cognitive value of fiction",
+      "Debates about representation in art and media"
+    ],
+    "closingThought": "\"The aim of art is to represent not the outward appearance of things, but their inward significance.\""
+  },
+  {
+    "id": "education_citizens",
+    "title": "Education of Citizens",
+    "year": "-350",
+    "publication": "Politics",
+    "icon": "📚",
+    "summary": "Aristotle's vision of education as a public responsibility essential for creating virtuous citizens and maintaining the state.",
+    "openingQuote": "No one will doubt that the legislator should direct his attention above all to the education of youth.",
+    "mainThemes": [
+      "Public Education",
+      "Character Formation",
+      "Citizenship",
+      "Moral Habituation"
+    ],
+    "keyPoints": [
+      {
+        "title": "Education as Political",
+        "content": "Education should not be a private matter but a common public concern, since the stability of the state depends on citizens sharing the same values and character."
+      },
+      {
+        "title": "Habituation Before Reason",
+        "content": "Moral education begins with habituation - through practice and repetition, children develop good habits before they can understand the reasons for them."
+      },
+      {
+        "title": "Balanced Curriculum",
+        "content": "Education should include gymnastics for the body, music for character formation, and potentially reading, writing, and drawing for useful skills."
+      },
+      {
+        "title": "Education for Leisure",
+        "content": "We educate people for leisure as well as work, since the ability to use leisure well is essential for happiness and flourishing."
+      }
+    ],
+    "controversialAspects": [
+      "His educational system was designed only for male citizens, excluding others",
+      "The heavy emphasis on music and gymnastics seems limited by modern standards",
+      "His view that education should serve the state can be seen as indoctrination"
+    ],
+    "relevanceToday": [
+      "Debates about character education in schools",
+      "Discussions about the purpose of public education",
+      "Questions about education for citizenship",
+      "The role of arts in education"
+    ],
+    "closingThought": "\"The roots of education are bitter, but the fruit is sweet.\""
+  },
+  {
+    "id": "natural_slave",
+    "title": "Theory of Natural Slavery",
+    "year": "-350",
+    "publication": "Politics",
+    "icon": "⛓️",
+    "summary": "Aristotle's controversial doctrine that some people are naturally suited to be slaves and others to be masters.",
+    "openingQuote": "That some should rule and others be ruled is not only necessary, but expedient.",
+    "mainThemes": [
+      "Natural Hierarchy",
+      "Slavery",
+      "Rational Capacity",
+      "Property"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Natural Slave",
+        "content": "A natural slave is one who participates in reason enough to apprehend it but not to possess it. They are living tools who belong entirely to their master."
+      },
+      {
+        "title": "Distinction from Conventional Slavery",
+        "content": "Aristotle distinguishes natural slavery (which he defends) from conventional slavery through war or force (which he criticizes as unjust)."
+      },
+      {
+        "title": "Beneficial for Both",
+        "content": "He argues that the relationship is beneficial for both master and slave - the slave gains direction and purpose, while the master gains the means to live well."
+      },
+      {
+        "title": "Bodily Evidence",
+        "content": "He suggests that nature intends to make the bodies of free men and slaves different, with slaves strong for service and free men upright for political life."
+      }
+    ],
+    "controversialAspects": [
+      "This is one of the most morally problematic aspects of Aristotle's thought",
+      "Used to justify slavery for centuries",
+      "Contradicts his own principle that no one is a slave by nature if they have virtue"
+    ],
+    "relevanceToday": [
+      "Important case study in how even great thinkers can be blinded by cultural prejudices",
+      "Example of philosophy being used to justify oppression",
+      "Discussions about human equality and dignity",
+      "Historical context for understanding ancient societies"
+    ],
+    "closingThought": "\"The slave is a living tool and the tool a lifeless slave.\""
+  },
+  {
+    "id": "contemplative_life",
+    "title": "The Contemplative Life",
+    "year": "-340",
+    "publication": "Nicomachean Ethics",
+    "icon": "✨",
+    "summary": "Aristotle's argument that the highest human happiness is found in the life of philosophical contemplation.",
+    "openingQuote": "If happiness is activity in accordance with virtue, it is reasonable that it should be in accordance with the highest virtue.",
+    "mainThemes": [
+      "Theoretical Wisdom",
+      "Divine Element",
+      "Highest Happiness",
+      "Intellectual Virtue"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Highest Virtue",
+        "content": "The highest virtue is theoretical wisdom (sophia), which contemplates eternal truths and first principles. This is superior to practical wisdom (phronesis)."
+      },
+      {
+        "title": "The Divine in Us",
+        "content": "The intellect (nous) is the divine element in humans. When we engage in contemplation, we are actualizing this divine element and living in accordance with what is highest in us."
+      },
+      {
+        "title": "Self-Sufficiency",
+        "content": "The contemplative life is the most self-sufficient - while it needs some external goods, it depends less on others and circumstances than the political life."
+      },
+      {
+        "title": "Imitating the Gods",
+        "content": "Since the gods spend eternity in contemplation, the contemplative life allows us to imitate the divine activity as much as is humanly possible."
+      }
+    ],
+    "controversialAspects": [
+      "Seems to devalue practical and political life",
+      "Could be seen as elitist and inaccessible to most people",
+      "Creates tension with his earlier emphasis on moral virtue and social life"
+    ],
+    "relevanceToday": [
+      "Discussions about the value of pure research and theoretical science",
+      "Philosophical debates about the meaning of life",
+      "The value of intellectual pursuits in a practical world",
+      "Mindfulness and meditation practices"
+    ],
+    "closingThought": "\"We must not listen to those who urge us to think human thoughts because we are human, and mortal thoughts because we are mortal; rather, we should become immortal as far as that is possible.\""
+  },
+  {
+    "id": "economics_household",
+    "title": "Household Management (Economics)",
+    "year": "-330",
+    "publication": "Economics & Politics",
+    "icon": "🏠",
+    "summary": "Aristotle's analysis of the household as the fundamental economic and social unit, distinct from the political realm.",
+    "openingQuote": "Every state is composed of households.",
+    "mainThemes": [
+      "Oikonomia",
+      "Household Relations",
+      "Wealth Acquisition",
+      "Natural vs Unnatural"
+    ],
+    "keyPoints": [
+      {
+        "title": "Three Relationships",
+        "content": "The household involves three natural relationships: master-slave, husband-wife, and parent-child. Each has its own form of rule."
+      },
+      {
+        "title": "Wealth Getting",
+        "content": "There is natural wealth-getting (managing resources for the good life) and unnatural wealth-getting (money-making for its own sake). The former is proper to household management."
+      },
+      {
+        "title": "Use vs Exchange",
+        "content": "Natural wealth-getting concerns the proper use of goods. Unnatural wealth-getting concerns exchange and money-making, which has no natural limit."
+      },
+      {
+        "title": "The Role of the Wife",
+        "content": "The wife's virtue is different from the husband's - hers involves obedience and household management, while his involves command and provision."
+      }
+    ],
+    "controversialAspects": [
+      "His patriarchal view of household relations",
+      "His criticism of trade and commerce as unnatural",
+      "The justification of slavery within the household"
+    ],
+    "relevanceToday": [
+      "Historical source for understanding ancient Greek society",
+      "Discussions about the relationship between economics and ethics",
+      "Feminist critiques of traditional family structures",
+      "Debates about limits to economic growth"
+    ],
+    "closingThought": "\"The art of household management is not identical with the art of getting wealth, for the one uses the material which the other provides.\""
+  },
+  {
+    "id": "language_truth",
+    "title": "Language and Truth",
+    "year": "-350",
+    "publication": "On Interpretation",
+    "icon": "💭",
+    "summary": "Aristotle's analysis of language, propositions, and their relationship to reality and truth.",
+    "openingQuote": "First we must define 'noun' and 'verb', then 'denial' and 'affirmation'.",
+    "mainThemes": [
+      "Language and Reality",
+      "The Proposition",
+      "Truth and Falsity",
+      "Future Contingents"
+    ],
+    "keyPoints": [
+      {
+        "title": "The Triad of Language, Thought, and Reality",
+        "content": "Spoken words are symbols of affections in the soul, and written words are symbols of spoken words. These affections in the soul are likenesses of actual things."
+      },
+      {
+        "title": "The Nature of the Proposition",
+        "content": "A proposition (apophansis) is a statement that affirms or denies something of something and is either true or false."
+      },
+      {
+        "title": "The Problem of Future Contingents",
+        "content": "In his famous 'Sea-Battle Argument,' Aristotle grapples with whether statements about future events that are not determined have a definite truth value. He suggests they are neither true nor false yet, to preserve freedom and contingency."
+      }
+    ],
+    "controversialAspects": [
+      "The interpretation of the 'Sea-Battle Argument' and his solution to the problem of future contingents is one of the most debated topics in the history of philosophy"
+    ],
+    "relevanceToday": [
+      "Foundational for philosophy of language and logic",
+      "The problem of future contingents is central to debates about free will, determinism, and the nature of time"
+    ],
+    "closingThought": "\"To say of what is that it is not, or of what is not that it is, is false, while to say of what is that it is, and of what is not that it is not, is true.\""
+  },
+  {
+    "id": "biology_teleology",
+    "title": "Biology and Teleology",
+    "year": "-350",
+    "publication": "Parts of Animals, Generation of Animals",
+    "icon": "🌿",
+    "summary": "Aristotle's biological works applying his teleological framework to living organisms, based on extensive empirical observation.",
+    "openingQuote": "In all things of nature there is something of the marvelous.",
+    "mainThemes": [
+      "Teleology in Biology",
+      "Empirical Observation",
+      "Classification",
+      "Reproduction"
+    ],
+    "keyPoints": [
+      {
+        "title": "Nature Does Nothing in Vain",
+        "content": "Every part of an organism exists for a purpose. The eye is for seeing, the heart for pumping blood. Biological explanation requires understanding final causes."
+      },
+      {
+        "title": "Scala Naturae",
+        "content": "Aristotle arranged living things on a scale of perfection, from plants (having only nutritive soul) to animals (adding perceptive soul) to humans (adding rational soul)."
+      },
+      {
+        "title": "Theory of Reproduction",
+        "content": "The male provides the form (through semen) while the female provides the matter (menstrual blood). The male is the active principle, the female the passive."
+      },
+      {
+        "title": "Spontaneous Generation",
+        "content": "He believed some creatures like insects could arise spontaneously from decaying matter under the influence of the sun's heat."
+      }
+    ],
+    "controversialAspects": [
+      "His biological theories, while advanced for his time, were often completely wrong",
+      "His description of the female as a 'mutilated male' is a notorious example of sexism in science",
+      "Teleological explanation was largely abandoned in modern biology"
+    ],
+    "relevanceToday": [
+      "A landmark in the history of biology, based on extensive observation",
+      "His errors show the importance of empirical testing over pure reasoning",
+      "His teleological approach influenced biology until Darwin",
+      "Modern debates about teleology in biology (function vs purpose)"
+    ],
+    "closingThought": "\"The female is, as it were, a mutilated male.\""
+  }
+]

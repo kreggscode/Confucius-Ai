@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "affirmation": "I cultivate habits of excellence in all that I do.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 2,
+    "affirmation": "My purpose is to actively exercise my soul's faculties in conformity with virtue.",
+    "category": "Purpose & The Good Life"
+  },
+  {
+    "id": 3,
+    "affirmation": "I am a rational being, and I use my reason to guide my actions.",
+    "category": "Logic & Reason"
+  },
+  {
+    "id": 4,
+    "affirmation": "I find happiness in living a life of virtue and purpose.",
+    "category": "Happiness & The Good Life"
+  },
+  {
+    "id": 5,
+    "affirmation": "I am by nature a social and political animal; I thrive in community.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 6,
+    "affirmation": "I face life's challenges with courage, finding the mean between fear and recklessness.",
+    "category": "Courage & Fear"
+  },
+  {
+    "id": 7,
+    "affirmation": "I act with justice, fairness, and for the common advantage.",
+    "category": "Justice & Law"
+  },
+  {
+    "id": 8,
+    "affirmation": "I am a lifelong learner, for all men by nature desire to know.",
+    "category": "Education & Learning"
+  },
+  {
+    "id": 9,
+    "affirmation": "I nurture deep, virtuous friendships that are essential to a complete life.",
+    "category": "Friendship"
+  },
+  {
+    "id": 10,
+    "affirmation": "I use my power of speech to persuade with truth, reason, and good character.",
+    "category": "Rhetoric & Persuasion"
+  },
+  {
+    "id": 11,
+    "affirmation": "I seek the golden mean in my emotions and actions, avoiding excess and deficiency.",
+    "category": "The Mean & Moderation"
+  },
+  {
+    "id": 12,
+    "affirmation": "I contemplate the deeper reality and principles that govern the world.",
+    "category": "Metaphysics & Reality"
+  },
+  {
+    "id": 13,
+    "affirmation": "I observe the natural world with wonder, knowing nature does nothing in vain.",
+    "category": "Science & Nature"
+  },
+  {
+    "id": 14,
+    "affirmation": "I understand things by seeking their ultimate purpose and final cause.",
+    "category": "Purpose & Final Cause"
+  },
+  {
+    "id": 15,
+    "affirmation": "My soul is the active essence of my being, guiding my growth and perception.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 16,
+    "affirmation": "I use my wealth as a tool for virtuous living, not as an end in itself.",
+    "category": "Wealth & Economics"
+  },
+  {
+    "id": 17,
+    "affirmation": "I appreciate art that represents the inward significance of things, not just their appearance.",
+    "category": "Art & Poetry"
+  },
+  {
+    "id": 18,
+    "affirmation": "I fulfill my role within my community with dignity and responsibility.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 19,
+    "affirmation": "I develop my character through consistent, deliberate practice.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 20,
+    "affirmation": "I bear the accidents of life with dignity and grace, making the best of circumstances.",
+    "category": "Fortitude"
+  },
+  {
+    "id": 21,
+    "affirmation": "I am patient, for the roots of education are bitter, but the fruit is sweet.",
+    "category": "Education & Learning"
+  },
+  {
+    "id": 22,
+    "affirmation": "I am open to entertaining a thought without immediately accepting it.",
+    "category": "Logic & Reason"
+  },
+  {
+    "id": 23,
+    "affirmation": "I find joy in noble actions and take pleasure in doing what is right.",
+    "category": "Happiness & The Good Life"
+  },
+  {
+    "id": 24,
+    "affirmation": "I build a life that is self-sufficient and allows for noble actions.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 25,
+    "affirmation": "I act with practical wisdom, discerning the right course in each situation.",
+    "category": "Practical Wisdom"
+  },
+  {
+    "id": 26,
+    "affirmation": "My mind is capable of grasping the first principles of things.",
+    "category": "Logic & Reason"
+  },
+  {
+    "id": 27,
+    "affirmation": "I see the whole as more than the sum of its parts.",
+    "category": "Metaphysics & Reality"
+  },
+  {
+    "id": 28,
+    "affirmation": "I am a part of the city, and I contribute to its good life.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 29,
+    "affirmation": "I choose a life of action in accordance with virtue.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 30,
+    "affirmation": "I understand that excellence is not an act, but a habit.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 31,
+    "affirmation": "I am the unifying principle of my thoughts and actions.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 32,
+    "affirmation": "I seek the truth, for though we love our friends, we must honor the truth first.",
+    "category": "Truth"
+  },
+  {
+    "id": 33,
+    "affirmation": "I use my time wisely, for it is the number of motion in respect of before and after.",
+    "category": "Purpose"
+  },
+  {
+    "id": 34,
+    "affirmation": "I am a valuable member of the middle class, bringing stability to society.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 35,
+    "affirmation": "I deliberate well about what is good and advantageous for a flourishing life.",
+    "category": "Practical Wisdom"
+  },
+  {
+    "id": 36,
+    "affirmation": "I express my complete virtue through my actions.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 37,
+    "affirmation": "I am a good friend who wishes for the good of my friends for their own sake.",
+    "category": "Friendship"
+  },
+  {
+    "id": 38,
+    "affirmation": "I am governed by reason, which is free from passion.",
+    "category": "Logic & Reason"
+  },
+  {
+    "id": 39,
+    "affirmation": "I find the energy of my mind to be the essence of my life.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 40,
+    "affirmation": "I accept that one swallow does not make a spring; happiness requires a complete life.",
+    "category": "Happiness & The Good Life"
+  },
+  {
+    "id": 41,
+    "affirmation": "I act with liberality, giving the right amounts to the right people at the right time.",
+    "category": "Wealth & Economics"
+  },
+  {
+    "id": 42,
+    "affirmation": "I understand that the actual is prior to the potential.",
+    "category": "Metaphysics & Reality"
+  },
+  {
+    "id": 43,
+    "affirmation": "I live in accordance with the law, which is reason embodied.",
+    "category": "Justice & Law"
+  },
+  {
+    "id": 44,
+    "affirmation": "I cultivate the virtue of my soul through learning and contemplation.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 45,
+    "affirmation": "I see the beauty in the order and symmetry of the world.",
+    "category": "Science & Nature"
+  },
+  {
+    "id": 46,
+    "affirmation": "I am a citizen who knows how to both rule and be ruled.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 47,
+    "affirmation": "I endure and fear the right things, for the right purpose, in the right way.",
+    "category": "Courage & Fear"
+  },
+  {
+    "id": 48,
+    "affirmation": "I recognize that the unexamined life is not worth living.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 49,
+    "affirmation": "I am a link between the divine intellect and the physical world.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 50,
+    "affirmation": "I find my place in the great chain of being.",
+    "category": "Metaphysics & Reality"
+  },
+  {
+    "id": 51,
+    "affirmation": "I use rhetoric to highlight the truth, not to obscure it.",
+    "category": "Rhetoric & Persuasion"
+  },
+  {
+    "id": 52,
+    "affirmation": "I am a substance, defined by my essential qualities and actions.",
+    "category": "Metaphysics & Reality"
+  },
+  {
+    "id": 53,
+    "affirmation": "I cultivate the moral virtues that guide my interactions with others.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 54,
+    "affirmation": "I understand that to perceive is to be acted upon, and I learn from my experiences.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 55,
+    "affirmation": "I aim for the noble in all my actions and avoid the base.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 56,
+    "affirmation": "I recognize that the state exists for the sake of the good life.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 57,
+    "affirmation": "I am a being whose end is to actualize my potential.",
+    "category": "Purpose & Final Cause"
+  },
+  {
+    "id": 58,
+    "affirmation": "I find friendship to be a slow-ripening fruit that I nurture with care.",
+    "category": "Friendship"
+  },
+  {
+    "id": 59,
+    "affirmation": "I use my capacity for choice to steer my life toward eudaimonia.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 60,
+    "affirmation": "I see the divine as the final cause that inspires all motion.",
+    "category": "God & The Divine"
+  },
+  {
+    "id": 61,
+    "affirmation": "I am a political being who finds fulfillment in a just society.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 62,
+    "affirmation": "I cultivate the intellectual virtues of wisdom, understanding, and art.",
+    "category": "Education & Learning"
+  },
+  {
+    "id": 63,
+    "affirmation": "I understand that the worst form of inequality is to make unequal things equal.",
+    "category": "Justice & Law"
+  },
+  {
+    "id": 64,
+    "affirmation": "I find confidence in the power of my own reasoned judgment.",
+    "category": "Logic & Reason"
+  },
+  {
+    "id": 65,
+    "affirmation": "I accept that poverty is the parent of revolution and crime, and I support a just economy.",
+    "category": "Wealth & Economics"
+  },
+  {
+    "id": 66,
+    "affirmation": "I see the form in the matter, the purpose in the object.",
+    "category": "Metaphysics & Reality"
+  },
+  {
+    "id": 67,
+    "affirmation": "I am a natural being, and I strive to understand my nature.",
+    "category": "Science & Nature"
+  },
+  {
+    "id": 68,
+    "affirmation": "I act with equity, correcting the law when its generality fails in a particular case.",
+    "category": "Justice & Law"
+  },
+  {
+    "id": 69,
+    "affirmation": "I find the metaphor to be a mark of genius in my thinking and communication.",
+    "category": "Rhetoric & Persuasion"
+  },
+  {
+    "id": 70,
+    "affirmation": "I am a composite of body and soul, and I care for both.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 71,
+    "affirmation": "I understand that the universe is a system of ordered parts.",
+    "category": "Science & Nature"
+  },
+  {
+    "id": 72,
+    "affirmation": "I cultivate the virtue of magnanimity, claiming only the honors I deserve.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 73,
+    "affirmation": "I find pleasure in the activity of my soul in accordance with virtue.",
+    "category": "Happiness & The Good Life"
+  },
+  {
+    "id": 74,
+    "affirmation": "I am a free person who rules myself through reason.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 75,
+    "affirmation": "I see the tragic hero in myself, learning from my errors and frailties.",
+    "category": "Art & Poetry"
+  },
+  {
+    "id": 76,
+    "affirmation": "I use my memory to persist in my perceptions and build upon my knowledge.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 77,
+    "affirmation": "I am a teacher who leads others to understand first principles.",
+    "category": "Education & Learning"
+  },
+  {
+    "id": 78,
+    "affirmation": "I find the plot of my life to be its soul, and I strive to make it noble and complete.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 79,
+    "affirmation": "I act with temperance, enjoying pleasures as I ought.",
+    "category": "The Mean & Moderation"
+  },
+  {
+    "id": 80,
+    "affirmation": "I am a part of a household, the foundational unit of society.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 81,
+    "affirmation": "I understand that the mind, in a way, becomes all things.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 82,
+    "affirmation": "I cultivate a sense of wonder, for in all things of nature there is something marvelous.",
+    "category": "Science & Nature"
+  },
+  {
+    "id": 83,
+    "affirmation": "I find my identity in my actions and my character.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 84,
+    "affirmation": "I am a being whose function is to live in accordance with reason.",
+    "category": "Purpose & Final Cause"
+  },
+  {
+    "id": 85,
+    "affirmation": "I use dialectic to discuss difficulties and prove reputable opinions.",
+    "category": "Logic & Reason"
+  },
+  {
+    "id": 86,
+    "affirmation": "I find the city to be prior to the individual, and I serve my community.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 87,
+    "affirmation": "I act with good will towards others, which is the foundation of friendship.",
+    "category": "Friendship"
+  },
+  {
+    "id": 88,
+    "affirmation": "I am a student of politics, the master science of the good.",
+    "category": "Politics & Community"
+  },
+  {
+    "id": 89,
+    "affirmation": "I understand that the virtuous person is the measure and rule of what is fine.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 90,
+    "affirmation": "I find the ultimate value of life in awareness and the power of contemplation.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 91,
+    "affirmation": "I cultivate the virtue of wit, finding the mean in humor.",
+    "category": "The Mean & Moderation"
+  },
+  {
+    "id": 92,
+    "affirmation": "I am a rational soul, and my highest activity is contemplation.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 93,
+    "affirmation": "I use my knowledge of causes to have scientific understanding of the world.",
+    "category": "Science & Nature"
+  },
+  {
+    "id": 94,
+    "affirmation": "I find that the friend is another self.",
+    "category": "Friendship"
+  },
+  {
+    "id": 95,
+    "affirmation": "I act with shame when it is appropriate, feeling pain at the prospect of disgrace.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 96,
+    "affirmation": "I am a mortal being who strives to live in accordance with the divine element within me.",
+    "category": "The Soul & Psychology"
+  },
+  {
+    "id": 97,
+    "affirmation": "I understand that the end of law is not to abolish or restrain, but to preserve and enlarge freedom.",
+    "category": "Justice & Law"
+  },
+  {
+    "id": 98,
+    "affirmation": "I find that the best way of life is the life of virtue supported by external goods.",
+    "category": "The Good Life"
+  },
+  {
+    "id": 99,
+    "affirmation": "I cultivate the virtue of truthfulness about myself.",
+    "category": "Virtue & Character"
+  },
+  {
+    "id": 100,
+    "affirmation": "I am on a lifelong journey to actualize my potential and achieve Eudaimonia.",
+    "category": "The Good Life"
+  }
+]

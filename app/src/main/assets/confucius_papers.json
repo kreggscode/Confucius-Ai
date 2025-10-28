@@ -1,0 +1,343 @@
+[
+  {
+    "id": "organon_collection",
+    "title": "The Organon (The Instrument)",
+    "year": "347-322 BCE",
+    "location": "Lyceum, Athens",
+    "icon": "🛠️",
+    "summary": "Aristotle's six foundational works on logic that created the discipline and provided the tools for scientific reasoning for 2000 years.",
+    "context": "Aristotle developed his logical system as the essential 'instrument' (organon) for all philosophical and scientific inquiry. These works established the principles of valid reasoning that dominated Western thought until the 19th century.",
+    "works": [
+      {
+        "number": 1,
+        "title": "Categories",
+        "topic": "Classification of Being",
+        "abstract": "Identifies ten fundamental ways things can be predicated: Substance, Quantity, Quality, Relation, Place, Time, Position, State, Action, and Affection.",
+        "keyConcept": "Primary Substance",
+        "keyQuote": "\"Substance, in the truest and primary sense, is that which is neither predicable of a subject nor present in a subject.\"",
+        "impact": "• Foundation for ontology and metaphysics\n• Influenced medieval philosophy and linguistics\n• Basis for classification systems"
+      },
+      {
+        "number": 2,
+        "title": "On Interpretation",
+        "topic": "Language and Logic",
+        "abstract": "Analyzes propositions, truth values, and the relationship between language, thought, and reality.",
+        "keyConcept": "The Proposition",
+        "keyQuote": "\"To say of what is that it is not, or of what is not that it is, is false.\"",
+        "impact": "• Developed square of opposition\n• Addressed future contingents problem\n• Foundation for philosophy of language"
+      },
+      {
+        "number": 3,
+        "title": "Prior Analytics",
+        "topic": "Syllogistic Logic",
+        "abstract": "Presents the theory of the syllogism - the first formal system of deductive reasoning.",
+        "keyConcept": "The Syllogism",
+        "keyQuote": "\"A syllogism is discourse in which, certain things being stated, something other than what is stated follows of necessity.\"",
+        "impact": "• Invented formal logic\n• Dominated logic for 2000 years\n• Basis for scientific demonstration"
+      },
+      {
+        "number": 4,
+        "title": "Posterior Analytics",
+        "topic": "Scientific Knowledge",
+        "abstract": "Explains how we gain certain knowledge through demonstration from first principles.",
+        "keyConcept": "Scientific Demonstration",
+        "keyQuote": "\"We think we understand a thing when we know its cause.\"",
+        "impact": "• Model for scientific method\n• Inspired Euclidean geometry\n• Foundation for epistemology"
+      },
+      {
+        "number": 5,
+        "title": "Topics",
+        "topic": "Dialectical Reasoning",
+        "abstract": "Provides methods for argumentation based on generally accepted opinions rather than certain premises.",
+        "keyConcept": "Dialectic",
+        "keyQuote": "\"Dialectic is a process of criticism wherein lies the path to the principles of all inquiries.\"",
+        "impact": "• Art of philosophical debate\n• Foundation for rhetoric\n• Method for exploring difficult questions"
+      },
+      {
+        "number": 6,
+        "title": "On Sophistical Refutations",
+        "topic": "Fallacy Detection",
+        "abstract": "Classifies and analyzes logical fallacies used in deceptive arguments.",
+        "keyConcept": "Logical Fallacies",
+        "keyQuote": "\"Some arguments are dialectical and others sophistical.\"",
+        "impact": "• First systematic study of fallacies\n• Critical thinking tool\n• Protection against deceptive arguments"
+      }
+    ],
+    "remarkableFacts": [
+      "Created the entire discipline of formal logic",
+      "His system wasn't significantly improved until the 19th century",
+      "The syllogism remained the dominant form of logic for 2000 years",
+      "He developed this while teaching at his school, the Lyceum",
+      "His logic was essential for medieval scholastic philosophy",
+      "The Organon was the foundation of the medieval university curriculum"
+    ],
+    "whyRevolutionary": "Aristotle didn't just contribute to logic - he invented it. Before Aristotle, there was no systematic study of valid reasoning. He created:\n• The first formal system\n• The concept of variables in logic\n• Rules for valid inference\n• Methods for detecting fallacies\n• The foundation for all subsequent logic",
+    "legacy": "The Organon:\n• Created the field of logic\n• Provided tools for scientific reasoning\n• Dominated Western thought for millennia\n• Influenced mathematics, science, and philosophy\n• Still taught in logic courses today\n• Foundation for computer science and AI"
+  },
+  {
+    "id": "natural_sciences_corpus",
+    "title": "The Natural Sciences Corpus",
+    "year": "347-335 BCE",
+    "location": "Lyceum, Athens & Research Travels",
+    "icon": "🔬",
+    "summary": "Aristotle's massive research program investigating the natural world through observation, classification, and teleological explanation.",
+    "context": "Aristotle established the first research institute (the Lyceum) where he and his students systematically investigated all aspects of nature. They collected specimens, conducted dissections, and observed phenomena across the Greek world.",
+    "majorWorks": [
+      {
+        "title": "Physics",
+        "topic": "Principles of Nature",
+        "volumes": 8,
+        "abstract": "Investigates the fundamental principles of natural objects: matter, form, change, motion, time, and place.",
+        "keyConcept": "Four Causes",
+        "keyDiscovery": "Everything in nature has four causes: material, formal, efficient, and final",
+        "impact": "• Foundation of natural philosophy for 2000 years\n• Teleological view of nature\n• Rejection of atomism and vacuum"
+      },
+      {
+        "title": "On the Heavens",
+        "topic": "Cosmology",
+        "volumes": 4,
+        "abstract": "Describes the structure of the universe, celestial bodies, and the elements.",
+        "keyConcept": "Natural Motion",
+        "keyDiscovery": "Elements move toward natural places: earth (down), fire (up), air and water (intermediate)",
+        "impact": "• Geocentric cosmology\n• Quintessence (fifth element)\n• Finite universe theory"
+      },
+      {
+        "title": "On Generation and Corruption",
+        "topic": "Change and Matter",
+        "volumes": 2,
+        "abstract": "Analyzes substantial change, mixture, and the transformation of elements.",
+        "keyConcept": "Hylomorphism",
+        "keyDiscovery": "All physical objects are compounds of matter (hyle) and form (morphe)",
+        "impact": "• Theory of chemical change\n• Rejection of atomism\n• Basis for medieval alchemy"
+      },
+      {
+        "title": "Meteorology",
+        "topic": "Earth Sciences",
+        "volumes": 4,
+        "abstract": "Studies atmospheric phenomena, geology, oceans, and weather.",
+        "keyConcept": "Sublunary Realm",
+        "keyDiscovery": "Earthly phenomena operate differently from celestial realms",
+        "impact": "• First systematic meteorology\n• Theories of earthquakes, comets, rainbows\n• Influenced medieval earth sciences"
+      },
+      {
+        "title": "History of Animals",
+        "topic": "Zoology",
+        "volumes": 10,
+        "abstract": "Massive compilation of observations on animal anatomy, behavior, and classification.",
+        "keyConcept": "Empirical Investigation",
+        "keyDiscovery": "Systematic observation and classification of over 500 species",
+        "impact": "• Foundation of zoology\n• Comparative anatomy\n• Biological classification"
+      },
+      {
+        "title": "Parts of Animals",
+        "topic": "Anatomy and Function",
+        "volumes": 4,
+        "abstract": "Explains animal structures through their functions and purposes.",
+        "keyConcept": "Teleology",
+        "keyDiscovery": "\"Nature does nothing in vain\" - all parts serve functions",
+        "impact": "• Functional anatomy\n• Comparative method\n• Rejection of random evolution"
+      },
+      {
+        "title": "Generation of Animals",
+        "topic": "Reproduction",
+        "volumes": 5,
+        "abstract": "Studies animal reproduction, heredity, and embryonic development.",
+        "keyConcept": "Form and Matter in Reproduction",
+        "keyDiscovery": "Male provides form (semen), female provides matter (menstrual blood)",
+        "impact": "• Theory of reproduction for 2000 years\n• Embryology\n• Heredity theories"
+      }
+    ],
+    "researchMethods": [
+      "Systematic observation and data collection",
+      "Dissection of animals (human dissection was prohibited)",
+      "Collection of specimens from across the Mediterranean",
+      "Interviews with fishermen, hunters, and farmers",
+      "Critical evaluation of sources and reports",
+      "Classification by essential characteristics"
+    ],
+    "majorDiscoveries": [
+      "Whales are mammals, not fish",
+      "Some sharks give live birth",
+      "Octopuses can change color for camouflage",
+      "Chick embryos develop gradually (epigenesis)",
+      "Dolphins are air-breathing mammals",
+      "Bees communicate about food sources",
+      "Many accurate anatomical descriptions"
+    ],
+    "errorsAndLimitations": [
+      "Spontaneous generation of some creatures",
+      "Heart as seat of intelligence (not brain)",
+      "Female as 'mutilated male'",
+      "Geocentric universe",
+      "Natural slavery theory",
+      "Some fantastic creatures from traveler's tales"
+    ],
+    "whyGroundbreaking": "Aristotle established biology as a science:\n• First systematic biological research program\n• Empirical approach over pure speculation\n• Classification systems still influential\n• Functional analysis of structures\n• Massive data collection unprecedented in antiquity",
+    "legacy": "Aristotle's natural sciences:\n• Dominated biology until the Renaissance\n• Inspired medieval bestiaries and natural history\n• Foundation for taxonomy and comparative anatomy\n• Teleological thinking influenced biology until Darwin\n• Many observations confirmed by modern science\n• Model for empirical research programs"
+  },
+  {
+    "id": "metaphysics_foundation",
+    "title": "Metaphysics (First Philosophy)",
+    "year": "347-322 BCE",
+    "location": "Lyceum, Athens",
+    "icon": "💎",
+    "summary": "Aristotle's investigation into being as being, substance, causality, and the fundamental principles of reality - his most profound and difficult work.",
+    "context": "Aristotle called this work 'First Philosophy' - the study of the most fundamental aspects of reality. The title 'Metaphysics' (meaning 'after the Physics') was given by later editors who placed it after his physical works.",
+    "abstract": "Metaphysics studies existence itself - being qua being. It investigates substance, form, matter, potentiality, actuality, and the first causes of all things. The work culminates in the theory of the Unmoved Mover.",
+    "keyDoctrines": [
+      {
+        "doctrine": "The Science of Being",
+        "explanation": "Metaphysics studies what it means for anything to exist, not just particular kinds of beings",
+        "keyQuote": "\"There is a science which investigates being as being and the attributes which belong to this in virtue of its own nature.\""
+      },
+      {
+        "doctrine": "The Four Causes",
+        "explanation": "Complete understanding requires knowing: Material (what it's made of), Formal (its essence), Efficient (what made it), Final (its purpose)",
+        "keyQuote": "\"We do not have knowledge of a thing until we have grasped its 'why', that is, its cause.\""
+      },
+      {
+        "doctrine": "Substance Theory",
+        "explanation": "Primary substances are individual things (this man, this horse) that exist independently. All other categories depend on substance.",
+        "keyQuote": "\"Substance is that which is neither predicable of a subject nor present in a subject.\""
+      },
+      {
+        "doctrine": "Potentiality and Actuality",
+        "explanation": "Everything contains potentiality (what it can become) and actuality (what it currently is). Actuality is prior to potentiality.",
+        "keyQuote": "\"The actuality is the end, and it is for the sake of this that the potentiality is acquired.\""
+      },
+      {
+        "doctrine": "The Unmoved Mover",
+        "explanation": "There must be a first cause - eternal, immaterial, purely actual - that moves everything as a final cause by being an object of thought and desire.",
+        "keyQuote": "\"The final cause, then, produces motion as being loved, but all other things move by being moved.\""
+      }
+    ],
+    "critiqueOfPlato": "Aristotle systematically criticizes Plato's Theory of Forms:\n\n**Third Man Argument**: If Forms exist because particulars share qualities, there must be higher Forms for what Forms and particulars share, leading to infinite regress.\n\n**Separation Problem**: Forms separated from particulars cannot explain them.\n\n**Knowledge Problem**: How can we know separate Forms through sense experience?\n\nAristotle's solution: Forms exist IN particular things, not separately.",
+    "theUnmovedMover": {
+      "nature": "• Eternal and unchanging\n• Pure actuality (no potentiality)\n• Immaterial and indivisible\n• Self-thinking thought\n• The ultimate final cause",
+      "howItMoves": "Not by pushing or pulling, but as an object of desire and thought. All things strive toward this perfection.",
+      "influence": "• Foundation for medieval conceptions of God\n• Influenced Jewish, Christian, and Islamic theology\n• Inspired cosmological arguments for God's existence"
+    },
+    "famousBooks": [
+      {
+        "book": "Book I (Alpha)",
+        "content": "Survey of previous philosophers and their causes"
+      },
+      {
+        "book": "Book IV (Gamma)",
+        "content": "The science of being qua being and principle of non-contradiction"
+      },
+      {
+        "book": "Book VII-VIII (Zeta-Eta)",
+        "content": "The central books on substance - the heart of the work"
+      },
+      {
+        "book": "Book IX (Theta)",
+        "content": "Potentiality and actuality"
+      },
+      {
+        "book": "Book XII (Lambda)",
+        "content": "The Unmoved Mover and celestial movers"
+      }
+    ],
+    "interpretationChallenges": [
+      "The work seems disjointed - possibly compiled from different periods",
+      "Some books may be early, others late in Aristotle's development",
+      "The relationship between books is debated by scholars",
+      "The Unmoved Mover seems disconnected from earlier discussions",
+      "Multiple definitions of substance create tensions"
+    ],
+    "legacy": "The Metaphysics:\n• Foundation of Western metaphysics\n• Influenced medieval scholasticism profoundly\n• Inspired centuries of philosophical debate\n• Central to philosophy curriculum worldwide\n• Still actively studied and debated\n• Provided concepts and problems that shaped Western thought"
+  },
+  {
+    "id": "practical_philosophy_trilogy",
+    "title": "The Practical Philosophy Trilogy",
+    "year": "347-322 BCE",
+    "location": "Lyceum, Athens",
+    "icon": "🏛️",
+    "summary": "Aristotle's comprehensive system of practical philosophy covering ethics, politics, and economics - how humans should live individually and collectively.",
+    "context": "While Aristotle's theoretical philosophy studied what is, his practical philosophy studied what should be - how humans can achieve eudaimonia (flourishing) through virtuous living in political communities.",
+    "theTrilogy": [
+      {
+        "work": "Nicomachean Ethics",
+        "focus": "Individual Flourishing",
+        "volumes": 10,
+        "centralQuestion": "What is the good life for a human being?",
+        "answer": "Eudaimonia achieved through virtuous activity in accordance with reason",
+        "keyInnovations": [
+          "Doctrine of the Mean",
+          "Virtue as habit",
+          "Practical wisdom (phronesis)",
+          "Friendship theory",
+          "Contemplative ideal"
+        ]
+      },
+      {
+        "work": "Politics",
+        "focus": "Collective Flourishing",
+        "volumes": 8,
+        "centralQuestion": "What is the best political community?",
+        "answer": "A polis that enables citizens to live virtuous, flourishing lives",
+        "keyInnovations": [
+          "Man as political animal",
+          "Classification of constitutions",
+          "Mixed government theory",
+          "Middle class stability",
+          "Public education system"
+        ]
+      },
+      {
+        "work": "Economics",
+        "focus": "Household Management",
+        "volumes": 2,
+        "centralQuestion": "How should households be managed?",
+        "answer": "Through proper management of resources and relationships for the good life",
+        "keyInnovations": [
+          "Wealth acquisition vs management",
+          "Household as basic unit",
+          "Relationships: master-slave, husband-wife, parent-child",
+          "Critique of unlimited wealth-seeking"
+        ]
+      }
+    ],
+    "integration": "These three works form an integrated system:\n\n**Ethics → Politics → Economics**\n\nIndividual virtue requires the right political community, which depends on properly managed households. All aim at human flourishing.",
+    "revolutionaryIdeas": [
+      {
+        "idea": "Eudaimonia as Flourishing",
+        "explanation": "Not just pleasure or honor, but excellent activity of the rational soul over a complete life",
+        "impact": "Shifted focus from momentary pleasure to lifelong development"
+      },
+      {
+        "idea": "Virtue as Habit",
+        "explanation": "We become just by doing just acts - virtue requires practice and habituation",
+        "impact": "Emphasized character development through action"
+      },
+      {
+        "idea": "Political Animal",
+        "explanation": "Humans naturally belong to political communities where they achieve their potential",
+        "impact": "Founded political science and communitarian thought"
+      },
+      {
+        "idea": "Doctrine of the Mean",
+        "explanation": "Moral virtue lies between extremes of excess and deficiency",
+        "impact": "Provided framework for moral decision-making"
+      }
+    ],
+    "problematicAspects": [
+      "Defense of natural slavery",
+      "Subordination of women",
+      "Exclusion of laborers from citizenship",
+      "Elitist conception of the good life",
+      "Justification of inequality"
+    ],
+    "modernRelevance": [
+      "Virtue ethics revival in moral philosophy",
+      "Communitarian critiques of liberalism",
+      "Character education movements",
+      "Work on practical wisdom and judgment",
+      "Theories of human flourishing",
+      "Deliberative democracy theories"
+    ],
+    "educationalVision": "Aristotle's practical philosophy was taught to:\n• Cultivate virtuous character\n• Develop practical wisdom\n• Prepare for citizenship\n• Enable flourishing lives\n• Create good political leaders\n\nHis Lyceum was both a research institute and a school for statesmen.",
+    "enduringInfluence": "The Practical Philosophy Trilogy:\n• Foundation for Western ethical and political thought\n• Influenced Roman statesmen like Cicero\n• Central to medieval Christian ethics (Aquinas)\n• Inspired Enlightenment political theory\n• Basis for modern virtue ethics\n• Still taught in philosophy, political science, and ethics courses worldwide"
+  }
+]

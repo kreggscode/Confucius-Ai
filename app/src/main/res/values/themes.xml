@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Confucius" parent="android:Theme.Material.NoActionBar">
+        <!-- Removed deprecated statusBarColor and navigationBarColor -->
+        <!-- These are now handled by enableEdgeToEdge() in Activity -->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+        <!-- Removed deprecated windowLayoutInDisplayCutoutMode -->
+        <!-- Edge-to-edge is now handled by enableEdgeToEdge() in Activity -->
+    </style>
+</resources>
