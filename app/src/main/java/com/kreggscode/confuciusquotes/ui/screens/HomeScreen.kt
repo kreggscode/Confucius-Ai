@@ -39,7 +39,9 @@ fun HomeScreen(
     onCategoryClick: (String) -> Unit,
     onQuoteClick: (Int) -> Unit,
     onAboutClick: () -> Unit,
-    onWorksClick: () -> Unit
+    onWorksClick: () -> Unit,
+    onAffirmationsClick: () -> Unit,
+    onChatClick: () -> Unit
 ) {
     val categories by viewModel.categories.collectAsState()
     val allQuotes by viewModel.allQuotes.collectAsState()
@@ -98,17 +100,35 @@ fun HomeScreen(
                     EnhancedFeatureCard(
                         title = "About Confucius",
                         icon = Icons.Default.Person,
-                        gradient = listOf(Color(0xFF2E7D32), Color(0xFF1B5E20)),  // Confucius green
+                        gradient = listOf(Color(0xFFFFD700), Color(0xFFB8860B)),  // Imperial gold
                         onClick = onAboutClick
                     )
                 }
                 
                 item {
                     EnhancedFeatureCard(
-                        title = "Works & Papers",
+                        title = "Affirmations",
+                        icon = Icons.Default.FavoriteBorder,
+                        gradient = listOf(Color(0xFFE34234), Color(0xFFDC143C)),  // Cinnabar red
+                        onClick = onAffirmationsClick
+                    )
+                }
+                
+                item {
+                    EnhancedFeatureCard(
+                        title = "Works",
                         icon = Icons.Default.MenuBook,
-                        gradient = listOf(Color(0xFF6A1B9A), Color(0xFF4A148C)),  // Confucius purple
+                        gradient = listOf(Color(0xFF00A86B), Color(0xFF2E8B57)),  // Jade green
                         onClick = onWorksClick
+                    )
+                }
+                
+                item {
+                    EnhancedFeatureCard(
+                        title = "Chat",
+                        icon = Icons.Default.Chat,
+                        gradient = listOf(Color(0xFF4B0082), Color(0xFF483D8B)),  // Scholar indigo
+                        onClick = onChatClick
                     )
                 }
                 
@@ -264,37 +284,37 @@ private fun getConfuciusGreeting(): String {
 @Composable
 private fun getConfuciusCategoryGradient(categoryName: String): List<Color> {
     return when (categoryName.lowercase()) {
-        // Confucius-themed earthy and philosophical gradients
-        "wisdom" -> listOf(Color(0xFF2E7D32), Color(0xFF1B5E20))  // Deep Green
-        "freedom" -> listOf(Color(0xFF5E35B1), Color(0xFF4527A0))  // Royal Purple
-        "politics" -> listOf(Color(0xFF6A1B9A), Color(0xFF4A148C))  // Deep Purple
-        "money" -> listOf(Color(0xFFD84315), Color(0xFFBF360C))  // Burnt Orange
-        "knowledge" -> listOf(Color(0xFF1565C0), Color(0xFF0D47A1))  // Deep Blue
-        "friendship" -> listOf(Color(0xFFE65100), Color(0xFFBF360C))  // Warm Orange
-        "courage" -> listOf(Color(0xFFC62828), Color(0xFFB71C1C))  // Deep Red
-        "freedom of speech" -> listOf(Color(0xFF00838F), Color(0xFF006064))  // Teal
-        "war & peace" -> listOf(Color(0xFF424242), Color(0xFF212121))  // Dark Gray
-        "history" -> listOf(Color(0xFF4E342E), Color(0xFF3E2723))  // Brown
-        "education" -> listOf(Color(0xFF7B1FA2), Color(0xFF6A1B9A))  // Purple
-        "justice" -> listOf(Color(0xFF01579B), Color(0xFF004D40))  // Deep Blue-Teal
-        "religion" -> listOf(Color(0xFF880E4F), Color(0xFF4A148C))  // Magenta-Purple
-        "time" -> listOf(Color(0xFF00695C), Color(0xFF004D40))  // Dark Teal
-        "truth" -> listOf(Color(0xFFF57C00), Color(0xFFE65100))  // Amber-Orange
-        "happiness" -> listOf(Color(0xFFFFB300), Color(0xFFFF8F00))  // Golden Yellow
-        "philosophy" -> listOf(Color(0xFF283593), Color(0xFF1A237E))  // Indigo
-        "death" -> listOf(Color(0xFF37474F), Color(0xFF263238))  // Blue Gray
-        "tolerance" -> listOf(Color(0xFF0097A7), Color(0xFF00838F))  // Cyan
-        "love" -> listOf(Color(0xFFAD1457), Color(0xFF880E4F))  // Pink
-        "work" -> listOf(Color(0xFFEF6C00), Color(0xFFE65100))  // Orange
-        "science" -> listOf(Color(0xFF0277BD), Color(0xFF01579B))  // Light Blue
-        "government" -> listOf(Color(0xFF5E35B1), Color(0xFF4527A0))  // Purple
-        "morality" -> listOf(Color(0xFF558B2F), Color(0xFF33691E))  // Olive Green
-        "society" -> listOf(Color(0xFFD32F2F), Color(0xFFC62828))  // Red
-        "women" -> listOf(Color(0xFFC2185B), Color(0xFFAD1457))  // Pink
-        "men" -> listOf(Color(0xFF1976D2), Color(0xFF1565C0))  // Blue
-        "humanity" -> listOf(Color(0xFF8E24AA), Color(0xFF7B1FA2))  // Purple
-        "success" -> listOf(Color(0xFF388E3C), Color(0xFF2E7D32))  // Green
-        "art" -> listOf(Color(0xFF7B1FA2), Color(0xFF6A1B9A))  // Purple
-        else -> listOf(Color(0xFF2E7D32), Color(0xFF1B5E20))  // Default Confucius green
+        // Confucius-themed Chinese color gradients
+        "wisdom" -> listOf(Color(0xFFFFD700), Color(0xFFB8860B))  // Imperial gold
+        "freedom" -> listOf(Color(0xFF00A86B), Color(0xFF2E8B57))  // Jade green
+        "politics" -> listOf(Color(0xFFE34234), Color(0xFFDC143C))  // Cinnabar red
+        "money" -> listOf(Color(0xFFD4AF37), Color(0xFFB8860B))  // Ancient gold
+        "knowledge" -> listOf(Color(0xFF4B0082), Color(0xFF483D8B))  // Scholar indigo
+        "friendship" -> listOf(Color(0xFFFF8C00), Color(0xFFFF7F50))  // Warm persimmon
+        "courage" -> listOf(Color(0xFFDC143C), Color(0xFFB22222))  // Chinese red
+        "freedom of speech" -> listOf(Color(0xFF6B8E23), Color(0xFF556B2F))  // Bamboo
+        "war & peace" -> listOf(Color(0xFF8B4513), Color(0xFF654321))  // Sandalwood
+        "history" -> listOf(Color(0xFF8B7355), Color(0xFF6B5D4F))  // Ancient bronze
+        "education" -> listOf(Color(0xFFFFD700), Color(0xFFDAA520))  // Scholar gold
+        "justice" -> listOf(Color(0xFF00A86B), Color(0xFF008B5B))  // Jade justice
+        "religion" -> listOf(Color(0xFF9B59B6), Color(0xFF8B4789))  // Silk purple
+        "time" -> listOf(Color(0xFF708090), Color(0xFF556B7F))  // Stone gray
+        "truth" -> listOf(Color(0xFFFFD700), Color(0xFFDAA520))  // Golden truth
+        "happiness" -> listOf(Color(0xFFFF6B6B), Color(0xFFFF4757))  // Joyful red
+        "philosophy" -> listOf(Color(0xFF8B4513), Color(0xFF654321))  // Wisdom brown
+        "death" -> listOf(Color(0xFF2F4F4F), Color(0xFF1C2833))  // Deep ink
+        "tolerance" -> listOf(Color(0xFF88B04B), Color(0xFF6B8E23))  // Tea green
+        "love" -> listOf(Color(0xFFFF69B4), Color(0xFFFF1493))  // Lotus pink
+        "work" -> listOf(Color(0xFFCD7F32), Color(0xFFB8860B))  // Bronze
+        "science" -> listOf(Color(0xFF4682B4), Color(0xFF4169E1))  // Sky blue
+        "government" -> listOf(Color(0xFFE34234), Color(0xFFDC143C))  // Imperial red
+        "morality" -> listOf(Color(0xFF6B8E23), Color(0xFF556B2F))  // Virtue green
+        "society" -> listOf(Color(0xFFFF6347), Color(0xFFFF4500))  // Harmony red
+        "women" -> listOf(Color(0xFFFFB6C1), Color(0xFFFF69B4))  // Peony pink
+        "men" -> listOf(Color(0xFF4682B4), Color(0xFF4169E1))  // Azure blue
+        "humanity" -> listOf(Color(0xFFFFD700), Color(0xFFDAA520))  // Benevolence gold
+        "success" -> listOf(Color(0xFF00A86B), Color(0xFF2E8B57))  // Prosperity jade
+        "art" -> listOf(Color(0xFF9B59B6), Color(0xFF8B4789))  // Artistic silk
+        else -> listOf(Color(0xFFFFD700), Color(0xFFB8860B))  // Default imperial gold
     }
 }

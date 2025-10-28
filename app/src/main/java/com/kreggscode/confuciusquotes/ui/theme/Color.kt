@@ -2,37 +2,37 @@ package com.kreggscode.confuciusquotes.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Confucius-inspired Light Mode Colors - Cosmic & Scientific
-val LightBackground = Color(0xFFF0F4F8)  // Soft cosmic gray-blue
-val LightSurface = Color(0xFFFFFFFF)
-val LightPrimary = Color(0xFF1E3A8A)  // Deep space blue
-val LightSecondary = Color(0xFF7C3AED)  // Cosmic purple
-val LightTertiary = Color(0xFFEC4899)  // Nebula pink
-val LightOnBackground = Color(0xFF0F172A)  // Deep slate
-val LightOnSurface = Color(0xFF1E293B)
-val LightCardBackground = Color(0xFFFAFBFC)
-val LightBorder = Color(0xFFE2E8F0)
+// Confucius-inspired Light Mode Colors - Traditional Chinese Aesthetics
+val LightBackground = Color(0xFFFAF8F3)  // Warm rice paper
+val LightSurface = Color(0xFFFFFEFA)  // Silk white
+val LightPrimary = Color(0xFF8B4513)  // Sandalwood brown
+val LightSecondary = Color(0xFFB8860B)  // Ancient gold
+val LightTertiary = Color(0xFFDC143C)  // Cinnabar red
+val LightOnBackground = Color(0xFF2C1810)  // Ink black
+val LightOnSurface = Color(0xFF3E2723)  // Dark wood
+val LightCardBackground = Color(0xFFFFF8E7)  // Bamboo paper
+val LightBorder = Color(0xFFD4C5B9)  // Tea stain
 
-// Confucius-inspired Dark Mode Colors - Deep Space Theme
-val DarkBackground = Color(0xFF0A0E1A)  // Deep space black-blue
-val DarkSurface = Color(0xFF1A1F2E)  // Dark cosmic surface
-val DarkPrimary = Color(0xFF60A5FA)  // Bright cosmic blue
-val DarkSecondary = Color(0xFFA78BFA)  // Vibrant purple
-val DarkTertiary = Color(0xFFF472B6)  // Bright nebula pink
-val DarkOnBackground = Color(0xFFF8FAFC)
-val DarkOnSurface = Color(0xFFE2E8F0)
-val DarkCardBackground = Color(0xFF1E2433)  // Elevated dark surface
-val DarkBorder = Color(0xFF2D3548)
+// Confucius-inspired Dark Mode Colors - Night Temple Theme
+val DarkBackground = Color(0xFF1A0F0A)  // Deep temple night
+val DarkSurface = Color(0xFF2C1810)  // Dark wood lacquer
+val DarkPrimary = Color(0xFFFFD700)  // Imperial gold
+val DarkSecondary = Color(0xFF00A86B)  // Jade green
+val DarkTertiary = Color(0xFFE34234)  // Chinese red
+val DarkOnBackground = Color(0xFFFFF8E7)  // Lantern light
+val DarkOnSurface = Color(0xFFF5DEB3)  // Warm parchment
+val DarkCardBackground = Color(0xFF3E2723)  // Rosewood
+val DarkBorder = Color(0xFF5D4037)  // Bronze
 
-// Confucius Accent Colors - Scientific & Cosmic
-val AccentGold = Color(0xFFFBBF24)  // Confucius's golden equations
-val AccentCyan = Color(0xFF06B6D4)  // Quantum cyan
-val AccentEmerald = Color(0xFF10B981)  // Scientific green
-val AccentViolet = Color(0xFF8B5CF6)  // Cosmic violet
-val AccentRose = Color(0xFFF43F5E)  // Energy rose
-val AccentAmber = Color(0xFFF59E0B)  // Warm amber
-val AccentSky = Color(0xFF0EA5E9)  // Sky blue
-val AccentIndigo = Color(0xFF6366F1)  // Deep indigo
+// Confucius Accent Colors - Traditional Chinese Palette
+val AccentGold = Color(0xFFFFD700)  // Imperial gold
+val AccentJade = Color(0xFF00A86B)  // Sacred jade
+val AccentCinnabar = Color(0xFFE34234)  // Vermillion red
+val AccentIndigo = Color(0xFF4B0082)  // Scholar's indigo
+val AccentBamboo = Color(0xFF6B8E23)  // Bamboo green
+val AccentLotus = Color(0xFFF8F8FF)  // Lotus white
+val AccentTea = Color(0xFF88B04B)  // Tea green
+val AccentSilk = Color(0xFF9B59B6)  // Silk purple
 
 // Enhanced Glassmorphism overlay colors
 val GlassLight = Color(0xE6FFFFFF)  // More opaque for better glass effect

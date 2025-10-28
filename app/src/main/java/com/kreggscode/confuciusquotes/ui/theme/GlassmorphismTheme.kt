@@ -39,36 +39,43 @@ object PremiumColors {
     val NebulaMagenta = Color(0xFFA855F7)
     val QuantumGold = Color(0xFFFBBF24)
     
-    // Gradient combinations
-    val GalaxyGradient = listOf(
-        Color(0xFF667EEA),
-        Color(0xFF764BA2),
-        Color(0xFFF093FB)
+    // Traditional Chinese Gradient Combinations
+    val ImperialGradient = listOf(
+        Color(0xFFFFD700),  // Imperial gold
+        Color(0xFFE34234),  // Cinnabar red
+        Color(0xFFFFD700)   // Imperial gold
     )
     
-    val AuroraGradient = listOf(
-        Color(0xFF00D2FF),
-        Color(0xFF3A7BD5),
-        Color(0xFF00D2FF)
+    val JadeGradient = listOf(
+        Color(0xFF00A86B),  // Jade green
+        Color(0xFF6B8E23),  // Bamboo
+        Color(0xFF00A86B)   // Jade green
     )
     
-    val SunsetGradient = listOf(
-        Color(0xFFFA709A),
-        Color(0xFFFEE140),
-        Color(0xFFFA709A)
+    val SunriseGradient = listOf(
+        Color(0xFFFF6B6B),  // Dawn red
+        Color(0xFFFFD700),  // Golden sun
+        Color(0xFFFF6B6B)   // Dawn red
     )
     
-    val NorthernLights = listOf(
-        Color(0xFF43E97B),
-        Color(0xFF38F9D7),
-        Color(0xFF4FACFE)
+    val TeaGradient = listOf(
+        Color(0xFF88B04B),  // Tea green
+        Color(0xFF6B8E23),  // Bamboo
+        Color(0xFF556B2F)   // Dark olive
     )
     
-    val CosmicDust = listOf(
-        Color(0xFF667EEA).copy(alpha = 0.3f),
-        Color(0xFF764BA2).copy(alpha = 0.2f),
-        Color(0xFFF093FB).copy(alpha = 0.1f)
+    val SilkGradient = listOf(
+        Color(0xFF9B59B6).copy(alpha = 0.3f),  // Silk purple
+        Color(0xFFFFD700).copy(alpha = 0.2f),  // Gold thread
+        Color(0xFF00A86B).copy(alpha = 0.1f)   // Jade accent
     )
+    
+    // Legacy gradient names (for backward compatibility)
+    val GalaxyGradient = ImperialGradient
+    val AuroraGradient = JadeGradient
+    val SunsetGradient = SunriseGradient
+    val NorthernLights = TeaGradient
+    val CosmicDust = SilkGradient
     
     // Confucius-inspired Chinese philosophical colors
     val JadeGreen = Color(0xFF00A86B)        // Sacred jade
