@@ -94,7 +94,10 @@ class ChatViewModel : ViewModel() {
                 val response = apiService.chat(request)
                 
                 // Extract response text
-                val aiResponseText = response.choices.firstOrNull()?.message?.content
+                val aiResponseText = response.choices
+                    ?.firstOrNull()
+                    ?.message
+                    ?.content
                     ?: "I apologize, but I seem to have lost my train of thought. Could you rephrase your question?"
                 
                 // Add AI response

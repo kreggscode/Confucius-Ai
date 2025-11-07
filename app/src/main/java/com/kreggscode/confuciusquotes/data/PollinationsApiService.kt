@@ -38,7 +38,7 @@ data class PollinationsChoice(
 
 data class PollinationsResponse(
     val id: String?,
-    val choices: List<PollinationsChoice>,
+    val choices: List<PollinationsChoice>? = null,
     val created: Long?,
     val model: String?,
     @SerializedName("system_fingerprint")

@@ -1,6 +1,7 @@
 package com.kreggscode.confuciusquotes.ui.screens
 
 import androidx.compose.animation.core.*
+import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
@@ -14,20 +15,20 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.draw.blur
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.lerp
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.compose.ui.draw.blur
-import androidx.compose.ui.draw.shadow
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.systemBars
 import androidx.compose.foundation.layout.windowInsetsPadding
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.ui.geometry.Offset
 import com.kreggscode.confuciusquotes.model.Category
-import com.kreggscode.confuciusquotes.ui.components.GlassCard
-import com.kreggscode.confuciusquotes.ui.components.MorphismCard
 import com.kreggscode.confuciusquotes.ui.components.GlassmorphicHeader
 import com.kreggscode.confuciusquotes.viewmodel.QuoteViewModel
 import java.util.Calendar
@@ -48,19 +49,7 @@ fun HomeScreen(
     val isLoading by viewModel.isLoading.collectAsState()
     
     // Edge-to-edge design without Scaffold for full control
-    Box(
-        modifier = Modifier
-            .fillMaxSize()
-            .background(
-                brush = Brush.verticalGradient(
-                    colors = listOf(
-                        Color(0xFF1A1A2E),  // Deep navy - Confucius theme
-                        Color(0xFF16213E),  // Darker blue
-                        Color(0xFF0F3460)   // Rich blue
-                    )
-                )
-            )
-    ) {
+    AnimatedHomeBackground {
         if (isLoading) {
             Box(
                 modifier = Modifier.fillMaxSize(),
@@ -152,50 +141,102 @@ private fun EnhancedFeatureCard(
     gradient: List<Color>,
     onClick: () -> Unit
 ) {
+    val primary = gradient.firstOrNull() ?: MaterialTheme.colorScheme.primary
+    val secondary = gradient.lastOrNull() ?: MaterialTheme.colorScheme.secondary
+    val shimmer by rememberInfiniteTransition().animateFloat(
+        initialValue = -1f,
+        targetValue = 1f,
+        animationSpec = infiniteRepeatable(
+            animation = tween(durationMillis = 4500, easing = LinearEasing),
+            repeatMode = RepeatMode.Reverse
+        )
+    )
+
     Card(
         onClick = onClick,
         modifier = Modifier
             .fillMaxWidth()
-            .height(120.dp)
-            .shadow(
-                elevation = 12.dp,
-                shape = RoundedCornerShape(24.dp),
-                ambientColor = gradient[0].copy(alpha = 0.3f)
-            ),
-        shape = RoundedCornerShape(24.dp),
-        colors = CardDefaults.cardColors(containerColor = Color.Transparent)
+            .height(140.dp),
+        shape = RoundedCornerShape(28.dp),
+        colors = CardDefaults.cardColors(containerColor = Color.Transparent),
+        border = BorderStroke(1.dp, Color.White.copy(alpha = 0.08f))
     ) {
         Box(
             modifier = Modifier
                 .fillMaxSize()
+                .clip(RoundedCornerShape(28.dp))
                 .background(
                     brush = Brush.linearGradient(
-                        colors = gradient + gradient[1].copy(alpha = 0.8f)
+                        colors = listOf(
+                            primary.copy(alpha = 0.95f),
+                            secondary.copy(alpha = 0.9f)
+                        )
                     )
                 )
         ) {
+            Box(
+                modifier = Modifier
+                    .matchParentSize()
+                    .background(Color.White.copy(alpha = 0.08f))
+                    .blur(40.dp)
+            )
+
+            Box(
+                modifier = Modifier
+                    .matchParentSize()
+                    .background(
+                        brush = Brush.linearGradient(
+                            colors = listOf(
+                                Color.White.copy(alpha = 0.18f),
+                                Color.Transparent,
+                                Color.White.copy(alpha = 0.16f)
+                            ),
+                            start = Offset.Zero,
+                            end = Offset.Infinite
+                        ),
+                        alpha = (shimmer + 1f) / 6f + 0.05f
+                    )
+            )
+
             Column(
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(20.dp),
-                verticalArrangement = Arrangement.Center,
-                horizontalAlignment = Alignment.CenterHorizontally
+                    .padding(22.dp),
+                verticalArrangement = Arrangement.SpaceBetween,
+                horizontalAlignment = Alignment.Start
             ) {
-                Icon(
-                    imageVector = icon,
-                    contentDescription = null,
-                    tint = Color.White,
-                    modifier = Modifier.size(40.dp)
-                )
-                Spacer(modifier = Modifier.height(12.dp))
-                Text(
-                    text = title,
-                    style = MaterialTheme.typography.titleMedium,
-                    fontWeight = FontWeight.Bold,
-                    color = Color.White,
-                    textAlign = TextAlign.Center,
-                    fontSize = 16.sp
-                )
+                Box(
+                    modifier = Modifier
+                        .size(56.dp)
+                        .background(Color.White.copy(alpha = 0.18f), CircleShape),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Icon(
+                        imageVector = icon,
+                        contentDescription = null,
+                        tint = Color.White,
+                        modifier = Modifier.size(28.dp)
+                    )
+                }
+
+                Column(
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Text(
+                        text = title,
+                        style = MaterialTheme.typography.titleMedium,
+                        fontWeight = FontWeight.Bold,
+                        color = Color.White,
+                        fontSize = 18.sp
+                    )
+                    Spacer(modifier = Modifier.height(4.dp))
+                    Text(
+                        text = getFeatureTagline(title),
+                        style = MaterialTheme.typography.bodyMedium,
+                        color = Color.White.copy(alpha = 0.85f),
+                        fontSize = 14.sp
+                    )
+                }
             }
         }
     }
@@ -209,41 +250,61 @@ private fun EnhancedCategoryCard(
 ) {
     val gradientColors = getConfuciusCategoryGradient(category.name)
     
+    val primary = gradientColors.firstOrNull() ?: MaterialTheme.colorScheme.primary
+    val secondary = gradientColors.lastOrNull() ?: MaterialTheme.colorScheme.secondary
+
     Card(
         onClick = onClick,
         modifier = Modifier
             .fillMaxWidth()
-            .height(160.dp)
-            .shadow(
-                elevation = 8.dp,
-                shape = RoundedCornerShape(24.dp),
-                ambientColor = gradientColors[0].copy(alpha = 0.2f)
-            ),
-        shape = RoundedCornerShape(24.dp),
-        colors = CardDefaults.cardColors(containerColor = Color.Transparent)
+            .height(175.dp),
+        shape = RoundedCornerShape(28.dp),
+        colors = CardDefaults.cardColors(containerColor = Color.Transparent),
+        border = BorderStroke(1.dp, Color.White.copy(alpha = 0.06f))
     ) {
         Box(
             modifier = Modifier
                 .fillMaxSize()
                 .background(
                     brush = Brush.linearGradient(
-                        colors = gradientColors,
-                        start = androidx.compose.ui.geometry.Offset(0f, 0f),
-                        end = androidx.compose.ui.geometry.Offset(1000f, 1000f)
+                        colors = listOf(
+                            primary.copy(alpha = 0.92f),
+                            secondary.copy(alpha = 0.88f)
+                        )
                     )
                 )
-                .padding(20.dp)
+                .clip(RoundedCornerShape(28.dp))
         ) {
+            Box(
+                modifier = Modifier
+                    .matchParentSize()
+                    .background(Color.Black.copy(alpha = 0.15f))
+            )
+
+            Box(
+                modifier = Modifier
+                    .size(110.dp)
+                    .offset(x = 140.dp, y = (-30).dp)
+                    .background(
+                        brush = Brush.radialGradient(
+                            colors = listOf(Color.White.copy(alpha = 0.28f), Color.Transparent)
+                        ),
+                        shape = CircleShape
+                    )
+            )
+
             Column(
-                modifier = Modifier.fillMaxSize(),
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(22.dp),
                 verticalArrangement = Arrangement.SpaceBetween
             ) {
                 Text(
                     text = category.icon,
-                    fontSize = 56.sp,
+                    fontSize = 54.sp,
                     modifier = Modifier.align(Alignment.Start)
                 )
-                
+
                 Column(
                     modifier = Modifier.fillMaxWidth()
                 ) {
@@ -252,15 +313,21 @@ private fun EnhancedCategoryCard(
                         style = MaterialTheme.typography.titleLarge,
                         fontWeight = FontWeight.ExtraBold,
                         color = Color.White,
-                        fontSize = 22.sp
+                        fontSize = 23.sp
                     )
                     Spacer(modifier = Modifier.height(6.dp))
                     Text(
                         text = "${category.quoteCount} insights",
                         style = MaterialTheme.typography.bodyMedium,
-                        color = Color.White.copy(alpha = 0.95f),
+                        color = Color.White.copy(alpha = 0.85f),
                         fontSize = 14.sp,
                         fontWeight = FontWeight.Medium
+                    )
+                    Spacer(modifier = Modifier.height(4.dp))
+                    Text(
+                        text = "Tap to explore wisdom in this theme",
+                        style = MaterialTheme.typography.bodySmall,
+                        color = Color.White.copy(alpha = 0.74f)
                     )
                 }
             }
@@ -317,4 +384,84 @@ private fun getConfuciusCategoryGradient(categoryName: String): List<Color> {
         "art" -> listOf(Color(0xFF9B59B6), Color(0xFF8B4789))  // Artistic silk
         else -> listOf(Color(0xFFFFD700), Color(0xFFB8860B))  // Default imperial gold
     }
+}
+
+@Composable
+private fun AnimatedHomeBackground(
+    modifier: Modifier = Modifier,
+    content: @Composable () -> Unit
+) {
+    val basePalette = listOf(
+        Color(0xFF0D1B2A),
+        Color(0xFF1B263B),
+        Color(0xFF415A77)
+    )
+    val accentPalette = listOf(
+        Color(0xFF261C2C),
+        Color(0xFF572D6C),
+        Color(0xFFF29F05)
+    )
+    val transition = rememberInfiniteTransition()
+    val progress by transition.animateFloat(
+        initialValue = 0f,
+        targetValue = 1f,
+        animationSpec = infiniteRepeatable(
+            animation = tween(durationMillis = 9000, easing = FastOutSlowInEasing),
+            repeatMode = RepeatMode.Reverse
+        )
+    )
+
+    val animatedColors = basePalette.indices.map { index ->
+        lerp(basePalette[index], accentPalette[index], progress)
+    }
+
+    Box(modifier = modifier.fillMaxSize()) {
+        Box(
+            modifier = Modifier
+                .matchParentSize()
+                .background(
+                    brush = Brush.linearGradient(colors = animatedColors)
+                )
+        )
+
+        Canvas(modifier = Modifier.matchParentSize()) {
+            drawCircle(
+                brush = Brush.radialGradient(
+                    colors = listOf(Color.White.copy(alpha = 0.12f), Color.Transparent)
+                ),
+                radius = size.minDimension * 0.8f,
+                center = Offset(
+                    x = size.width * (0.25f + progress * 0.3f),
+                    y = size.height * 0.15f
+                )
+            )
+
+            drawCircle(
+                brush = Brush.radialGradient(
+                    colors = listOf(Color(0xFFF4D35E).copy(alpha = 0.1f), Color.Transparent)
+                ),
+                radius = size.minDimension,
+                center = Offset(
+                    x = size.width * (0.85f - progress * 0.35f),
+                    y = size.height * 0.85f
+                )
+            )
+        }
+
+        Box(
+            modifier = Modifier
+                .matchParentSize()
+                .background(Color.Black.copy(alpha = 0.12f))
+        )
+
+        content()
+    }
+}
+
+private fun getFeatureTagline(title: String): String = when (title.lowercase()) {
+    "about confucius" -> "Follow the path of the Master"
+    "affirmations" -> "Center your day with mindful words"
+    "works" -> "Study the classic teachings in depth"
+    "chat" -> "Converse with a sage in real time"
+    else -> "Discover timeless guidance"
 }
